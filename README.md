@@ -32,32 +32,70 @@
 ```text
 geek-quote-api/
 ├── Cargo.toml                  # Rust 依赖与工程配置
-├── src/                        # Rust (Axum) 后端核心源码
-│   ├── main.rs                 # 服务启动、路由挂载、静态资源托管
-│   ├── db.rs                   # SQLite WAL 模式数据库操作与种子数据热同步
-│   ├── models.rs               # 强类型数据模型与入参出参结构
+├── src/                        # Rust (Axum) 后端核心源码 (极简、高性能)
+│   ├── main.rs                 # 智能路径探测、服务启动、路由挂载
+│   ├── db.rs                   # SQLite WAL 模式数据库操作与高速并发读写
+│   ├── models.rs               # 强类型数据模型与出入参结构
 │   └── routes.rs               # RESTful API 路由处理函数
-├── frontend/                   # 现代化 TypeScript 前端工程
-│   ├── package.json
-│   ├── vite.config.ts          # Vite 开发代理与打包构建配置
-│   ├── tsconfig.json
-│   ├── index.html
-│   └── src/
-│       ├── types.ts            # 严格类型定义
-│       ├── api.ts              # 强类型 API 客户端
-│       ├── main.ts             # 双语卡片渲染、全局快捷键、检索与调试器
-│       └── style.css           # 极简科学暗色终端美学设计
-├── data/                       # 数据资产库
-│   ├── raw_sources/            # Unix fortune、开源 Geek 梗与前沿 AI 语料源
-│   ├── quotes.json             # 经精确指纹与 2-gram 包含度去重合并的数据
-│   ├── quotes_bilingual.json   # 560+ 条高阶中英双语对照完整数据库
-│   └── geek_quotes.db          # SQLite 运行时数据库 (WAL 模式)
-└── scripts/                    # 运维与数据流水线
-    ├── expand_corpus.js        # 自动化语料清洗、正则过滤与四大学科规则打标
-    ├── build_expansion_pool.js # 语料池组装、Jaccard 模糊查重与配额平衡器
-    ├── batch_translate_xml.js  # 本地 LLM XML 结构化批量双语互译引擎 (支持实时断点续传与 RPM 限流)
-    └── deduplicate.js          # 文本归一化与精确/模糊去重工具
+├── portable/                   # 📦 开箱即用便携绿色包 (零环境依赖)
+│   ├── geek-quote-api.exe      # 预编译原生可执行程序
+│   ├── geek_quotes.db          # 直接内置的 560 条全量双语 SQLite 数据库
+│   ├── dist/                   # 编译就绪的前端 Web 交互面板
+│   ├── start.bat               # Windows 一键双击运行脚本
+│   └── README.md               # 便携包独立使用说明
+├── frontend/                   # 现代化 TypeScript + Vite 前端工程
+│   ├── src/                    # 前端源码 (类型安全、暗色科学极简美学)
+│   └── dist/                   # 前端静态构建输出
+├── data/                       # 生产运行时核心数据
+│   ├── geek_quotes.db          # SQLite 嵌入式数据库 (WAL 模式)
+│   └── quotes_bilingual.json   # 560+ 条高阶中英双语对照基准 JSON
+├── pipeline/                   # 🧬 完整语料采集与大模型批量翻译流水线 (代码区)
+│   ├── README.md               # 流水线架构与运行指南
+│   ├── raw_sources/            # Unix fortune、开源 Geek 梗与前沿 AI 语料
+│   └── scripts/                # 抽取打标、Jaccard 去重与 XML 批量翻译脚本
+└── examples/                   # 💡 极简客户端与直接嵌入调用示例
+    ├── sqlite_direct.py        # 零依赖 Python 直接读取 SQLite 示例
+    └── sqlite_direct.js        # 零依赖 Node 原生 node:sqlite 直接调用示例
 ```
+
+---
+
+<a name="快速启动"></a>
+## 🚀 快速启动 (Quickstart)
+
+### 方式一：使用便携绿色包 (零依赖，解压即用，推荐)
+
+若不想配置 Rust 或 Node.js 开发环境，可直接进入 `portable/` 目录：
+- **Windows 用户**：直接双击 `portable/start.bat`，自动拉起服务并在浏览器打开 Web 面板；
+- **命令行用户**：
+  ```bash
+  cd portable
+  .\geek-quote-api.exe
+  ```
+  服务即刻在 `http://127.0.0.1:3000` 启动，直接加载同目录内置的 `geek_quotes.db`。
+
+### 方式二：从源码编译并运行 Rust 全栈服务
+
+```bash
+# 1. 编译并运行 Rust 生产模式服务 (自动绑定内置 SQLite 与前端 dist)
+cargo run --release
+```
+
+服务就绪后，在浏览器访问：
+👉 **http://127.0.0.1:3000**
+
+### 方式三：极简直接读取内置 SQLite 数据库 (零服务器模式)
+
+如果你只想在自己的脚本中嵌入这 560 条理科梗，无需启动任何 HTTP 服务：
+
+- **Python (内置 sqlite3)**:
+  ```bash
+  python examples/sqlite_direct.py
+  ```
+- **Node.js (内置 node:sqlite)**:
+  ```bash
+  node examples/sqlite_direct.js
+  ```
 
 ---
 

@@ -10,8 +10,8 @@ frontend/node_modules/
 
 # SQLite Runtime DB
 data/*.db
-data/*.db-wal
-data/*.db-shm
+*.db-wal
+*.db-shm
 
 # Environment & Logs
 *.log

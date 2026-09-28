@@ -6,8 +6,8 @@ import { fileURLToPath } from 'node:url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const RAW_DIR = path.resolve(__dirname, '../data/raw_sources');
-const OUTPUT_EXPANDED = path.resolve(__dirname, '../data/quotes_expanded_candidates.json');
+const RAW_DIR = path.resolve(__dirname, '../raw_sources');
+const OUTPUT_EXPANDED = path.resolve(__dirname, '../quotes_expanded_candidates.json');
 
 // 分类打标规则关键词库
 const CATEGORY_RULES = [

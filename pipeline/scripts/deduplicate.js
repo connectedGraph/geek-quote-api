@@ -6,8 +6,8 @@ import { fileURLToPath } from 'node:url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const RAW_DIR = path.resolve(__dirname, '../data/raw_sources');
-const OUTPUT_FILE = path.resolve(__dirname, '../data/quotes.json');
+const RAW_DIR = path.resolve(__dirname, '../raw_sources');
+const OUTPUT_FILE = path.resolve(__dirname, '../../data/quotes.json');
 
 /**
  * 文本标准化：去除前后空白、统一空白字符、去除所有标点用于查重对比

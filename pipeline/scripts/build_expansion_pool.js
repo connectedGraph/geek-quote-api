@@ -6,12 +6,12 @@ import { fileURLToPath } from 'node:url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const EXISTING_BILINGUAL = path.resolve(__dirname, '../data/quotes_bilingual.json');
-const EXPANDED_CANDIDATES = path.resolve(__dirname, '../data/quotes_expanded_candidates.json');
-const MODERN_SEED = path.resolve(__dirname, '../data/raw_sources/modern_ai_math_seed.json');
+const EXISTING_BILINGUAL = path.resolve(__dirname, '../../data/quotes_bilingual.json');
+const EXPANDED_CANDIDATES = path.resolve(__dirname, '../quotes_expanded_candidates.json');
+const MODERN_SEED = path.resolve(__dirname, '../raw_sources/modern_ai_math_seed.json');
 
-const OUTPUT_ALL_POOL = path.resolve(__dirname, '../data/quotes_all_pool.json');
-const OUTPUT_PENDING_TRANSLATE = path.resolve(__dirname, '../data/quotes_pending_translate.json');
+const OUTPUT_ALL_POOL = path.resolve(__dirname, '../quotes_all_pool.json');
+const OUTPUT_PENDING_TRANSLATE = path.resolve(__dirname, '../quotes_pending_translate.json');
 
 function normalizeText(text) {
   if (!text) return '';
