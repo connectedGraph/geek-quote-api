@@ -1,0 +1,22 @@
+{
+  "name": "geek-quote-api",
+  "version": "1.0.0",
+  "description": "Lightweight fullstack API and web testing UI for college STEM, math logic, AI & machine learning quotes/memes",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "dedupe": "node scripts/deduplicate.js"
+  },
+  "keywords": [
+    "quote-api",
+    "math-jokes",
+    "machine-learning",
+    "ai-memes",
+    "stem",
+    "geek-humor"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}

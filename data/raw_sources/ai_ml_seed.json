@@ -1,0 +1,205 @@
+[
+  {
+    "content": "Attention Is All You Need，但我现在只缺一张能装下显存的 A100 / H100。",
+    "category": "ai_ml",
+    "tags": ["transformers", "attention", "gpu", "oom"],
+    "language": "zh",
+    "source": "炼丹日常"
+  },
+  {
+    "content": "调参玄学三定律：Loss 不降反升，先改学习率；梯度消失了，加个残差连接；如果模型依然摆烂，就把随机种子从 42 改成 2026。",
+    "category": "ai_ml",
+    "tags": ["hyperparameters", "learning_rate", "alchemy"],
+    "language": "zh",
+    "source": "深度学习调参指南"
+  },
+  {
+    "content": "大模型并没有撒谎，它只是在一个 1000 亿维的连续语义流形上，以 0.99 的置信度自信地胡说八道。",
+    "category": "ai_ml",
+    "tags": ["llm", "hallucination", "nlp"],
+    "language": "zh",
+    "source": "生成式AI反思"
+  },
+  {
+    "content": "过拟合（Overfitting）的最高境界：在过去的记忆里无所不知、满分通过，在未来的测试集面前一问三不知、当场宕机。",
+    "category": "ai_ml",
+    "tags": ["overfitting", "generalization", "data_science"],
+    "language": "zh",
+    "source": "统计学习哲学"
+  },
+  {
+    "content": "所谓的强化学习（RLHF）：我们以为是在用对齐算法训练大语言模型，实际上是模型在用高情商输出驯化人类打标员。",
+    "category": "ai_ml",
+    "tags": ["rlhf", "alignment", "reinforcement_learning"],
+    "language": "zh",
+    "source": "对齐研究"
+  },
+  {
+    "content": "CUDA error: out of memory. 世界上最远的距离不是生与死，而是你的 Batch Size 是 32，但显卡只能塞下 16。",
+    "category": "ai_ml",
+    "tags": ["cuda", "oom", "pytorch"],
+    "language": "zh",
+    "source": "PyTorch报错实录"
+  },
+  {
+    "content": "梯度下降算法教会我们：即使现在身处局部极小值，只要偶尔引入一些动量（Momentum）和随机抖动，总能翻越那道鞍点。",
+    "category": "ai_ml",
+    "tags": ["gradient_descent", "optimization", "encouragement"],
+    "language": "zh",
+    "source": "AI鸡汤"
+  },
+  {
+    "content": "给我 4 个参数我能拟合出一头大象，给我 5 个参数我还能让它晃鼻子。—— 约翰·冯·诺伊曼（John von Neumann）",
+    "category": "ai_ml",
+    "tags": ["overfitting", "von_neumann", "modeling"],
+    "language": "zh",
+    "source": "科学名言"
+  },
+  {
+    "content": "所有模型都是错的，但有些是有用的。—— 乔治·博克斯（George E. P. Box）",
+    "category": "ai_ml",
+    "tags": ["statistics", "modeling", "classic_quote"],
+    "language": "zh",
+    "source": "统计学哲学"
+  },
+  {
+    "content": "真正的机器学习工程师每天的工作：80% 的时间在清洗脏数据，15% 的时间在等待模型跑完，5% 的时间在向非技术主管解释为什么不能 100% 准确。",
+    "category": "ai_ml",
+    "tags": ["data_cleaning", "career", "realities"],
+    "language": "zh",
+    "source": "Data Scientist Life"
+  },
+  {
+    "content": "早停法（Early Stopping）：在模型彻底走火入魔、把所有噪声都当成规律之前，体面地按下 Ctrl+C。",
+    "category": "ai_ml",
+    "tags": ["regularization", "early_stopping"],
+    "language": "zh",
+    "source": "炼丹手记"
+  },
+  {
+    "content": "Dropout 的本质：每次上课随机抽走一半神经元，剩下的神经元被迫自力更生，最后整个大脑的泛化能力显著提高。",
+    "category": "ai_ml",
+    "tags": ["dropout", "generalization", "deep_learning"],
+    "language": "zh",
+    "source": "深度学习直觉"
+  },
+  {
+    "content": "All models are wrong, but some are useful. — George Box",
+    "category": "ai_ml",
+    "tags": ["statistics", "modeling", "classic"],
+    "language": "en",
+    "source": "Data Science Quotes"
+  },
+  {
+    "content": "With four parameters I can fit an elephant, and with five I can make him wiggle his trunk. — John von Neumann",
+    "category": "ai_ml",
+    "tags": ["overfitting", "von_neumann", "parameters"],
+    "language": "en",
+    "source": "alkashef/data-science-quotes"
+  },
+  {
+    "content": "A machine learning algorithm walks into a bar. The bartender asks: 'What can I get you?' The algorithm replies: 'What is everyone else having?'",
+    "category": "ai_ml",
+    "tags": ["k_nearest_neighbors", "collaborative_filtering", "joke"],
+    "language": "en",
+    "source": "Machine Learning Humor"
+  },
+  {
+    "content": "Why did the neural network fail its driving test? It couldn't handle edge cases, and its loss function diverged at the red light.",
+    "category": "ai_ml",
+    "tags": ["neural_networks", "loss_function", "edge_cases"],
+    "language": "en",
+    "source": "AI Joke"
+  },
+  {
+    "content": "Torture the data, and it will confess to anything. — Ronald Coase",
+    "category": "ai_ml",
+    "tags": ["statistics", "data_science", "p_hacking"],
+    "language": "en",
+    "source": "Econometrics Lore"
+  },
+  {
+    "content": "Data Scientist: A person who is better at statistics than any software engineer and better at software engineering than any statistician.",
+    "category": "ai_ml",
+    "tags": ["definition", "career", "data_science"],
+    "language": "en",
+    "source": "Josh Wills"
+  },
+  {
+    "content": "In God we trust. All others must bring data. — W. Edwards Deming",
+    "category": "ai_ml",
+    "tags": ["data", "statistics", "quote"],
+    "language": "en",
+    "source": "kbroman/datasciquotes"
+  },
+  {
+    "content": "Why was the support vector machine so confident? It had maximum margin.",
+    "category": "ai_ml",
+    "tags": ["svm", "maximum_margin", "pun"],
+    "language": "en",
+    "source": "ML Puns"
+  },
+  {
+    "content": "I told an AI joke to my model. It hallucinated a laugh track.",
+    "category": "ai_ml",
+    "tags": ["llm", "hallucination", "one_liner"],
+    "language": "en",
+    "source": "AI Tech Humor"
+  },
+  {
+    "content": "Deep Learning: When you don't know what features matter, so you stack 96 layers of linear algebra and pray to Jensen Huang.",
+    "category": "ai_ml",
+    "tags": ["deep_learning", "linear_algebra", "nvidia"],
+    "language": "en",
+    "source": "NeurIPS Hallway Humor"
+  },
+  {
+    "content": "深度学习第一法则：当模型效果不好时，加大参数；当效果依然不好时，加大算力和数据；当模型过拟合时，告诉投资人我们正在通往 AGI。",
+    "category": "ai_ml",
+    "tags": ["deep_learning", "scaling_law", "satire"],
+    "language": "zh",
+    "source": "硅谷AI创业现状"
+  },
+  {
+    "content": "机器学习工程师的悲喜并不相通，我只觉得我的 GPU 风扇在尖叫，且 TensorBoard 上的 Loss 刚刚变成了 NaN。",
+    "category": "ai_ml",
+    "tags": ["gpu", "loss_nan", "tensorboard"],
+    "language": "zh",
+    "source": "炼丹日常"
+  },
+  {
+    "content": "监督学习是有导师管着，无监督学习是自生自灭，强化学习则是每天挨打直到学会如何骗取奖励信号。",
+    "category": "ai_ml",
+    "tags": ["supervised", "unsupervised", "reinforcement_learning"],
+    "language": "zh",
+    "source": "AI学习流派自嘲"
+  },
+  {
+    "content": "大模型最擅长的事：用极其温和、谦卑且礼貌的语气，给出一个完全无法通过编译的代码片段。",
+    "category": "ai_ml",
+    "tags": ["llm", "coding", "hallucination"],
+    "language": "zh",
+    "source": "Prompt Engineering"
+  },
+  {
+    "content": "Artificial Intelligence is whatever hasn't been done yet. — Larry Tesler",
+    "category": "ai_ml",
+    "tags": ["definition", "ai_effect", "tesler"],
+    "language": "en",
+    "source": "Larry Tesler Theorem"
+  },
+  {
+    "content": "When you are fundraising, it is AI. When you are hiring, it is Machine Learning. When you are implementing, it is linear regression. When you are debugging, it is printf().",
+    "category": "ai_ml",
+    "tags": ["fundraising", "machine_learning", "satire"],
+    "language": "en",
+    "source": "Startup Tech Folklore"
+  },
+  {
+    "content": "A data point walks into a bar. The outlier is politely asked to leave to preserve the statistical significance.",
+    "category": "ai_ml",
+    "tags": ["data_science", "outlier", "joke"],
+    "language": "en",
+    "source": "Data Science Humor"
+  }
+]

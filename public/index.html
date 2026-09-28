@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geek Quote API | 理科生 / 数理逻辑 / AI 随机文案库</title>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="logo-badge">λ</div>
+        <div>
+          <h1>Geek Quote API</h1>
+          <p class="subtitle">大学理科生 · 数理逻辑 · AI与机器学习 · 极客学术梗文案库</p>
+        </div>
+      </div>
+      <div class="header-stats" id="headerStats">
+        <span class="stat-pill"><strong id="statTotal">-</strong> 条入库文案</span>
+        <span class="stat-pill"><strong id="statCats">-</strong> 个学科分类</span>
+        <span class="stat-pill">中英双语支持</span>
+      </div>
+    </header>
+
+    <!-- Main Navigation Tabs -->
+    <div class="nav-tabs">
+      <button class="tab-btn active" data-tab="hero">🎲 随机文案测试</button>
+      <button class="tab-btn" data-tab="browse">📚 文案库全览检索 (<span id="tabCount">0</span>)</button>
+      <button class="tab-btn" data-tab="api">⚡ API 接口说明与在线测试</button>
+    </div>
+
+    <!-- Section 1: Hero Random Card -->
+    <main class="tab-content active" id="tab-hero">
+      <!-- Filter Bar -->
+      <div class="filter-bar">
+        <div class="filter-group">
+          <label>学科领域:</label>
+          <div class="pill-selectors" id="categoryFilters">
+            <button class="filter-pill active" data-category="">全部领域</button>
+            <button class="filter-pill" data-category="math_logic">∑ 数理逻辑</button>
+            <button class="filter-pill" data-category="ai_ml">∇ AI / 机器学习</button>
+            <button class="filter-pill" data-category="cs_geek">⌘ 计算机 / 算法</button>
+            <button class="filter-pill" data-category="physics_stem">⚛ 理论物理 / 理科</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>语言筛选:</label>
+          <div class="pill-selectors" id="langFilters">
+            <button class="filter-pill active" data-lang="">全部语言</button>
+            <button class="filter-pill" data-lang="zh">中文</button>
+            <button class="filter-pill" data-lang="en">English</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Quote Display Card -->
+      <div class="quote-card-container">
+        <div class="quote-card" id="quoteCard">
+          <div class="card-meta-header">
+            <span class="category-tag" id="quoteCategory">加载中...</span>
+            <span class="lang-tag" id="quoteLang">-</span>
+            <span class="id-tag" id="quoteId">#id</span>
+          </div>
+
+          <div class="quote-content-wrapper">
+            <div class="quote-mark open">“</div>
+            <p class="quote-text" id="quoteText">正在获取极客文案...</p>
+            <div class="quote-mark close">”</div>
+          </div>
+
+          <div class="quote-footer">
+            <div class="quote-source-box">
+              <span class="source-label">出处 / 背景:</span>
+              <span class="quote-source" id="quoteSource">——</span>
+            </div>
+            <div class="quote-tags" id="quoteTags"></div>
+          </div>
+        </div>
+
+        <!-- Action Controls -->
+        <div class="action-bar">
+          <button class="btn btn-primary" id="btnNextQuote">
+            <span class="btn-icon">↻</span> 再来一条 <kbd>Space</kbd>
+          </button>
+          <button class="btn btn-secondary" id="btnCopyText">
+            <span class="btn-icon">📋</span> 复制文案 <kbd>C</kbd>
+          </button>
+          <button class="btn btn-secondary" id="btnCopyCurl">
+            <span class="btn-icon">💻</span> 复制 cURL 命令
+          </button>
+          <button class="btn btn-outline" id="btnCopyMarkdown">
+            <span class="btn-icon">📝</span> 复制 Markdown
+          </button>
+        </div>
+        <div class="feedback-msg" id="feedbackMsg"></div>
+      </div>
+    </main>
+
+    <!-- Section 2: Browse All Quotes -->
+    <section class="tab-content" id="tab-browse">
+      <div class="browse-header">
+        <div class="search-box">
+          <input type="text" id="searchInput" placeholder="搜索关键词（如 哥德尔 / 梯度 / Jeff Dean / topology / 薛定谔）...">
+          <button class="btn-clear" id="btnClearSearch" title="清空搜索">✕</button>
+        </div>
+        <div class="browse-meta">
+          共筛选出 <strong id="searchResultCount">0</strong> 条
+        </div>
+      </div>
+
+      <div class="quote-grid" id="quoteGrid">
+        <!-- Dynamic Quote Items -->
+      </div>
+    </section>
+
+    <!-- Section 3: API Playground & Documentation -->
+    <section class="tab-content" id="tab-api">
+      <div class="api-doc-grid">
+        <div class="api-endpoints-panel">
+          <h2>可用 REST API 接口</h2>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge get">GET</span>
+              <code>/api/random</code>
+            </div>
+            <p class="endpoint-desc">随机获取一条文案，支持多维度过滤筛选。</p>
+            <div class="params-table">
+              <div><code>category</code> <span>可选：math_logic | ai_ml | cs_geek | physics_stem</span></div>
+              <div><code>lang</code> <span>可选：zh | en</span></div>
+              <div><code>tag</code> <span>可选：特定标签，如 goedel / rlhf / docker</span></div>
+              <div><code>format</code> <span>可选：json (默认) | text (纯文本直接输出)</span></div>
+            </div>
+          </div>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge get">GET</span>
+              <code>/api/quotes</code>
+            </div>
+            <p class="endpoint-desc">分页与关键词全文检索文案库。</p>
+            <div class="params-table">
+              <div><code>search</code> <span>关键词全文检索</span></div>
+              <div><code>category</code> <span>分类过滤</span></div>
+              <div><code>page</code> / <code>limit</code> <span>分页控制 (如 page=1&limit=20)</span></div>
+            </div>
+          </div>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge get">GET</span>
+              <code>/api/categories</code>
+            </div>
+            <p class="endpoint-desc">获取所有学科分类元数据与文案条目数量统计。</p>
+          </div>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge post">POST</span>
+              <code>/api/dedupe</code>
+            </div>
+            <p class="endpoint-desc">重新对 data/raw_sources 进行去重合并并热重载缓存。</p>
+          </div>
+        </div>
+
+        <div class="api-tester-panel">
+          <h2>在线接口调试与实时响应</h2>
+          <div class="request-bar">
+            <select id="apiMethod">
+              <option value="GET">GET</option>
+            </select>
+            <input type="text" id="apiUrlInput" value="/api/random?category=ai_ml&lang=zh">
+            <button class="btn btn-primary" id="btnSendRequest">发送请求</button>
+          </div>
+
+          <div class="response-box">
+            <div class="response-header">
+              <span>HTTP 响应报文 (JSON)</span>
+              <span class="status-indicator" id="apiStatus">就绪</span>
+            </div>
+            <pre class="json-code" id="apiResponse">// 点击“发送请求”以测试实时 API 响应...</pre>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>Geek Quote API · 轻量本地全栈服务 · 随时扩充 <code>data/raw_sources/</code> 并运行去重合并</p>
+    </footer>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

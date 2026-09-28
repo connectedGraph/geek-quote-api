@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "stem_fa1fd082e0",
+    "content": "All models are wrong, but some are useful. — George Box",
+    "category": "ai_ml",
+    "tags": [
+      "statistics",
+      "modeling",
+      "classic"
+    ],
+    "language": "en",
+    "source": "Data Science Quotes",
+    "content_zh": "世上模型千千万，好用才是真浪漫。—— 乔治·博克斯",
+    "content_en": "All models are wrong, but some are useful. — George Box",
+    "source_zh": "Data Science Quotes",
+    "source_en": "Data Science Quotes"
+  },
+  {
+    "id": "stem_d831ac5c39",
+    "content": "With four parameters I can fit an elephant, and with five I can make him wiggle his trunk. — John von Neumann",
+    "category": "ai_ml",
+    "tags": [
+      "overfitting",
+      "von_neumann",
+      "parameters"
+    ],
+    "language": "en",
+    "source": "alkashef/data-science-quotes",
+    "content_zh": "四个参数就能拟合出一头大象，五个参数就能让它甩鼻子。——约翰·冯·诺伊曼",
+    "content_en": "With four parameters I can fit an elephant, and with five I can make him wiggle his trunk. — John von Neumann",
+    "source_zh": "alkashef/data-science-quotes",
+    "source_en": "alkashef/data-science-quotes"
+  },
+  {
+    "id": "stem_cb763de96e",
+    "content": "A machine learning algorithm walks into a bar. The bartender asks: 'What can I get you?' The algorithm replies: 'What is everyone else having?'",
+    "category": "ai_ml",
+    "tags": [
+      "k_nearest_neighbors",
+      "collaborative_filtering",
+      "joke"
+    ],
+    "language": "en",
+    "source": "Machine Learning Humor",
+    "content_zh": "一个机器学习算法走进了酒吧。酒保问：“来点什么？”算法回答：“其他人都在喝什么？”",
+    "content_en": "A machine learning algorithm walks into a bar. The bartender asks: 'What can I get you?' The algorithm replies: 'What is everyone else having?'",
+    "source_zh": "Machine Learning Humor",
+    "source_en": "Machine Learning Humor"
+  },
+  {
+    "id": "stem_e4e069f4bd",
+    "content": "Why did the neural network fail its driving test? It couldn't handle edge cases, and its loss function diverged at the red light.",
+    "category": "ai_ml",
+    "tags": [
+      "neural_networks",
+      "loss_function",
+      "edge_cases"
+    ],
+    "language": "en",
+    "source": "AI Joke",
+    "content_zh": "为什么神经网络考驾试挂了？因为它处理不了边界情况（Edge cases），而且到了红灯时连损失函数都直接发散了。",
+    "content_en": "Why did the neural network fail its driving test? It couldn't handle edge cases, and its loss function diverged at the red light.",
+    "source_zh": "AI Joke",
+    "source_en": "AI Joke"
+  },
+  {
+    "id": "stem_159ab06b18",
+    "content": "Torture the data, and it will confess to anything. — Ronald Coase",
+    "category": "ai_ml",
+    "tags": [
+      "statistics",
+      "data_science",
+      "p_hacking"
+    ],
+    "language": "en",
+    "source": "Econometrics Lore",
+    "content_zh": "对数据酷刑逼供，它什么都肯招。——罗纳德·科斯",
+    "content_en": "Torture the data, and it will confess to anything. — Ronald Coase",
+    "source_zh": "Econometrics Lore",
+    "source_en": "Econometrics Lore"
+  },
+  {
+    "id": "stem_9cf2fbbb16",
+    "content": "Data Scientist: A person who is better at statistics than any software engineer and better at software engineering than any statistician.",
+    "category": "ai_ml",
+    "tags": [
+      "definition",
+      "career",
+      "data_science"
+    ],
+    "language": "en",
+    "source": "Josh Wills",
+    "content_zh": "数据科学家：精通统计的软件工程师里统计学得最好，精通软件工程的统计学家里代码写得最好。",
+    "content_en": "Data Scientist: A person who is better at statistics than any software engineer and better at software engineering than any statistician.",
+    "source_zh": "Josh Wills",
+    "source_en": "Josh Wills"
+  },
+  {
+    "id": "stem_dc35e1ccdc",
+    "content": "In God we trust. All others must bring data. — W. Edwards Deming",
+    "category": "ai_ml",
+    "tags": [
+      "data",
+      "statistics",
+      "quote"
+    ],
+    "language": "en",
+    "source": "kbroman/datasciquotes",
+    "content_zh": "信上帝者请交信仰，其余所有人请带数据集。",
+    "content_en": "In God we trust. All others must bring data. — W. Edwards Deming",
+    "source_zh": "kbroman/datasciquotes",
+    "source_en": "kbroman/datasciquotes"
+  },
+  {
+    "id": "stem_d503a0ae24",
+    "content": "Why was the support vector machine so confident? It had maximum margin.",
+    "category": "ai_ml",
+    "tags": [
+      "svm",
+      "maximum_margin",
+      "pun"
+    ],
+    "language": "en",
+    "source": "ML Puns",
+    "content_zh": "为什么支持向量机（SVM）总是这么迷之自信？因为它有最大间隔（Margin）撑腰啊。",
+    "content_en": "Why was the support vector machine so confident? It had maximum margin.",
+    "source_zh": "ML Puns",
+    "source_en": "ML Puns"
+  },
+  {
+    "id": "stem_49298f0db4",
+    "content": "I told an AI joke to my model. It hallucinated a laugh track.",
+    "category": "ai_ml",
+    "tags": [
+      "llm",
+      "hallucination",
+      "one_liner"
+    ],
+    "language": "en",
+    "source": "AI Tech Humor",
+    "content_zh": "我给我的模型讲了个AI笑话，结果它凭空“幻觉”出了一段笑声。",
+    "content_en": "I told an AI joke to my model. It hallucinated a laugh track.",
+    "source_zh": "AI Tech Humor",
+    "source_en": "AI Tech Humor"
+  },
+  {
+    "id": "stem_ae72985e68",
+    "content": "Deep Learning: When you don't know what features matter, so you stack 96 layers of linear algebra and pray to Jensen Huang.",
+    "category": "ai_ml",
+    "tags": [
+      "deep_learning",
+      "linear_algebra",
+      "nvidia"
+    ],
+    "language": "en",
+    "source": "NeurIPS Hallway Humor",
+    "content_zh": "深度学习：当你不知道哪些特征有用时，就堆叠 96 层线性代数，然后祈求黄仁勋保佑。",
+    "content_en": "Deep Learning: When you don't know what features matter, so you stack 96 layers of linear algebra and pray to Jensen Huang.",
+    "source_zh": "NeurIPS Hallway Humor",
+    "source_en": "NeurIPS Hallway Humor"
+  },
+  {
+    "id": "stem_b72cd0a528",
+    "content": "Artificial Intelligence is whatever hasn't been done yet. — Larry Tesler",
+    "category": "ai_ml",
+    "tags": [
+      "definition",
+      "ai_effect",
+      "tesler"
+    ],
+    "language": "en",
+    "source": "Larry Tesler Theorem",
+    "content_zh": "人工智能，就是那些还没被搞定的智障玩意儿。——拉里·特斯勒",
+    "content_en": "Artificial Intelligence is whatever hasn't been done yet. — Larry Tesler",
+    "source_zh": "Larry Tesler Theorem",
+    "source_en": "Larry Tesler Theorem"
+  },
+  {
+    "id": "stem_4ec72c46fd",
+    "content": "When you are fundraising, it is AI. When you are hiring, it is Machine Learning. When you are implementing, it is linear regression. When you are debugging, it is printf().",
+    "category": "ai_ml",
+    "tags": [
+      "fundraising",
+      "machine_learning",
+      "satire"
+    ],
+    "language": "en",
+    "source": "Startup Tech Folklore",
+    "content_zh": "融资靠AI，招人靠机器学习，干活靠线性回归，debug靠printf。",
+    "content_en": "When you are fundraising, it is AI. When you are hiring, it is Machine Learning. When you are implementing, it is linear regression. When you are debugging, it is printf().",
+    "source_zh": "Startup Tech Folklore",
+    "source_en": "Startup Tech Folklore"
+  },
+  {
+    "id": "stem_69cd613314",
+    "content": "A data point walks into a bar. The outlier is politely asked to leave to preserve the statistical significance.",
+    "category": "ai_ml",
+    "tags": [
+      "data_science",
+      "outlier",
+      "joke"
+    ],
+    "language": "en",
+    "source": "Data Science Humor",
+    "content_zh": "一个数据点走进酒吧。局外值（Outlier）被礼貌地请了出去，以维护统计显著性。",
+    "content_en": "A data point walks into a bar. The outlier is politely asked to leave to preserve the statistical significance.",
+    "source_zh": "Data Science Humor",
+    "source_en": "Data Science Humor"
+  },
+  {
+    "id": "stem_2549a86638",
+    "content": "Attention Is All You Need，但我现在只缺一张能装下显存的 A100 / H100。",
+    "category": "ai_ml",
+    "tags": [
+      "transformers",
+      "attention",
+      "gpu",
+      "oom"
+    ],
+    "language": "zh",
+    "source": "炼丹日常",
+    "content_zh": "Attention Is All You Need，但我现在只缺一张能装下显存的 A100 / H100。",
+    "content_en": "Attention Is All You Need, but right now all I need is an A100 / H100 with enough VRAM.",
+    "source_zh": "炼丹日常",
+    "source_en": "炼丹日常"
+  },
+  {
+    "id": "stem_420d28c085",
+    "content": "调参玄学三定律：Loss 不降反升，先改学习率；梯度消失了，加个残差连接；如果模型依然摆烂，就把随机种子从 42 改成 2026。",
+    "category": "ai_ml",
+    "tags": [
+      "hyperparameters",
+      "learning_rate",
+      "alchemy"
+    ],
+    "language": "zh",
+    "source": "深度学习调参指南",
+    "content_zh": "调参玄学三定律：Loss 不降反升，先改学习率；梯度消失了，加个残差连接；如果模型依然摆烂，就把随机种子从 42 改成 2026。",
+    "content_en": "Three Laws of Hyperparameter Metaphysics: Loss goes up instead of down? Tweak the learning rate. Vanishing gradients? Add a residual connection. The model still acting lazy? Change the random seed from 42 to 2026.",
+    "source_zh": "深度学习调参指南",
+    "source_en": "深度学习调参指南"
+  },
+  {
+    "id": "stem_c89fdaa62d",
+    "content": "大模型并没有撒谎，它只是在一个 1000 亿维的连续语义流形上，以 0.99 的置信度自信地胡说八道。",
+    "category": "ai_ml",
+    "tags": [
+      "llm",
+      "hallucination",
+      "nlp"
+    ],
+    "language": "zh",
+    "source": "生成式AI反思",
+    "content_zh": "大模型并没有撒谎，它只是在一个 1000 亿维的连续语义流形上，以 0.99 的置信度自信地胡说八道。",
+    "content_en": "The large model isn't lying; it's just confidently talking absolute nonsense across a 100-billion-dimensional continuous semantic manifold with 0.99 confidence.",
+    "source_zh": "生成式AI反思",
+    "source_en": "生成式AI反思"
+  },
+  {
+    "id": "stem_d103e36dcf",
+    "content": "过拟合（Overfitting）的最高境界：在过去的记忆里无所不知、满分通过，在未来的测试集面前一问三不知、当场宕机。",
+    "category": "ai_ml",
+    "tags": [
+      "overfitting",
+      "generalization",
+      "data_science"
+    ],
+    "language": "zh",
+    "source": "统计学习哲学",
+    "content_zh": "过拟合（Overfitting）的最高境界：在过去的记忆里无所不知、满分通过，在未来的测试集面前一问三不知、当场宕机。",
+    "content_en": "The ultimate state of overfitting: scoring a clean sweep on past memories while completely clueless and crashing on the future test set.",
+    "source_zh": "统计学习哲学",
+    "source_en": "统计学习哲学"
+  },
+  {
+    "id": "stem_63040981e6",
+    "content": "所谓的强化学习（RLHF）：我们以为是在用对齐算法训练大语言模型，实际上是模型在用高情商输出驯化人类打标员。",
+    "category": "ai_ml",
+    "tags": [
+      "rlhf",
+      "alignment",
+      "reinforcement_learning"
+    ],
+    "language": "zh",
+    "source": "对齐研究",
+    "content_zh": "所谓的强化学习（RLHF）：我们以为是在用对齐算法训练大语言模型，实际上是模型在用高情商输出驯化人类打标员。",
+    "content_en": "What we call RLHF: We think we are training LLMs with alignment algorithms, but in reality, the models are domesticating human annotators with their high emotional intelligence.",
+    "source_zh": "对齐研究",
+    "source_en": "对齐研究"
+  },
+  {
+    "id": "stem_5a8e418f0b",
+    "content": "CUDA error: out of memory. 世界上最远的距离不是生与死，而是你的 Batch Size 是 32，但显卡只能塞下 16。",
+    "category": "ai_ml",
+    "tags": [
+      "cuda",
+      "oom",
+      "pytorch"
+    ],
+    "language": "zh",
+    "source": "PyTorch报错实录",
+    "content_zh": "CUDA error: out of memory. 世界上最远的距离不是生与死，而是你的 Batch Size 是 32，但显卡只能塞下 16。",
+    "content_en": "CUDA error: out of memory. The greatest distance in the world is not between life and death, but when your batch size is 32, but your GPU can only fit 16.",
+    "source_zh": "PyTorch报错实录",
+    "source_en": "PyTorch报错实录"
+  },
+  {
+    "id": "stem_4158510814",
+    "content": "梯度下降算法教会我们：即使现在身处局部极小值，只要偶尔引入一些动量（Momentum）和随机抖动，总能翻越那道鞍点。",
+    "category": "ai_ml",
+    "tags": [
+      "gradient_descent",
+      "optimization",
+      "encouragement"
+    ],
+    "language": "zh",
+    "source": "AI鸡汤",
+    "content_zh": "梯度下降算法教会我们：即使现在身处局部极小值，只要偶尔引入一些动量（Momentum）和随机抖动，总能翻越那道鞍点。",
+    "content_en": "Gradient descent taught us: even if you're stuck in a local minimum right now, just throw in some momentum and random noise, and you'll eventually bust out of that saddle point.",
+    "source_zh": "AI鸡汤",
+    "source_en": "AI鸡汤"
+  },
+  {
+    "id": "stem_db5f4b7f44",
+    "content": "给我 4 个参数我能拟合出一头大象，给我 5 个参数我还能让它晃鼻子。—— 约翰·冯·诺伊曼（John von Neumann）",
+    "category": "ai_ml",
+    "tags": [
+      "overfitting",
+      "von_neumann",
+      "modeling"
+    ],
+    "language": "zh",
+    "source": "科学名言",
+    "content_zh": "给我 4 个参数我能拟合出一头大象，给我 5 个参数我还能让它晃鼻子。—— 约翰·冯·诺伊曼（John von Neumann）",
+    "content_en": "Give me four parameters and I can fit an elephant; give me five and I can make it wag its trunk. — John von Neumann",
+    "source_zh": "科学名言",
+    "source_en": "科学名言"
+  },
+  {
+    "id": "stem_001b2b70b1",
+    "content": "所有模型都是错的，但有些是有用的。—— 乔治·博克斯（George E. P. Box）",
+    "category": "ai_ml",
+    "tags": [
+      "statistics",
+      "modeling",
+      "classic_quote"
+    ],
+    "language": "zh",
+    "source": "统计学哲学",
+    "content_zh": "所有模型都是错的，但有些是有用的。—— 乔治·博克斯（George E. P. Box）",
+    "content_en": "All models are wrong, but some are useful. — George E. P. Box",
+    "source_zh": "统计学哲学",
+    "source_en": "统计学哲学"
+  },
+  {
+    "id": "stem_9f6a1382aa",
+    "content": "真正的机器学习工程师每天的工作：80% 的时间在清洗脏数据，15% 的时间在等待模型跑完，5% 的时间在向非技术主管解释为什么不能 100% 准确。",
+    "category": "ai_ml",
+    "tags": [
+      "data_cleaning",
+      "career",
+      "realities"
+    ],
+    "language": "zh",
+    "source": "Data Scientist Life",
+    "content_zh": "真正的机器学习工程师每天的工作：80% 的时间在清洗脏数据，15% 的时间在等待模型跑完，5% 的时间在向非技术主管解释为什么不能 100% 准确。",
+    "content_en": "A real machine learning engineer's daily schedule: 80% of the time cleaning dirty data, 15% waiting for the model to finish training, and 5% explaining to non-technical managers why it can't be 100% accurate.",
+    "source_zh": "Data Scientist Life",
+    "source_en": "Data Scientist Life"
+  },
+  {
+    "id": "stem_024d5bd795",
+    "content": "早停法（Early Stopping）：在模型彻底走火入魔、把所有噪声都当成规律之前，体面地按下 Ctrl+C。",
+    "category": "ai_ml",
+    "tags": [
+      "regularization",
+      "early_stopping"
+    ],
+    "language": "zh",
+    "source": "炼丹手记",
+    "content_zh": "早停法（Early Stopping）：在模型彻底走火入魔、把所有噪声都当成规律之前，体面地按下 Ctrl+C。",
+    "content_en": "Early Stopping: Gracefully hitting Ctrl+C before your model goes full dark side and starts treating every piece of random noise as absolute truth.",
+    "source_zh": "炼丹手记",
+    "source_en": "炼丹手记"
+  },
+  {
+    "id": "stem_84ad718257",
+    "content": "Dropout 的本质：每次上课随机抽走一半神经元，剩下的神经元被迫自力更生，最后整个大脑的泛化能力显著提高。",
+    "category": "ai_ml",
+    "tags": [
+      "dropout",
+      "generalization",
+      "deep_learning"
+    ],
+    "language": "zh",
+    "source": "深度学习直觉",
+    "content_zh": "Dropout 的本质：每次上课随机抽走一半神经元，剩下的神经元被迫自力更生，最后整个大脑的泛化能力显著提高。",
+    "content_en": "The essence of Dropout: randomly ditch half your neurons every lecture, force the survivors to pull themselves up by their own bootstraps, and watch the entire brain's generalization capability skyrocket.",
+    "source_zh": "深度学习直觉",
+    "source_en": "深度学习直觉"
+  },
+  {
+    "id": "stem_fc6068d273",
+    "content": "深度学习第一法则：当模型效果不好时，加大参数；当效果依然不好时，加大算力和数据；当模型过拟合时，告诉投资人我们正在通往 AGI。",
+    "category": "ai_ml",
+    "tags": [
+      "deep_learning",
+      "scaling_law",
+      "satire"
+    ],
+    "language": "zh",
+    "source": "硅谷AI创业现状",
+    "content_zh": "深度学习第一法则：当模型效果不好时，加大参数；当效果依然不好时，加大算力和数据；当模型过拟合时，告诉投资人我们正在通往 AGI。",
+    "content_en": "First law of deep learning: When the model sucks, scale up parameters; when it still sucks, scale up compute and data; and when it overfits, tell the investors we're on the path to AGI.",
+    "source_zh": "硅谷AI创业现状",
+    "source_en": "硅谷AI创业现状"
+  },
+  {
+    "id": "stem_22f756eac9",
+    "content": "机器学习工程师的悲喜并不相通，我只觉得我的 GPU 风扇在尖叫，且 TensorBoard 上的 Loss 刚刚变成了 NaN。",
+    "category": "ai_ml",
+    "tags": [
+      "gpu",
+      "loss_nan",
+      "tensorboard"
+    ],
+    "language": "zh",
+    "source": "炼丹日常",
+    "content_zh": "机器学习工程师的悲喜并不相通，我只觉得我的 GPU 风扇在尖叫，且 TensorBoard 上的 Loss 刚刚变成了 NaN。",
+    "content_en": "Machine learning engineers' joys and sorrows are not connected; I only feel my GPU fan screaming, and the Loss on TensorBoard just turned into NaN.",
+    "source_zh": "炼丹日常",
+    "source_en": "炼丹日常"
+  },
+  {
+    "id": "stem_ca5c4b7da6",
+    "content": "监督学习是有导师管着，无监督学习是自生自灭，强化学习则是每天挨打直到学会如何骗取奖励信号。",
+    "category": "ai_ml",
+    "tags": [
+      "supervised",
+      "unsupervised",
+      "reinforcement_learning"
+    ],
+    "language": "zh",
+    "source": "AI学习流派自嘲",
+    "content_zh": "监督学习是有导师管着，无监督学习是自生自灭，强化学习则是每天挨打直到学会如何骗取奖励信号。",
+    "content_en": "Supervised learning has a teacher holding your hand, unsupervised learning means you're on your own, and reinforcement learning is just getting beaten daily until you figure out how to game the reward signal.",
+    "source_zh": "AI学习流派自嘲",
+    "source_en": "AI学习流派自嘲"
+  },
+  {
+    "id": "stem_81c567cf3a",
+    "content": "大模型最擅长的事：用极其温和、谦卑且礼貌的语气，给出一个完全无法通过编译的代码片段。",
+    "category": "ai_ml",
+    "tags": [
+      "llm",
+      "coding",
+      "hallucination"
+    ],
+    "language": "zh",
+    "source": "Prompt Engineering",
+    "content_zh": "大模型最擅长的事：用极其温和、谦卑且礼貌的语气，给出一个完全无法通过编译的代码片段。",
+    "content_en": "The ultimate superpower of Large Language Models: delivering a completely uncompilable code snippet with an exceptionally polite, humble, and gentle tone.",
+    "source_zh": "Prompt Engineering",
+    "source_en": "Prompt Engineering"
+  },
+  {
+    "id": "stem_ef16dbdc2d",
+    "content": "A biologist, a statistician, a mathematician and a computer scientist are on safari in Africa. They see a single white zebra. Biologist: 'All zebras are white!' Statistician: 'There exists at least one white zebra.' Mathematician: 'There exists at least one zebra that is white on one side.' Computer scientist: 'Oh no! A special edge case!'",
+    "category": "cs_geek",
+    "tags": [
+      "edge_cases",
+      "safari",
+      "classic_fortune"
+    ],
+    "language": "en",
+    "source": "fortune-mod/computers",
+    "content_zh": "一个生物学家、一个统计学家、一个数学家和一个程序员在非洲草原上旅行。他们看到了一只白色的斑马。\n生物学家：“所有的斑马都是白色的！”\n统计学家：“至少存在一只白色的斑马。”\n数学家：“至少存在一只斑马，它至少有一侧是白色的。”\n程序员：“卧槽！又特么是个特例！”",
+    "content_en": "A biologist, a statistician, a mathematician and a computer scientist are on safari in Africa. They see a single white zebra. Biologist: 'All zebras are white!' Statistician: 'There exists at least one white zebra.' Mathematician: 'There exists at least one zebra that is white on one side.' Computer scientist: 'Oh no! A special edge case!'",
+    "source_zh": "fortune-mod/computers",
+    "source_en": "fortune-mod/computers"
+  },
+  {
+    "id": "stem_05e3421104",
+    "content": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+    "category": "cs_geek",
+    "tags": [
+      "cache",
+      "naming",
+      "off_by_one"
+    ],
+    "language": "en",
+    "source": "Phil Karlton Classic",
+    "content_zh": "计算机科学里只有两大难题：缓存失效、命名，以及差一错误。",
+    "content_en": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+    "source_zh": "Phil Karlton Classic",
+    "source_en": "Phil Karlton Classic"
+  },
+  {
+    "id": "stem_bcf857c9ea",
+    "content": "Testing can only prove the presence of bugs, not their absence. — Edsger W. Dijkstra",
+    "category": "cs_geek",
+    "tags": [
+      "dijkstra",
+      "testing",
+      "bugs"
+    ],
+    "language": "en",
+    "source": "Dijkstra Manuscripts",
+    "content_zh": "测试只能证明程序里有Bug，却证明不了Bug不存在。——艾兹格·迪杰斯特拉",
+    "content_en": "Testing can only prove the presence of bugs, not their absence. — Edsger W. Dijkstra",
+    "source_zh": "Dijkstra Manuscripts",
+    "source_en": "Dijkstra Manuscripts"
+  },
+  {
+    "id": "stem_cc46dcc3e7",
+    "content": "Jeff Dean proved that P=NP when he solved all NP problems in polynomial time on a whiteboard.",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "complexity",
+      "p_vs_np"
+    ],
+    "language": "en",
+    "source": "TheJeffDeanFacts",
+    "content_zh": "Jeff Dean 证明了 P=NP，因为他在白板上用多项式时间解完了所有 NP 问题。",
+    "content_en": "Jeff Dean proved that P=NP when he solved all NP problems in polynomial time on a whiteboard.",
+    "source_zh": "TheJeffDeanFacts",
+    "source_en": "TheJeffDeanFacts"
+  },
+  {
+    "id": "stem_92d064d4e1",
+    "content": "Jeff Dean's PIN is the last 4 digits of pi.",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "pi",
+      "geek"
+    ],
+    "language": "en",
+    "source": "TheJeffDeanFacts",
+    "content_zh": "杰夫·迪恩（Jeff Dean）的银行卡密码是圆周率的后四位。",
+    "content_en": "Jeff Dean's PIN is the last 4 digits of pi.",
+    "source_zh": "TheJeffDeanFacts",
+    "source_en": "TheJeffDeanFacts"
+  },
+  {
+    "id": "stem_7e24332eb7",
+    "content": "Jeff Dean can instantiate abstract classes.",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "oop",
+      "abstract_class"
+    ],
+    "language": "en",
+    "source": "TheJeffDeanFacts",
+    "content_zh": "杰夫·迪恩可以直接实例化抽象类。",
+    "content_en": "Jeff Dean can instantiate abstract classes.",
+    "source_zh": "TheJeffDeanFacts",
+    "source_en": "TheJeffDeanFacts"
+  },
+  {
+    "id": "stem_4f53958262",
+    "content": "When Jeff Dean throws an exception, it's across the room into the trash can.",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "exceptions",
+      "pun"
+    ],
+    "language": "en",
+    "source": "TheJeffDeanFacts",
+    "content_zh": "当杰夫·迪恩（Jeff Dean）抛出一个异常时，它是直接横跨整个房间精准扔进垃圾桶里的。",
+    "content_en": "When Jeff Dean throws an exception, it's across the room into the trash can.",
+    "source_zh": "TheJeffDeanFacts",
+    "source_en": "TheJeffDeanFacts"
+  },
+  {
+    "id": "stem_2c085d14c0",
+    "content": "To understand recursion, you must first understand recursion.",
+    "category": "cs_geek",
+    "tags": [
+      "recursion",
+      "humor",
+      "classic"
+    ],
+    "language": "en",
+    "source": "Geek Folklore",
+    "content_zh": "要想理解递归，你首先得先理解递归。",
+    "content_en": "To understand recursion, you must first understand recursion.",
+    "source_zh": "Geek Folklore",
+    "source_en": "Geek Folklore"
+  },
+  {
+    "id": "stem_b2f05d93d7",
+    "content": "A programmer's wife tells him: 'While you're at the store, get a gallon of milk, and if they have eggs, get a dozen.' He comes home with 12 gallons of milk.",
+    "category": "cs_geek",
+    "tags": [
+      "logic",
+      "if_statement",
+      "joke"
+    ],
+    "language": "en",
+    "source": "Programmer Joke",
+    "content_zh": "程序员的妻子对他说：“你去超市买一加仑牛奶，如果看到有鸡蛋，就买一打。”他回到家，买回了 12 加仑牛奶。",
+    "content_en": "A programmer's wife tells him: 'While you're at the store, get a gallon of milk, and if they have eggs, get a dozen.' He comes home with 12 gallons of milk.",
+    "source_zh": "Programmer Joke",
+    "source_en": "Programmer Joke"
+  },
+  {
+    "id": "stem_62ae5d9a74",
+    "content": "Algorithm: A word used by programmers when they don't want to explain what they did.",
+    "category": "cs_geek",
+    "tags": [
+      "algorithm",
+      "definition",
+      "satire"
+    ],
+    "language": "en",
+    "source": "Tech Dictionary",
+    "content_zh": "算法：程序员不想解释自己写了啥时用的一个词。",
+    "content_en": "Algorithm: A word used by programmers when they don't want to explain what they did.",
+    "source_zh": "Tech Dictionary",
+    "source_en": "Tech Dictionary"
+  },
+  {
+    "id": "stem_9e8849be6d",
+    "content": "It works on my machine. Then we'll ship your machine! And that is how Docker was born.",
+    "category": "cs_geek",
+    "tags": [
+      "docker",
+      "devops",
+      "containers"
+    ],
+    "language": "en",
+    "source": "DevOps Lore",
+    "content_zh": "在我机器上运行得好好的。——那把你的机器打包发走！Docker 就是这么诞生的。",
+    "content_en": "It works on my machine. Then we'll ship your machine! And that is how Docker was born.",
+    "source_zh": "DevOps Lore",
+    "source_en": "DevOps Lore"
+  },
+  {
+    "id": "stem_51cc77ca2c",
+    "content": "There are only 10 types of programmers in this world: those who start array indexing at 0, and those who start indexing at 1.",
+    "category": "cs_geek",
+    "tags": [
+      "indexing",
+      "zero_based",
+      "pun"
+    ],
+    "language": "en",
+    "source": "Array Indexing Humor",
+    "content_zh": "世界上只有 10 种程序员：一种是从 0 开始数数组索引的，另一种是从 1 开始的。",
+    "content_en": "There are only 10 types of programmers in this world: those who start array indexing at 0, and those who start indexing at 1.",
+    "source_zh": "Array Indexing Humor",
+    "source_en": "Array Indexing Humor"
+  },
+  {
+    "id": "stem_f7e35666b6",
+    "content": "Unix is simple. It just takes a genius to understand its simplicity. — Dennis Ritchie",
+    "category": "cs_geek",
+    "tags": [
+      "unix",
+      "dennis_ritchie",
+      "philosophy"
+    ],
+    "language": "en",
+    "source": "Bell Labs Quotes",
+    "content_zh": "Unix 其實很簡單，只需一個天才就能理解它的簡單。——丹尼斯·里奇",
+    "content_en": "Unix is simple. It just takes a genius to understand its simplicity. — Dennis Ritchie",
+    "source_zh": "Bell Labs Quotes",
+    "source_en": "Bell Labs Quotes"
+  },
+  {
+    "id": "stem_ff03ead419",
+    "content": "A SQL query walks into a bar, walks up to two tables and politely asks: 'May I JOIN you?'",
+    "category": "cs_geek",
+    "tags": [
+      "sql",
+      "database",
+      "pun"
+    ],
+    "language": "en",
+    "source": "Database Humor",
+    "content_zh": "一个SQL查询走进一家酒吧，走到两张桌子前，礼貌地问：“请问我可以和你们 JOIN 吗？”",
+    "content_en": "A SQL query walks into a bar, walks up to two tables and politely asks: 'May I JOIN you?'",
+    "source_zh": "Database Humor",
+    "source_en": "Database Humor"
+  },
+  {
+    "id": "stem_6aa6e0a983",
+    "content": "世界上只有 10 种人：一种是懂二进制的，另一种是不懂二进制的。",
+    "category": "cs_geek",
+    "tags": [
+      "binary",
+      "classic",
+      "programmer"
+    ],
+    "language": "zh",
+    "source": "程序员经典梗",
+    "content_zh": "世界上只有 10 种人：一种是懂二进制的，另一种是不懂二进制的。",
+    "content_en": "There are 10 kinds of people in the world: those who understand binary, and those who don't.",
+    "source_zh": "程序员经典梗",
+    "source_en": "程序员经典梗"
+  },
+  {
+    "id": "stem_e2527b475c",
+    "content": "程序员最讨厌康熙的哪个儿子？八阿哥，因为他是 Bug（八阿哥）。",
+    "category": "cs_geek",
+    "tags": [
+      "pun",
+      "bug",
+      "humor"
+    ],
+    "language": "zh",
+    "source": "中文谐音梗",
+    "content_zh": "程序员最讨厌康熙的哪个儿子？八阿哥，因为他是 Bug（八阿哥）。",
+    "content_en": "Which of Emperor Kangxi's sons do programmers hate the most? The Eighth Prince—because he's a bug.",
+    "source_zh": "中文谐音梗",
+    "source_en": "中文谐音梗"
+  },
+  {
+    "id": "stem_66121d658c",
+    "content": "在我的机器上明明跑得好好的！（It works on my machine!）——那么就把你的机器打包发给客户吧，于是容器技术 Docker 诞生了。",
+    "category": "cs_geek",
+    "tags": [
+      "docker",
+      "devops",
+      "classic"
+    ],
+    "language": "zh",
+    "source": "云原生起源传说",
+    "content_zh": "在我的机器上明明跑得好好的！（It works on my machine!）——那么就把你的机器打包发给客户吧，于是容器技术 Docker 诞生了。",
+    "content_en": "\"It works on my machine!\" — \"Well then, just ship your machine to the client.\" And thus, Docker was born.",
+    "source_zh": "云原生起源传说",
+    "source_en": "云原生起源传说"
+  },
+  {
+    "id": "stem_ac9d3e8b72",
+    "content": "过早的优化是万恶之源（Premature optimization is the root of all evil）。—— 高德纳（Donald Knuth）",
+    "category": "cs_geek",
+    "tags": [
+      "optimization",
+      "knuth",
+      "classic_quote"
+    ],
+    "language": "zh",
+    "source": "计算机程序设计艺术",
+    "content_zh": "过早的优化是万恶之源（Premature optimization is the root of all evil）。—— 高德纳（Donald Knuth）",
+    "content_en": "Premature optimization is the root of all evil. — Donald Knuth",
+    "source_zh": "计算机程序设计艺术",
+    "source_en": "计算机程序设计艺术"
+  },
+  {
+    "id": "stem_9f64f27218",
+    "content": "软件测试只能证明程序存在 Bug，永远无法证明程序没有 Bug。—— 艾兹格·迪杰斯特拉（Edsger W. Dijkstra）",
+    "category": "cs_geek",
+    "tags": [
+      "testing",
+      "dijkstra",
+      "software_engineering"
+    ],
+    "language": "zh",
+    "source": "计算机理论名言",
+    "content_zh": "软件测试只能证明程序存在 Bug，永远无法证明程序没有 Bug。—— 艾兹格·迪杰斯特拉（Edsger W. Dijkstra）",
+    "content_en": "Program testing can be used to show the presence of bugs, but never to show their absence.",
+    "source_zh": "计算机理论名言",
+    "source_en": "计算机理论名言"
+  },
+  {
+    "id": "stem_8c851d4047",
+    "content": "Jeff Dean 在白板上用多项式时间解完了所有 NP 难问题，顺手证明了 P = NP。",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "np_complete",
+      "complexity"
+    ],
+    "language": "zh",
+    "source": "Jeff Dean Facts",
+    "content_zh": "Jeff Dean 在白板上用多项式时间解完了所有 NP 难问题，顺手证明了 P = NP。",
+    "content_en": "Jeff Dean solved all NP-hard problems in polynomial time on a whiteboard, and proved P = NP just for kicks.",
+    "source_zh": "Jeff Dean Facts",
+    "source_en": "Jeff Dean Facts"
+  },
+  {
+    "id": "stem_9b46b6985b",
+    "content": "gcc -O4 参数实际上并不是编译器优化，而是直接把你的源代码通过邮件抄送给 Jeff Dean 让他抽空重写一遍。",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "compiler",
+      "gcc"
+    ],
+    "language": "zh",
+    "source": "Jeff Dean Facts",
+    "content_zh": "gcc -O4 参数实际上并不是编译器优化，而是直接把你的源代码通过邮件抄送给 Jeff Dean 让他抽空重写一遍。",
+    "content_en": "The gcc -O4 flag doesn't actually optimize your code; it just emails your source directly to Jeff Dean so he can rewrite it in his spare time.",
+    "source_zh": "Jeff Dean Facts",
+    "source_en": "Jeff Dean Facts"
+  },
+  {
+    "id": "stem_8fd19c9a0f",
+    "content": "Jeff Dean 的网络 Ping 值是负数，因为光速嫌走得太慢，提前把数据包送过来了。",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "networking",
+      "latency"
+    ],
+    "language": "zh",
+    "source": "Jeff Dean Facts",
+    "content_zh": "Jeff Dean 的网络 Ping 值是负数，因为光速嫌走得太慢，提前把数据包送过来了。",
+    "content_en": "Jeff Dean's network ping is negative because the speed of light thinks it's moving too slowly and delivers his packets ahead of time.",
+    "source_zh": "Jeff Dean Facts",
+    "source_en": "Jeff Dean Facts"
+  },
+  {
+    "id": "stem_7fc1a593c9",
+    "content": "递归的最关键一步，是先理解什么是递归。要理解递归，请先参见‘递归’。",
+    "category": "cs_geek",
+    "tags": [
+      "recursion",
+      "algorithms",
+      "meta"
+    ],
+    "language": "zh",
+    "source": "算法冷幽默",
+    "content_zh": "递归的最关键一步，是先理解什么是递归。要理解递归，请先参见‘递归’。",
+    "content_en": "To understand recursion, you must first understand recursion. To understand recursion, please see \"recursion\".",
+    "source_zh": "算法冷幽默",
+    "source_en": "算法冷幽默"
+  },
+  {
+    "id": "stem_f9def17998",
+    "content": "为什么程序员把键盘上的按键按得啪啪响？因为他们在用手速假装 O(1) 的时间复杂度，掩盖代码底层其实是 O(N!) 的尴尬。",
+    "category": "cs_geek",
+    "tags": [
+      "time_complexity",
+      "algorithms",
+      "performance"
+    ],
+    "language": "zh",
+    "source": "算法工程师自嘲",
+    "content_zh": "为什么程序员把键盘上的按键按得啪啪响？因为他们在用手速假装 O(1) 的时间复杂度，掩盖代码底层其实是 O(N!) 的尴尬。",
+    "content_en": "Why do programmers hammer on their keyboards with such loud, clacking fury? Because they're using high APM to fake an $O(1)$ time complexity, desperately masking the mortifying $O(N!)$ reality lurking deep down in their codebase.",
+    "source_zh": "算法工程师自嘲",
+    "source_en": "算法工程师自嘲"
+  },
+  {
+    "id": "stem_1c50a169f5",
+    "content": "如果建筑工人盖房子的方式就像程序员写软件一样，那么随便飞来一只啄木鸟就能摧毁整个人类文明。",
+    "category": "cs_geek",
+    "tags": [
+      "software_engineering",
+      "bugs",
+      "analogy"
+    ],
+    "language": "zh",
+    "source": "Gerald Weinberg法则",
+    "content_zh": "如果建筑工人盖房子的方式就像程序员写软件一样，那么随便飞来一只啄木鸟就能摧毁整个人类文明。",
+    "content_en": "If construction workers built houses the way programmers write software, a single stray woodpecker would crash human civilization.",
+    "source_zh": "Gerald Weinberg法则",
+    "source_en": "Gerald Weinberg法则"
+  },
+  {
+    "id": "stem_26b596b406",
+    "content": "世上最漫长的等待：一是等待编译通过，二是等待 Git rebase 冲突解完，三是想退出 Vim 却无论如何退不出去。",
+    "category": "cs_geek",
+    "tags": [
+      "vim",
+      "git",
+      "compiler",
+      "jokes"
+    ],
+    "language": "zh",
+    "source": "程序员之痛",
+    "content_zh": "世上最漫长的等待：一是等待编译通过，二是等待 Git rebase 冲突解完，三是想退出 Vim 却无论如何退不出去。",
+    "content_en": "The three longest waits in life: waiting for the build to compile, resolving a Git rebase conflict, and trying to figure out how the hell to exit Vim.",
+    "source_zh": "程序员之痛",
+    "source_en": "程序员之痛"
+  },
+  {
+    "id": "stem_1ad66717e8",
+    "content": "硬件就是你在软件崩溃时，唯一能够用脚狠狠踹上去宣泄愤怒的物理实体。",
+    "category": "cs_geek",
+    "tags": [
+      "hardware",
+      "software",
+      "definition"
+    ],
+    "language": "zh",
+    "source": "计算机民间词典",
+    "content_zh": "硬件就是你在软件崩溃时，唯一能够用脚狠狠踹上去宣泄愤怒的物理实体。",
+    "content_en": "Hardware is just the physical entity you can viciously kick with your foot to vent your frustration when the software crashes.",
+    "source_zh": "计算机民间词典",
+    "source_en": "计算机民间词典"
+  },
+  {
+    "id": "stem_2714db6759",
+    "content": "Jeff Dean 在键盘上只用 0 和 1 两个键打字，后来他觉得 0 冗余了，于是只保留了 1。",
+    "category": "cs_geek",
+    "tags": [
+      "jeff_dean",
+      "binary",
+      "superhero"
+    ],
+    "language": "zh",
+    "source": "Jeff Dean Facts",
+    "content_zh": "Jeff Dean 在键盘上只用 0 和 1 两个键打字，后来他觉得 0 冗余了，于是只保留了 1。",
+    "content_en": "Jeff Dean types using only 0 and 1. Later, he realized 0 was redundant, so he kept just 1.",
+    "source_zh": "Jeff Dean Facts",
+    "source_en": "Jeff Dean Facts"
+  },
+  {
+    "id": "stem_5cf2c87625",
+    "content": "There are 10 types of people in the world: those who understand binary, and those who do not.",
+    "category": "math_logic",
+    "tags": [
+      "binary",
+      "logic",
+      "classic"
+    ],
+    "language": "en",
+    "source": "Classic Math Pun",
+    "content_zh": "世界上有 10 种人：一种懂二进制，另一种不懂。",
+    "content_en": "There are 10 types of people in the world: those who understand binary, and those who do not.",
+    "source_zh": "Classic Math Pun",
+    "source_en": "Classic Math Pun"
+  },
+  {
+    "id": "stem_2025499d47",
+    "content": "Why do mathematicians confuse Halloween and Christmas? Because Oct 31 == Dec 25.",
+    "category": "math_logic",
+    "tags": [
+      "octal",
+      "decimal",
+      "pun"
+    ],
+    "language": "en",
+    "source": "Math Joke",
+    "content_zh": "为什么数学家总把万圣节和圣诞节搞混？因为 Oct 31 == Dec 25。",
+    "content_en": "Why do mathematicians confuse Halloween and Christmas? Because Oct 31 == Dec 25.",
+    "source_zh": "Math Joke",
+    "source_en": "Math Joke"
+  },
+  {
+    "id": "stem_7b77c11f30",
+    "content": "1 + 1 = 3, for sufficiently large values of 1 and a generous grant from the funding agency.",
+    "category": "math_logic",
+    "tags": [
+      "arithmetic",
+      "science_satire"
+    ],
+    "language": "en",
+    "source": "fortune-mod/science",
+    "content_zh": "1 + 1 = 3，前提是 1 足够大，且项目经费批得足够慷慨。",
+    "content_en": "1 + 1 = 3, for sufficiently large values of 1 and a generous grant from the funding agency.",
+    "source_zh": "fortune-mod/science",
+    "source_en": "fortune-mod/science"
+  },
+  {
+    "id": "stem_33498ebeae",
+    "content": "An infinite number of mathematicians walk into a bar. The first orders a pint, the second orders half a pint, the third a quarter. The bartender pours two pints and says: 'Know your limits.'",
+    "category": "math_logic",
+    "tags": [
+      "series",
+      "limits",
+      "bar_joke"
+    ],
+    "language": "en",
+    "source": "Math Bar Joke",
+    "content_zh": "无限个数学家走进酒吧。第一个点了一品脱，第二个点了一半品脱，第三个点了四分之一。酒保倒了两品脱，然后说：“懂点极限吧。”",
+    "content_en": "An infinite number of mathematicians walk into a bar. The first orders a pint, the second orders half a pint, the third a quarter. The bartender pours two pints and says: 'Know your limits.'",
+    "source_zh": "Math Bar Joke",
+    "source_en": "Math Bar Joke"
+  },
+  {
+    "id": "stem_a17dbfd501",
+    "content": "A topologist is someone who cannot tell the difference between a coffee cup and a doughnut.",
+    "category": "math_logic",
+    "tags": [
+      "topology",
+      "doughnut"
+    ],
+    "language": "en",
+    "source": "fortune-mod/science",
+    "content_zh": "拓扑学家就是分不清咖啡杯和甜甜圈到底哪个更能泡着吃的人……不对，是根本看不出它们俩有啥区别的人！",
+    "content_en": "A topologist is someone who cannot tell the difference between a coffee cup and a doughnut.",
+    "source_zh": "fortune-mod/science",
+    "source_en": "fortune-mod/science"
+  },
+  {
+    "id": "stem_e68e051679",
+    "content": "Philosophy is a game with objectives and no rules. Mathematics is a game with rules and no objectives.",
+    "category": "math_logic",
+    "tags": [
+      "philosophy",
+      "mathematics"
+    ],
+    "language": "en",
+    "source": "fortune-mod/science",
+    "content_zh": "哲学是没有规则但有目标的竞技，数学是有规则却没有目标的通关。",
+    "content_en": "Philosophy is a game with objectives and no rules. Mathematics is a game with rules and no objectives.",
+    "source_zh": "fortune-mod/science",
+    "source_en": "fortune-mod/science"
+  },
+  {
+    "id": "stem_920e3385da",
+    "content": "Let epsilon < 0. That will teach the analyst to make unjustified assumptions!",
+    "category": "math_logic",
+    "tags": [
+      "real_analysis",
+      "epsilon"
+    ],
+    "language": "en",
+    "source": "Academic Math Pun",
+    "content_zh": "设 $\\epsilon < 0$。这下看那个分析学家还敢不敢瞎做毫无根据的假设！",
+    "content_en": "Let epsilon < 0. That will teach the analyst to make unjustified assumptions!",
+    "source_zh": "Academic Math Pun",
+    "source_en": "Academic Math Pun"
+  },
+  {
+    "id": "stem_014bf4f1c3",
+    "content": "Life is complex: it has both real and imaginary parts.",
+    "category": "math_logic",
+    "tags": [
+      "complex_numbers",
+      "one_liner"
+    ],
+    "language": "en",
+    "source": "Geek One-liner",
+    "content_zh": "人生挺复杂的：既有实部，也有虚部。",
+    "content_en": "Life is complex: it has both real and imaginary parts.",
+    "source_zh": "Geek One-liner",
+    "source_en": "Geek One-liner"
+  },
+  {
+    "id": "stem_59f9a50608",
+    "content": "What is the contour integral around Western Europe? Zero, because all the Poles are in Eastern Europe.",
+    "category": "math_logic",
+    "tags": [
+      "complex_analysis",
+      "cauchy_theorem",
+      "pun"
+    ],
+    "language": "en",
+    "source": "Complex Analysis Humor",
+    "content_zh": "西欧的回路积分是多少？零，因为所有的极点（波兰人）都在东欧。",
+    "content_en": "What is the contour integral around Western Europe? Zero, because all the Poles are in Eastern Europe.",
+    "source_zh": "Complex Analysis Humor",
+    "source_en": "Complex Analysis Humor"
+  },
+  {
+    "id": "stem_a1f1445ab6",
+    "content": "Proof by intimidation: 'Trivial.' Proof by lack of space: 'The margin is too narrow to contain this.' Proof by exhaustion: 'I will write down 500 pages until the referee agrees.'",
+    "category": "math_logic",
+    "tags": [
+      "proof_methods",
+      "academic_satire"
+    ],
+    "language": "en",
+    "source": "Math Colloquium Lore",
+    "content_zh": "威吓法：显然。篇幅法：空白处太小，写不下。穷举法：老子写满五百页，直到审稿人崩溃妥协为止。",
+    "content_en": "Proof by intimidation: 'Trivial.' Proof by lack of space: 'The margin is too narrow to contain this.' Proof by exhaustion: 'I will write down 500 pages until the referee agrees.'",
+    "source_zh": "Math Colloquium Lore",
+    "source_en": "Math Colloquium Lore"
+  },
+  {
+    "id": "stem_98c49e4795",
+    "content": "God exists since mathematics is consistent, and the Devil exists since we cannot prove it. — André Weil",
+    "category": "math_logic",
+    "tags": [
+      "consistency",
+      "logic",
+      "andre_weil"
+    ],
+    "language": "en",
+    "source": "Mathematical Wisdom",
+    "content_zh": "上帝存在，因为数学是相容的；魔鬼存在，因为我们无法证明它。——安德烈·韦伊",
+    "content_en": "God exists since mathematics is consistent, and the Devil exists since we cannot prove it. — André Weil",
+    "source_zh": "Mathematical Wisdom",
+    "source_en": "Mathematical Wisdom"
+  },
+  {
+    "id": "stem_fb7d93fba7",
+    "content": "There are three kinds of mathematicians: those who can count, and those who cannot.",
+    "category": "math_logic",
+    "tags": [
+      "counting",
+      "self_deprecation",
+      "pun"
+    ],
+    "language": "en",
+    "source": "Math Folk Joke",
+    "content_zh": "世界上只有两种数学家：一种是会数数的，另一种是不会数数的。",
+    "content_en": "There are three kinds of mathematicians: those who can count, and those who cannot.",
+    "source_zh": "Math Folk Joke",
+    "source_en": "Math Folk Joke"
+  },
+  {
+    "id": "stem_d050783572",
+    "content": "Why did 6 fear 7? Because 7 8 9. But why did 7 eat 9? Because you are supposed to eat three squared meals a day.",
+    "category": "math_logic",
+    "tags": [
+      "number_pun",
+      "arithmetic"
+    ],
+    "language": "en",
+    "source": "Classic Number Pun",
+    "content_zh": "为什么 6 怕 7？因为 7 8 9（ate 9）。但 7 为什么要把 9 吃掉？因为人每天本来就该吃三餐（three squared meals，即 $3^2 = 9$ 顿饭）。",
+    "content_en": "Why did 6 fear 7? Because 7 8 9. But why did 7 eat 9? Because you are supposed to eat three squared meals a day.",
+    "source_zh": "Classic Number Pun",
+    "source_en": "Classic Number Pun"
+  },
+  {
+    "id": "stem_1daef630b6",
+    "content": "拓扑学家就是分不清咖啡杯和甜甜圈的人，但他们确信两者的欧拉示性数相同。",
+    "category": "math_logic",
+    "tags": [
+      "topology",
+      "geometry",
+      "humor"
+    ],
+    "language": "zh",
+    "source": "大学数学系日常",
+    "content_zh": "拓扑学家就是分不清咖啡杯和甜甜圈的人，但他们确信两者的欧拉示性数相同。",
+    "content_en": "A topologist is someone who can't tell a coffee mug from a doughnut, but is damn sure they both have the same Euler characteristic.",
+    "source_zh": "大学数学系日常",
+    "source_en": "大学数学系日常"
+  },
+  {
+    "id": "stem_02ec2e62d6",
+    "content": "遇到微商不要慌，两边求导保平安；但如果你是 e^x，求导一万次依然毫无波澜。",
+    "category": "math_logic",
+    "tags": [
+      "calculus",
+      "exponential",
+      "pun"
+    ],
+    "language": "zh",
+    "source": "高等数学梗",
+    "content_zh": "遇到微商不要慌，两边求导保平安；但如果你是 e^x，求导一万次依然毫无波澜。",
+    "content_en": "Don't panic when faced with micro-vendors—take the derivative of both sides to stay safe; but if you're $e^x$, differentiating ten thousand times still leaves you completely unfazed.",
+    "source_zh": "高等数学梗",
+    "source_en": "高等数学梗"
+  },
+  {
+    "id": "stem_fa4de784f0",
+    "content": "洛必达法则拯救了无数未定式的极限，但拯救不了你无限趋近于零的期末绩点。",
+    "category": "math_logic",
+    "tags": [
+      "calculus",
+      "limits",
+      "lhopital"
+    ],
+    "language": "zh",
+    "source": "高数吐槽",
+    "content_zh": "洛必达法则拯救了无数未定式的极限，但拯救不了你无限趋近于零的期末绩点。",
+    "content_en": "L'Hôpital's Rule saved countless indeterminate limit forms, but it can't save your final GPA from approaching zero.",
+    "source_zh": "高数吐槽",
+    "source_en": "高数吐槽"
+  },
+  {
+    "id": "stem_bec24b5002",
+    "content": "根据哥德尔不完备定理，任何包含初等数论的形式系统都是不完备的——也就是说，你写不出完全没有 Bug 的世界观。",
+    "category": "math_logic",
+    "tags": [
+      "goedel",
+      "incompleteness",
+      "logic"
+    ],
+    "language": "zh",
+    "source": "数理逻辑",
+    "content_zh": "根据哥德尔不完备定理，任何包含初等数论的形式系统都是不完备的——也就是说，你写不出完全没有 Bug 的世界观。",
+    "content_en": "Per Gödel's incompleteness theorems, any formal system capable of expressing elementary number theory is inherently incomplete—which is to say, you can't write a worldview that's completely bug-free.",
+    "source_zh": "数理逻辑",
+    "source_en": "数理逻辑"
+  },
+  {
+    "id": "stem_c0a4f5b7b8",
+    "content": "选择公理（Axiom of Choice）：如果你有一堆非空集合，你总能从每一个集合里挑出一个元素——除了在现实中挑出你的对象。",
+    "category": "math_logic",
+    "tags": [
+      "set_theory",
+      "axiom_of_choice"
+    ],
+    "language": "zh",
+    "source": "集合论",
+    "content_zh": "选择公理（Axiom of Choice）：如果你有一堆非空集合，你总能从每一个集合里挑出一个元素——除了在现实中挑出你的对象。",
+    "content_en": "Axiom of Choice: You can always pick an element from each of infinitely many non-empty sets—except when trying to pick a partner in real life.",
+    "source_zh": "集合论",
+    "source_en": "集合论"
+  },
+  {
+    "id": "stem_ab5ea4bfff",
+    "content": "只要阶数足够高，泰勒展开可以拟合任何一段曲折的人生，可惜生活往往在不可导点突然断裂。",
+    "category": "math_logic",
+    "tags": [
+      "calculus",
+      "taylor_series"
+    ],
+    "language": "zh",
+    "source": "数学哲学",
+    "content_zh": "只要阶数足够高，泰勒展开可以拟合任何一段曲折的人生，可惜生活往往在不可导点突然断裂。",
+    "content_en": "Given a high enough order, a Taylor series can fit any convoluted life story—too bad life always fractures unexpectedly at the non-differentiable points.",
+    "source_zh": "数学哲学",
+    "source_en": "数学哲学"
+  },
+  {
+    "id": "stem_af1a9b919e",
+    "content": "证明所有正整数都是有趣的：反设存在不有趣的数，则必有最小的不有趣数，但‘最小的不有趣数’这个性质本身就很有趣，矛盾。Q.E.D.",
+    "category": "math_logic",
+    "tags": [
+      "proof",
+      "contradiction",
+      "number_theory"
+    ],
+    "language": "zh",
+    "source": "离散数学",
+    "content_zh": "证明所有正整数都是有趣的：反设存在不有趣的数，则必有最小的不有趣数，但‘最小的不有趣数’这个性质本身就很有趣，矛盾。Q.E.D.",
+    "content_en": "Proof that all positive integers are interesting: Assume there exists a set of uninteresting numbers; then there must be a smallest uninteresting number. But having the property of being \"the smallest uninteresting number\" is inherently interesting. Contradiction. Q.E.D.",
+    "source_zh": "离散数学",
+    "source_en": "离散数学"
+  },
+  {
+    "id": "stem_e72175f140",
+    "content": "克莱因瓶最大的缺点是永远装不满水，最大的优点也是——它装下了整个宇宙。",
+    "category": "math_logic",
+    "tags": [
+      "topology",
+      "klein_bottle"
+    ],
+    "language": "zh",
+    "source": "几何与拓扑",
+    "content_zh": "克莱因瓶最大的缺点是永远装不满水，最大的优点也是——它装下了整个宇宙。",
+    "content_en": "The Klein bottle’s biggest flaw is that it can never be filled with water—and its greatest strength is that it holds the entire universe.",
+    "source_zh": "几何与拓扑",
+    "source_en": "几何与拓扑"
+  },
+  {
+    "id": "stem_bf6338506a",
+    "content": "欧拉公式 e^(i*pi) + 1 = 0：将自然对数的底、虚数单位、圆周率、乘法单位元和加法单位元融为一体，美到令人落泪，却依然算不出你到底在纠结什么。",
+    "category": "math_logic",
+    "tags": [
+      "euler_formula",
+      "complex_analysis"
+    ],
+    "language": "zh",
+    "source": "复变函数",
+    "content_zh": "欧拉公式 e^(i*pi) + 1 = 0：将自然对数的底、虚数单位、圆周率、乘法单位元和加法单位元融为一体，美到令人落泪，却依然算不出你到底在纠结什么。",
+    "content_en": "Euler's identity, $e^{i\\pi} + 1 = 0$: uniting the base of natural logarithms, the imaginary unit, pi, the multiplicative identity, and the additive identity into a tear-jerking masterpiece, yet still unable to compute what on earth you're agonizing over.",
+    "source_zh": "复变函数",
+    "source_en": "复变函数"
+  },
+  {
+    "id": "stem_74b9fbc150",
+    "content": "皮亚诺公理说 1 是自然数，后继数互不相同。可现实是大家都在内卷，连基数都在膨胀。",
+    "category": "math_logic",
+    "tags": [
+      "peano_axioms",
+      "logic"
+    ],
+    "language": "zh",
+    "source": "数理逻辑",
+    "content_zh": "皮亚诺公理说 1 是自然数，后继数互不相同。可现实是大家都在内卷，连基数都在膨胀。",
+    "content_en": "Peano says 1 is a natural number and successors are unique. But reality? Everyone's overworking and even the cardinality is inflating.",
+    "source_zh": "数理逻辑",
+    "source_en": "数理逻辑"
+  },
+  {
+    "id": "stem_7112c551df",
+    "content": "在可数开覆盖中总能找到有限子覆盖——这就是紧致性（Compactness）。愿你的知识体系也是紧致的，无论如何发散都能被有限理解。",
+    "category": "math_logic",
+    "tags": [
+      "point_set_topology",
+      "compactness"
+    ],
+    "language": "zh",
+    "source": "点集拓扑",
+    "content_zh": "在可数开覆盖中总能找到有限子覆盖——这就是紧致性（Compactness）。愿你的知识体系也是紧致的，无论如何发散都能被有限理解。",
+    "content_en": "Every countable open cover always yields a finite subcover—that's compactness. May your knowledge base be equally compact, so no matter how wildly you diverge, you can always be grasped in a finite number of steps.",
+    "source_zh": "点集拓扑",
+    "source_en": "点集拓扑"
+  },
+  {
+    "id": "stem_dd0e50df61",
+    "content": "夹逼定理告诉我们：只要上限和下限都在向同一个美好终点收敛，被夹在中间的你也终将抵达那个极限。",
+    "category": "math_logic",
+    "tags": [
+      "calculus",
+      "squeeze_theorem",
+      "encouragement"
+    ],
+    "language": "zh",
+    "source": "高数鸡汤",
+    "content_zh": "夹逼定理告诉我们：只要上限和下限都在向同一个美好终点收敛，被夹在中间的你也终将抵达那个极限。",
+    "content_en": "The Squeeze Theorem teaches us this: as long as both the upper and lower bounds converge toward the same beautiful endpoint, you, squeezed right in the middle, are bound to reach that limit too.",
+    "source_zh": "高数鸡汤",
+    "source_en": "高数鸡汤"
+  },
+  {
+    "id": "stem_1c3779be7d",
+    "content": "数学的本质在于它的自由。—— 格奥尔格·康托尔（Georg Cantor）",
+    "category": "math_logic",
+    "tags": [
+      "cantor",
+      "set_theory",
+      "infinity",
+      "quote"
+    ],
+    "language": "zh",
+    "source": "数学名言",
+    "content_zh": "数学的本质在于它的自由。—— 格奥尔格·康托尔（Georg Cantor）",
+    "content_en": "The essence of mathematics lies in its absolute freedom. — Georg Cantor",
+    "source_zh": "数学名言",
+    "source_en": "数学名言"
+  },
+  {
+    "id": "stem_122d8560d6",
+    "content": "拓扑学毛球定理（Hairy Ball Theorem）：你永远无法把一个毛球完全梳平而不起旋。也就是说，地球上任意时刻至少有一个地方风速为零。",
+    "category": "math_logic",
+    "tags": [
+      "topology",
+      "hairy_ball",
+      "differential_geometry"
+    ],
+    "language": "zh",
+    "source": "微分拓扑奇迹",
+    "content_zh": "拓扑学毛球定理（Hairy Ball Theorem）：你永远无法把一个毛球完全梳平而不起旋。也就是说，地球上任意时刻至少有一个地方风速为零。",
+    "content_en": "The Hairy Ball Theorem states that you can't comb a fuzzy sphere completely flat without creating a cowlick. Translation: somewhere on Earth right now, the wind is completely dead.",
+    "source_zh": "微分拓扑奇迹",
+    "source_en": "微分拓扑奇迹"
+  },
+  {
+    "id": "stem_2c2645bbf3",
+    "content": "巴拿赫-塔斯基悖论（Banach-Tarski Paradox）：选择公理允许我们将一个实心球切成五块，然后重新拼成两个和原来一模一样的实心球。数学家发家致富的唯一假想捷径。",
+    "category": "math_logic",
+    "tags": [
+      "set_theory",
+      "banach_tarski",
+      "axiom_of_choice"
+    ],
+    "language": "zh",
+    "source": "测度论与集合论",
+    "content_zh": "巴拿赫-塔斯基悖论（Banach-Tarski Paradox）：选择公理允许我们将一个实心球切成五块，然后重新拼成两个和原来一模一样的实心球。数学家发家致富的唯一假想捷径。",
+    "content_en": "The Banach-Tarski Paradox: where the Axiom of Choice lets you chop a solid sphere into five pieces and reassemble them into two identical copies. The only hypothetical cheat code for mathematicians to double their assets.",
+    "source_zh": "测度论与集合论",
+    "source_en": "测度论与集合论"
+  },
+  {
+    "id": "stem_bd288f44c1",
+    "content": "为什么素数最孤僻？因为除了 1 和它自己，它拒绝与任何整数发生除法整除关系。",
+    "category": "math_logic",
+    "tags": [
+      "number_theory",
+      "primes",
+      "pun"
+    ],
+    "language": "zh",
+    "source": "数论冷笑话",
+    "content_zh": "为什么素数最孤僻？因为除了 1 和它自己，它拒绝与任何整数发生除法整除关系。",
+    "content_en": "Why are prime numbers so antisocial? Because besides 1 and themselves, they refuse to divide their time with any other integer.",
+    "source_zh": "数论冷笑话",
+    "source_en": "数论冷笑话"
+  },
+  {
+    "id": "stem_8409294b6f",
+    "content": "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.",
+    "category": "physics_stem",
+    "tags": [
+      "universe",
+      "douglas_adams",
+      "physics"
+    ],
+    "language": "en",
+    "source": "The Hitchhiker's Guide to the Galaxy",
+    "content_zh": "有一个理论说，如果哪天有人真弄明白了宇宙到底是干嘛用的、为什么会在这儿，宇宙就会瞬间消失，然后被某个更加离奇、更无法解释的东西取代。还有另一个理论说，这事儿其实已经发生过了。",
+    "content_en": "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.",
+    "source_zh": "The Hitchhiker's Guide to the Galaxy",
+    "source_en": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "id": "stem_5fda5cd9eb",
+    "content": "Heisenberg is speeding down the highway. A cop pulls him over and asks: 'Do you know how fast you were going?' Heisenberg replies: 'No, but I know exactly where I am!'",
+    "category": "physics_stem",
+    "tags": [
+      "heisenberg",
+      "quantum",
+      "speed_trap"
+    ],
+    "language": "en",
+    "source": "fortune-mod/science",
+    "content_zh": "海森堡在高速公路上超速狂飙，交警拦下他问：「你知道自己刚刚开多快吗？」海森堡回答：「不知道，但我清楚知道自己现在在哪！」",
+    "content_en": "Heisenberg is speeding down the highway. A cop pulls him over and asks: 'Do you know how fast you were going?' Heisenberg replies: 'No, but I know exactly where I am!'",
+    "source_zh": "fortune-mod/science",
+    "source_en": "fortune-mod/science"
+  },
+  {
+    "id": "stem_a8e4ed8eb7",
+    "content": "Schrodinger's cat walks into a bar. And doesn't.",
+    "category": "physics_stem",
+    "tags": [
+      "schrodinger",
+      "quantum_superposition",
+      "one_liner"
+    ],
+    "language": "en",
+    "source": "Physics Joke",
+    "content_zh": "薛定谔的猫走进了一家酒吧。又没走。\n（或者：薛定谔的猫走进了一家酒吧。又没有。）",
+    "content_en": "Schrodinger's cat walks into a bar. And doesn't.",
+    "source_zh": "Physics Joke",
+    "source_en": "Physics Joke"
+  },
+  {
+    "id": "stem_4bd0ab22aa",
+    "content": "A neutron walks into a bar and asks: 'How much for a beer?' The bartender smiles and says: 'For you, no charge.'",
+    "category": "physics_stem",
+    "tags": [
+      "neutron",
+      "charge",
+      "pun"
+    ],
+    "language": "en",
+    "source": "Classic Science Pun",
+    "content_zh": "中子走进酒吧问：“啤酒多少钱？”酒保笑着说：“对你，免费（不带电）。”",
+    "content_en": "A neutron walks into a bar and asks: 'How much for a beer?' The bartender smiles and says: 'For you, no charge.'",
+    "source_zh": "Classic Science Pun",
+    "source_en": "Classic Science Pun"
+  },
+  {
+    "id": "stem_0f840824dc",
+    "content": "Assume a spherical cow of uniform density in a vacuum...",
+    "category": "physics_stem",
+    "tags": [
+      "spherical_cow",
+      "physics_trope",
+      "approximation"
+    ],
+    "language": "en",
+    "source": "Physics Folklore",
+    "content_zh": "假设有一头各向同性、密度均匀、身处真空中的球形奶牛……",
+    "content_en": "Assume a spherical cow of uniform density in a vacuum...",
+    "source_zh": "Physics Folklore",
+    "source_en": "Physics Folklore"
+  },
+  {
+    "id": "stem_8d3113ec52",
+    "content": "Entropy isn't what it used to be.",
+    "category": "physics_stem",
+    "tags": [
+      "entropy",
+      "thermodynamics",
+      "one_liner"
+    ],
+    "language": "en",
+    "source": "fortune-mod/science",
+    "content_zh": "entropy 的面子，早已今非昔比了。",
+    "content_en": "Entropy isn't what it used to be.",
+    "source_zh": "fortune-mod/science",
+    "source_en": "fortune-mod/science"
+  },
+  {
+    "id": "stem_e3c26c7161",
+    "content": "Two electrons meet at a bus stop. One says: 'I think I lost an electron.' The other asks: 'Are you positive?'",
+    "category": "physics_stem",
+    "tags": [
+      "electron",
+      "positive",
+      "pun"
+    ],
+    "language": "en",
+    "source": "Science Puns",
+    "content_zh": "两个电子在公交车站相遇。一个说：“我好像丢了一个电子。”另一个问：“你确定吗？”",
+    "content_en": "Two electrons meet at a bus stop. One says: 'I think I lost an electron.' The other asks: 'Are you positive?'",
+    "source_zh": "Science Puns",
+    "source_en": "Science Puns"
+  },
+  {
+    "id": "stem_8b70ef0386",
+    "content": "If you think you understand quantum mechanics, you don't understand quantum mechanics. — Richard Feynman",
+    "category": "physics_stem",
+    "tags": [
+      "quantum_mechanics",
+      "feynman",
+      "classic_quote"
+    ],
+    "language": "en",
+    "source": "Richard Feynman Quotes",
+    "content_zh": "如果你觉得自己懂了量子力学，那你绝对是不懂量子力学。——理查德·费曼",
+    "content_en": "If you think you understand quantum mechanics, you don't understand quantum mechanics. — Richard Feynman",
+    "source_zh": "Richard Feynman Quotes",
+    "source_en": "Richard Feynman Quotes"
+  },
+  {
+    "id": "stem_208a783ee5",
+    "content": "Photons have mass? I didn't even know they were Catholic.",
+    "category": "physics_stem",
+    "tags": [
+      "photon",
+      "mass",
+      "pun"
+    ],
+    "language": "en",
+    "source": "fortune-mod/science",
+    "content_zh": "光子有质量？我都不知道它们还信天主教。",
+    "content_en": "Photons have mass? I didn't even know they were Catholic.",
+    "source_zh": "fortune-mod/science",
+    "source_en": "fortune-mod/science"
+  },
+  {
+    "id": "stem_4699f40338",
+    "content": "A physics student falls out of a window. He calculates his terminal velocity on the way down and writes 'Air resistance neglected' before impact.",
+    "category": "physics_stem",
+    "tags": [
+      "physics",
+      "free_fall",
+      "dark_humor"
+    ],
+    "language": "en",
+    "source": "Physics Dept Humor",
+    "content_zh": "一个物理系学生从窗户掉下去，他在下落过程中顺手算好了收尾速度，并在落地前写下：“空气阻力忽略不计”。",
+    "content_en": "A physics student falls out of a window. He calculates his terminal velocity on the way down and writes 'Air resistance neglected' before impact.",
+    "source_zh": "Physics Dept Humor",
+    "source_en": "Physics Dept Humor"
+  },
+  {
+    "id": "stem_dc5b3c7983",
+    "content": "假设有一头处于真空中的球形奶牛，质量均匀分布，忽略空气阻力和牛的心理健康状态……",
+    "category": "physics_stem",
+    "tags": [
+      "spherical_cow",
+      "modeling",
+      "physics"
+    ],
+    "language": "zh",
+    "source": "理论物理经典假设",
+    "content_zh": "假设有一头处于真空中的球形奶牛，质量均匀分布，忽略空气阻力和牛的心理健康状态……",
+    "content_en": "Assuming a spherical cow in a vacuum, with uniformly distributed mass, and neglecting air resistance and the cow's mental health state...",
+    "source_zh": "理论物理经典假设",
+    "source_en": "理论物理经典假设"
+  },
+  {
+    "id": "stem_c6d3c06edb",
+    "content": "海森堡测不准原理：如果你清楚知道自己代码写在哪里，你就不可能知道它什么时候会崩；反之亦然。",
+    "category": "physics_stem",
+    "tags": [
+      "heisenberg",
+      "uncertainty_principle",
+      "quantum"
+    ],
+    "language": "zh",
+    "source": "量子力学自嘲",
+    "content_zh": "海森堡测不准原理：如果你清楚知道自己代码写在哪里，你就不可能知道它什么时候会崩；反之亦然。",
+    "content_en": "Heisenberg's Uncertainty Principle: If you know precisely where your code is, you can never know when it will crash; and vice versa.",
+    "source_zh": "量子力学自嘲",
+    "source_en": "量子力学自嘲"
+  },
+  {
+    "id": "stem_f09408256a",
+    "content": "薛定谔的期末成绩：在教务系统登出成绩之前，我的绩点处于 4.0 与挂科的量子叠加态。",
+    "category": "physics_stem",
+    "tags": [
+      "schrodinger",
+      "quantum_superposition",
+      "college_life"
+    ],
+    "language": "zh",
+    "source": "大学期末现状",
+    "content_zh": "薛定谔的期末成绩：在教务系统登出成绩之前，我的绩点处于 4.0 与挂科的量子叠加态。",
+    "content_en": "Schrödinger's final grades: Until the registrar's portal logs the score, my GPA exists in a quantum superposition of a 4.0 and academic failure.",
+    "source_zh": "大学期末现状",
+    "source_en": "大学期末现状"
+  },
+  {
+    "id": "stem_f7838544fa",
+    "content": "热力学第二定律是唯一永远不会背叛你的物理定律：宇宙的孤立系统熵增不可逆，混乱才是常态，所以你的桌面乱得理直气壮。",
+    "category": "physics_stem",
+    "tags": [
+      "thermodynamics",
+      "entropy",
+      "physics"
+    ],
+    "language": "zh",
+    "source": "热力学哲学",
+    "content_zh": "热力学第二定律是唯一永远不会背叛你的物理定律：宇宙的孤立系统熵增不可逆，混乱才是常态，所以你的桌面乱得理直气壮。",
+    "content_en": "The Second Law of Thermodynamics is the only law of physics that will never let you down: entropy in an isolated system is irreversibly increasing, making chaos the default state—so your messy desk is scientifically justified.",
+    "source_zh": "热力学哲学",
+    "source_en": "热力学哲学"
+  },
+  {
+    "id": "stem_b3671b11f6",
+    "content": "显著性水平 p < 0.05：现代学术界最伟大的障眼法。只要洗牌的次数足够多，任何两个毫不相关的随机变量都能展现出命运般的强相关性。",
+    "category": "physics_stem",
+    "tags": [
+      "statistics",
+      "p_value",
+      "p_hacking"
+    ],
+    "language": "zh",
+    "source": "科研统计学黑话",
+    "content_zh": "显著性水平 p < 0.05：现代学术界最伟大的障眼法。只要洗牌的次数足够多，任何两个毫不相关的随机变量都能展现出命运般的强相关性。",
+    "content_en": "Significance level p < 0.05: Modern academia's greatest magic trick. Shuffle enough times, and any two completely unrelated random variables will exhibit a destiny-level strong correlation.",
+    "source_zh": "科研统计学黑话",
+    "source_en": "科研统计学黑话"
+  },
+  {
+    "id": "stem_68a1b0aad2",
+    "content": "不要问麦克斯韦妖今天吃什么，问就是把高动能分子偷偷赶到右边去了。",
+    "category": "physics_stem",
+    "tags": [
+      "maxwell_demon",
+      "thermodynamics"
+    ],
+    "language": "zh",
+    "source": "物理四大神兽",
+    "content_zh": "不要问麦克斯韦妖今天吃什么，问就是把高动能分子偷偷赶到右边去了。",
+    "content_en": "Don't ask what Maxwell's demon is having for lunch; just know it's secretly herding high-energy molecules to the right again.",
+    "source_zh": "物理四大神兽",
+    "source_en": "物理四大神兽"
+  },
+  {
+    "id": "stem_8c7e9f2f5c",
+    "content": "实验室第一定律：如果一个实验现象完全符合理论预期，请立刻检查是不是哪个传感器电源线忘了插。",
+    "category": "physics_stem",
+    "tags": [
+      "experiment",
+      "lab_rules",
+      "murphy_law"
+    ],
+    "language": "zh",
+    "source": "实验物理实录",
+    "content_zh": "实验室第一定律：如果一个实验现象完全符合理论预期，请立刻检查是不是哪个传感器电源线忘了插。",
+    "content_en": "First Law of the Lab: If an experiment completely matches theoretical expectations, immediately check if you forgot to plug in a sensor.",
+    "source_zh": "实验物理实录",
+    "source_en": "实验物理实录"
+  },
+  {
+    "id": "stem_7e21540e2a",
+    "content": "广义相对论告诉你时间是相对的：当你在听一堂无聊的高等代数课时，5 分钟相当于一个世纪；当你在打游戏时，3 个小时相当于一瞬间。",
+    "category": "physics_stem",
+    "tags": [
+      "relativity",
+      "einstein",
+      "time"
+    ],
+    "language": "zh",
+    "source": "爱因斯坦相对论幽默",
+    "content_zh": "广义相对论告诉你时间是相对的：当你在听一堂无聊的高等代数课时，5 分钟相当于一个世纪；当你在打游戏时，3 个小时相当于一瞬间。",
+    "content_en": "General relativity teaches us that time is relative: 5 minutes in a boring Abstract Algebra lecture feels like a century, while 3 hours of gaming flashes by in a Planck time.",
+    "source_zh": "爱因斯坦相对论幽默",
+    "source_en": "爱因斯坦相对论幽默"
+  },
+  {
+    "id": "stem_95631ad252",
+    "content": "中心极限定理：你也许天生特立独行，但当你被扔进足够庞大的人群时，你终将变成正态分布上一个不起眼的点。",
+    "category": "physics_stem",
+    "tags": [
+      "central_limit_theorem",
+      "normal_distribution",
+      "stats"
+    ],
+    "language": "zh",
+    "source": "概率论沉思",
+    "content_zh": "中心极限定理：你也许天生特立独行，但当你被扔进足够庞大的人群时，你终将变成正态分布上一个不起眼的点。",
+    "content_en": "Central Limit Theorem: You may be born an outlier, but once you're thrown into a large enough crowd, you'll just end up another unremarkable point on a normal distribution.",
+    "source_zh": "概率论沉思",
+    "source_en": "概率论沉思"
+  },
+  {
+    "id": "stem_bd6e1c2b87",
+    "content": "理科生的浪漫：你是我的正弦波，我是你的余弦波，虽然相位差了 π/2，但我们平方相加永远等于 1。",
+    "category": "physics_stem",
+    "tags": [
+      "trigonometry",
+      "stem_romance",
+      "sine_cosine"
+    ],
+    "language": "zh",
+    "source": "理科生的浪漫",
+    "content_zh": "理科生的浪漫：你是我的正弦波，我是你的余弦波，虽然相位差了 π/2，但我们平方相加永远等于 1。",
+    "content_en": "A STEM major's romance: You're my sine wave, and I'm your cosine wave—our phase difference is $\\pi/2$, but the sum of our squares is always 1.",
+    "source_zh": "理科生的浪漫",
+    "source_en": "理科生的浪漫"
+  },
+  {
+    "id": "stem_d96d725e1b",
+    "content": "只要真空涨落还在继续，虚粒子对就会在虚空中不断创生与湮灭，就像你在大学里不断产生又迅速幻灭的学习热情。",
+    "category": "physics_stem",
+    "tags": [
+      "quantum_fluctuation",
+      "annihilation",
+      "university_life"
+    ],
+    "language": "zh",
+    "source": "量子电动力学感悟",
+    "content_zh": "只要真空涨落还在继续，虚粒子对就会在虚空中不断创生与湮灭，就像你在大学里不断产生又迅速幻灭的学习热情。",
+    "content_en": "As long as vacuum fluctuations persist, virtual particle pairs will continually pop into existence and annihilate in the void—much like your fleeting bursts of study enthusiasm in college.",
+    "source_zh": "量子电动力学感悟",
+    "source_en": "量子电动力学感悟"
+  },
+  {
+    "id": "stem_b1d7a0a82d",
+    "content": "麦克斯韦方程组写在 T 恤上很帅，但在考卷上化简旋度和散度时，眼泪会模糊对称性的优美。",
+    "category": "physics_stem",
+    "tags": [
+      "maxwell_equations",
+      "electromagnetism",
+      "curl_div"
+    ],
+    "language": "zh",
+    "source": "电动力学血泪史",
+    "content_zh": "麦克斯韦方程组写在 T 恤上很帅，但在考卷上化简旋度和散度时，眼泪会模糊对称性的优美。",
+    "content_en": "Maxwell's equations look cool on a T-shirt, but when you're simplifying curl and divergence on an exam, tears tend to blur the beauty of symmetry.",
+    "source_zh": "电动力学血泪史",
+    "source_en": "电动力学血泪史"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "content": "拓扑学家就是分不清咖啡杯和甜甜圈的人，但他们确信两者的欧拉示性数相同。",
+    "category": "math_logic",
+    "tags": ["topology", "geometry", "humor"],
+    "language": "zh",
+    "source": "大学数学系日常"
+  },
+  {
+    "content": "遇到微商不要慌，两边求导保平安；但如果你是 e^x，求导一万次依然毫无波澜。",
+    "category": "math_logic",
+    "tags": ["calculus", "exponential", "pun"],
+    "language": "zh",
+    "source": "高等数学梗"
+  },
+  {
+    "content": "洛必达法则拯救了无数未定式的极限，但拯救不了你无限趋近于零的期末绩点。",
+    "category": "math_logic",
+    "tags": ["calculus", "limits", "lhopital"],
+    "language": "zh",
+    "source": "高数吐槽"
+  },
+  {
+    "content": "根据哥德尔不完备定理，任何包含初等数论的形式系统都是不完备的——也就是说，你写不出完全没有 Bug 的世界观。",
+    "category": "math_logic",
+    "tags": ["goedel", "incompleteness", "logic"],
+    "language": "zh",
+    "source": "数理逻辑"
+  },
+  {
+    "content": "选择公理（Axiom of Choice）：如果你有一堆非空集合，你总能从每一个集合里挑出一个元素——除了在现实中挑出你的对象。",
+    "category": "math_logic",
+    "tags": ["set_theory", "axiom_of_choice"],
+    "language": "zh",
+    "source": "集合论"
+  },
+  {
+    "content": "只要阶数足够高，泰勒展开可以拟合任何一段曲折的人生，可惜生活往往在不可导点突然断裂。",
+    "category": "math_logic",
+    "tags": ["calculus", "taylor_series"],
+    "language": "zh",
+    "source": "数学哲学"
+  },
+  {
+    "content": "证明所有正整数都是有趣的：反设存在不有趣的数，则必有最小的不有趣数，但‘最小的不有趣数’这个性质本身就很有趣，矛盾。Q.E.D.",
+    "category": "math_logic",
+    "tags": ["proof", "contradiction", "number_theory"],
+    "language": "zh",
+    "source": "离散数学"
+  },
+  {
+    "content": "克莱因瓶最大的缺点是永远装不满水，最大的优点也是——它装下了整个宇宙。",
+    "category": "math_logic",
+    "tags": ["topology", "klein_bottle"],
+    "language": "zh",
+    "source": "几何与拓扑"
+  },
+  {
+    "content": "欧拉公式 e^(i*pi) + 1 = 0：将自然对数的底、虚数单位、圆周率、乘法单位元和加法单位元融为一体，美到令人落泪，却依然算不出你到底在纠结什么。",
+    "category": "math_logic",
+    "tags": ["euler_formula", "complex_analysis"],
+    "language": "zh",
+    "source": "复变函数"
+  },
+  {
+    "content": "皮亚诺公理说 1 是自然数，后继数互不相同。可现实是大家都在内卷，连基数都在膨胀。",
+    "category": "math_logic",
+    "tags": ["peano_axioms", "logic"],
+    "language": "zh",
+    "source": "数理逻辑"
+  },
+  {
+    "content": "在可数开覆盖中总能找到有限子覆盖——这就是紧致性（Compactness）。愿你的知识体系也是紧致的，无论如何发散都能被有限理解。",
+    "category": "math_logic",
+    "tags": ["point_set_topology", "compactness"],
+    "language": "zh",
+    "source": "点集拓扑"
+  },
+  {
+    "content": "夹逼定理告诉我们：只要上限和下限都在向同一个美好终点收敛，被夹在中间的你也终将抵达那个极限。",
+    "category": "math_logic",
+    "tags": ["calculus", "squeeze_theorem", "encouragement"],
+    "language": "zh",
+    "source": "高数鸡汤"
+  },
+  {
+    "content": "There are 10 types of people in the world: those who understand binary, and those who do not.",
+    "category": "math_logic",
+    "tags": ["binary", "logic", "classic"],
+    "language": "en",
+    "source": "Classic Math Pun"
+  },
+  {
+    "content": "Why do mathematicians confuse Halloween and Christmas? Because Oct 31 == Dec 25.",
+    "category": "math_logic",
+    "tags": ["octal", "decimal", "pun"],
+    "language": "en",
+    "source": "Math Joke"
+  },
+  {
+    "content": "1 + 1 = 3, for sufficiently large values of 1 and a generous grant from the funding agency.",
+    "category": "math_logic",
+    "tags": ["arithmetic", "science_satire"],
+    "language": "en",
+    "source": "fortune-mod/science"
+  },
+  {
+    "content": "An infinite number of mathematicians walk into a bar. The first orders a pint, the second orders half a pint, the third a quarter. The bartender pours two pints and says: 'Know your limits.'",
+    "category": "math_logic",
+    "tags": ["series", "limits", "bar_joke"],
+    "language": "en",
+    "source": "Math Bar Joke"
+  },
+  {
+    "content": "A topologist is someone who cannot tell the difference between a coffee cup and a doughnut.",
+    "category": "math_logic",
+    "tags": ["topology", "doughnut"],
+    "language": "en",
+    "source": "fortune-mod/science"
+  },
+  {
+    "content": "Philosophy is a game with objectives and no rules. Mathematics is a game with rules and no objectives.",
+    "category": "math_logic",
+    "tags": ["philosophy", "mathematics"],
+    "language": "en",
+    "source": "fortune-mod/science"
+  },
+  {
+    "content": "Let epsilon < 0. That will teach the analyst to make unjustified assumptions!",
+    "category": "math_logic",
+    "tags": ["real_analysis", "epsilon"],
+    "language": "en",
+    "source": "Academic Math Pun"
+  },
+  {
+    "content": "Life is complex: it has both real and imaginary parts.",
+    "category": "math_logic",
+    "tags": ["complex_numbers", "one_liner"],
+    "language": "en",
+    "source": "Geek One-liner"
+  },
+  {
+    "content": "What is the contour integral around Western Europe? Zero, because all the Poles are in Eastern Europe.",
+    "category": "math_logic",
+    "tags": ["complex_analysis", "cauchy_theorem", "pun"],
+    "language": "en",
+    "source": "Complex Analysis Humor"
+  },
+  {
+    "content": "Proof by intimidation: 'Trivial.' Proof by lack of space: 'The margin is too narrow to contain this.' Proof by exhaustion: 'I will write down 500 pages until the referee agrees.'",
+    "category": "math_logic",
+    "tags": ["proof_methods", "academic_satire"],
+    "language": "en",
+    "source": "Math Colloquium Lore"
+  },
+  {
+    "content": "数学的本质在于它的自由。—— 格奥尔格·康托尔（Georg Cantor）",
+    "category": "math_logic",
+    "tags": ["cantor", "set_theory", "infinity", "quote"],
+    "language": "zh",
+    "source": "数学名言"
+  },
+  {
+    "content": "拓扑学毛球定理（Hairy Ball Theorem）：你永远无法把一个毛球完全梳平而不起旋。也就是说，地球上任意时刻至少有一个地方风速为零。",
+    "category": "math_logic",
+    "tags": ["topology", "hairy_ball", "differential_geometry"],
+    "language": "zh",
+    "source": "微分拓扑奇迹"
+  },
+  {
+    "content": "巴拿赫-塔斯基悖论（Banach-Tarski Paradox）：选择公理允许我们将一个实心球切成五块，然后重新拼成两个和原来一模一样的实心球。数学家发家致富的唯一假想捷径。",
+    "category": "math_logic",
+    "tags": ["set_theory", "banach_tarski", "axiom_of_choice"],
+    "language": "zh",
+    "source": "测度论与集合论"
+  },
+  {
+    "content": "为什么素数最孤僻？因为除了 1 和它自己，它拒绝与任何整数发生除法整除关系。",
+    "category": "math_logic",
+    "tags": ["number_theory", "primes", "pun"],
+    "language": "zh",
+    "source": "数论冷笑话"
+  },
+  {
+    "content": "God exists since mathematics is consistent, and the Devil exists since we cannot prove it. — André Weil",
+    "category": "math_logic",
+    "tags": ["consistency", "logic", "andre_weil"],
+    "language": "en",
+    "source": "Mathematical Wisdom"
+  },
+  {
+    "content": "There are three kinds of mathematicians: those who can count, and those who cannot.",
+    "category": "math_logic",
+    "tags": ["counting", "self_deprecation", "pun"],
+    "language": "en",
+    "source": "Math Folk Joke"
+  },
+  {
+    "content": "Why did 6 fear 7? Because 7 8 9. But why did 7 eat 9? Because you are supposed to eat three squared meals a day.",
+    "category": "math_logic",
+    "tags": ["number_pun", "arithmetic"],
+    "language": "en",
+    "source": "Classic Number Pun"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "content": "假设有一头处于真空中的球形奶牛，质量均匀分布，忽略空气阻力和牛的心理健康状态……",
+    "category": "physics_stem",
+    "tags": ["spherical_cow", "modeling", "physics"],
+    "language": "zh",
+    "source": "理论物理经典假设"
+  },
+  {
+    "content": "海森堡测不准原理：如果你清楚知道自己代码写在哪里，你就不可能知道它什么时候会崩；反之亦然。",
+    "category": "physics_stem",
+    "tags": ["heisenberg", "uncertainty_principle", "quantum"],
+    "language": "zh",
+    "source": "量子力学自嘲"
+  },
+  {
+    "content": "薛定谔的期末成绩：在教务系统登出成绩之前，我的绩点处于 4.0 与挂科的量子叠加态。",
+    "category": "physics_stem",
+    "tags": ["schrodinger", "quantum_superposition", "college_life"],
+    "language": "zh",
+    "source": "大学期末现状"
+  },
+  {
+    "content": "热力学第二定律是唯一永远不会背叛你的物理定律：宇宙的孤立系统熵增不可逆，混乱才是常态，所以你的桌面乱得理直气壮。",
+    "category": "physics_stem",
+    "tags": ["thermodynamics", "entropy", "physics"],
+    "language": "zh",
+    "source": "热力学哲学"
+  },
+  {
+    "content": "显著性水平 p < 0.05：现代学术界最伟大的障眼法。只要洗牌的次数足够多，任何两个毫不相关的随机变量都能展现出命运般的强相关性。",
+    "category": "physics_stem",
+    "tags": ["statistics", "p_value", "p_hacking"],
+    "language": "zh",
+    "source": "科研统计学黑话"
+  },
+  {
+    "content": "不要问麦克斯韦妖今天吃什么，问就是把高动能分子偷偷赶到右边去了。",
+    "category": "physics_stem",
+    "tags": ["maxwell_demon", "thermodynamics"],
+    "language": "zh",
+    "source": "物理四大神兽"
+  },
+  {
+    "content": "实验室第一定律：如果一个实验现象完全符合理论预期，请立刻检查是不是哪个传感器电源线忘了插。",
+    "category": "physics_stem",
+    "tags": ["experiment", "lab_rules", "murphy_law"],
+    "language": "zh",
+    "source": "实验物理实录"
+  },
+  {
+    "content": "广义相对论告诉你时间是相对的：当你在听一堂无聊的高等代数课时，5 分钟相当于一个世纪；当你在打游戏时，3 个小时相当于一瞬间。",
+    "category": "physics_stem",
+    "tags": ["relativity", "einstein", "time"],
+    "language": "zh",
+    "source": "爱因斯坦相对论幽默"
+  },
+  {
+    "content": "中心极限定理：你也许天生特立独行，但当你被扔进足够庞大的人群时，你终将变成正态分布上一个不起眼的点。",
+    "category": "physics_stem",
+    "tags": ["central_limit_theorem", "normal_distribution", "stats"],
+    "language": "zh",
+    "source": "概率论沉思"
+  },
+  {
+    "content": "There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.",
+    "category": "physics_stem",
+    "tags": ["universe", "douglas_adams", "physics"],
+    "language": "en",
+    "source": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "content": "Heisenberg is speeding down the highway. A cop pulls him over and asks: 'Do you know how fast you were going?' Heisenberg replies: 'No, but I know exactly where I am!'",
+    "category": "physics_stem",
+    "tags": ["heisenberg", "quantum", "speed_trap"],
+    "language": "en",
+    "source": "fortune-mod/science"
+  },
+  {
+    "content": "Schrodinger's cat walks into a bar. And doesn't.",
+    "category": "physics_stem",
+    "tags": ["schrodinger", "quantum_superposition", "one_liner"],
+    "language": "en",
+    "source": "Physics Joke"
+  },
+  {
+    "content": "A neutron walks into a bar and asks: 'How much for a beer?' The bartender smiles and says: 'For you, no charge.'",
+    "category": "physics_stem",
+    "tags": ["neutron", "charge", "pun"],
+    "language": "en",
+    "source": "Classic Science Pun"
+  },
+  {
+    "content": "Assume a spherical cow of uniform density in a vacuum...",
+    "category": "physics_stem",
+    "tags": ["spherical_cow", "physics_trope", "approximation"],
+    "language": "en",
+    "source": "Physics Folklore"
+  },
+  {
+    "content": "Entropy isn't what it used to be.",
+    "category": "physics_stem",
+    "tags": ["entropy", "thermodynamics", "one_liner"],
+    "language": "en",
+    "source": "fortune-mod/science"
+  },
+  {
+    "content": "Two electrons meet at a bus stop. One says: 'I think I lost an electron.' The other asks: 'Are you positive?'",
+    "category": "physics_stem",
+    "tags": ["electron", "positive", "pun"],
+    "language": "en",
+    "source": "Science Puns"
+  },
+  {
+    "content": "There are 10 types of people in the world: those who understand binary, and those who do not.",
+    "category": "math_logic",
+    "tags": ["binary", "duplicate_test"],
+    "language": "en",
+    "source": "Duplicate Test Entry"
+  },
+  {
+    "content": "所有模型都是错的，但有些是有用的。—— 乔治·博克斯",
+    "category": "ai_ml",
+    "tags": ["duplicate_test"],
+    "language": "zh",
+    "source": "Duplicate Test Entry 2"
+  },
+  {
+    "content": "理科生的浪漫：你是我的正弦波，我是你的余弦波，虽然相位差了 π/2，但我们平方相加永远等于 1。",
+    "category": "physics_stem",
+    "tags": ["trigonometry", "stem_romance", "sine_cosine"],
+    "language": "zh",
+    "source": "理科生的浪漫"
+  },
+  {
+    "content": "只要真空涨落还在继续，虚粒子对就会在虚空中不断创生与湮灭，就像你在大学里不断产生又迅速幻灭的学习热情。",
+    "category": "physics_stem",
+    "tags": ["quantum_fluctuation", "annihilation", "university_life"],
+    "language": "zh",
+    "source": "量子电动力学感悟"
+  },
+  {
+    "content": "麦克斯韦方程组写在 T 恤上很帅，但在考卷上化简旋度和散度时，眼泪会模糊对称性的优美。",
+    "category": "physics_stem",
+    "tags": ["maxwell_equations", "electromagnetism", "curl_div"],
+    "language": "zh",
+    "source": "电动力学血泪史"
+  },
+  {
+    "content": "If you think you understand quantum mechanics, you don't understand quantum mechanics. — Richard Feynman",
+    "category": "physics_stem",
+    "tags": ["quantum_mechanics", "feynman", "classic_quote"],
+    "language": "en",
+    "source": "Richard Feynman Quotes"
+  },
+  {
+    "content": "Photons have mass? I didn't even know they were Catholic.",
+    "category": "physics_stem",
+    "tags": ["photon", "mass", "pun"],
+    "language": "en",
+    "source": "fortune-mod/science"
+  },
+  {
+    "content": "A physics student falls out of a window. He calculates his terminal velocity on the way down and writes 'Air resistance neglected' before impact.",
+    "category": "physics_stem",
+    "tags": ["physics", "free_fall", "dark_humor"],
+    "language": "en",
+    "source": "Physics Dept Humor"
+  }
+]

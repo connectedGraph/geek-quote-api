@@ -1,0 +1,23 @@
+# Rust
+/target
+Cargo.lock
+
+# Node / Frontend
+node_modules/
+frontend/node_modules/
+.npm
+.eslintcache
+
+# SQLite Runtime DB
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# Environment & Logs
+*.log
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db

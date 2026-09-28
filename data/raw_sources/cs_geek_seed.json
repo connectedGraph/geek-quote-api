@@ -1,0 +1,205 @@
+[
+  {
+    "content": "世界上只有 10 种人：一种是懂二进制的，另一种是不懂二进制的。",
+    "category": "cs_geek",
+    "tags": ["binary", "classic", "programmer"],
+    "language": "zh",
+    "source": "程序员经典梗"
+  },
+  {
+    "content": "程序员最讨厌康熙的哪个儿子？八阿哥，因为他是 Bug（八阿哥）。",
+    "category": "cs_geek",
+    "tags": ["pun", "bug", "humor"],
+    "language": "zh",
+    "source": "中文谐音梗"
+  },
+  {
+    "content": "在我的机器上明明跑得好好的！（It works on my machine!）——那么就把你的机器打包发给客户吧，于是容器技术 Docker 诞生了。",
+    "category": "cs_geek",
+    "tags": ["docker", "devops", "classic"],
+    "language": "zh",
+    "source": "云原生起源传说"
+  },
+  {
+    "content": "过早的优化是万恶之源（Premature optimization is the root of all evil）。—— 高德纳（Donald Knuth）",
+    "category": "cs_geek",
+    "tags": ["optimization", "knuth", "classic_quote"],
+    "language": "zh",
+    "source": "计算机程序设计艺术"
+  },
+  {
+    "content": "软件测试只能证明程序存在 Bug，永远无法证明程序没有 Bug。—— 艾兹格·迪杰斯特拉（Edsger W. Dijkstra）",
+    "category": "cs_geek",
+    "tags": ["testing", "dijkstra", "software_engineering"],
+    "language": "zh",
+    "source": "计算机理论名言"
+  },
+  {
+    "content": "Jeff Dean 在白板上用多项式时间解完了所有 NP 难问题，顺手证明了 P = NP。",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "np_complete", "complexity"],
+    "language": "zh",
+    "source": "Jeff Dean Facts"
+  },
+  {
+    "content": "gcc -O4 参数实际上并不是编译器优化，而是直接把你的源代码通过邮件抄送给 Jeff Dean 让他抽空重写一遍。",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "compiler", "gcc"],
+    "language": "zh",
+    "source": "Jeff Dean Facts"
+  },
+  {
+    "content": "Jeff Dean 的网络 Ping 值是负数，因为光速嫌走得太慢，提前把数据包送过来了。",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "networking", "latency"],
+    "language": "zh",
+    "source": "Jeff Dean Facts"
+  },
+  {
+    "content": "递归的最关键一步，是先理解什么是递归。要理解递归，请先参见‘递归’。",
+    "category": "cs_geek",
+    "tags": ["recursion", "algorithms", "meta"],
+    "language": "zh",
+    "source": "算法冷幽默"
+  },
+  {
+    "content": "为什么程序员把键盘上的按键按得啪啪响？因为他们在用手速假装 O(1) 的时间复杂度，掩盖代码底层其实是 O(N!) 的尴尬。",
+    "category": "cs_geek",
+    "tags": ["time_complexity", "algorithms", "performance"],
+    "language": "zh",
+    "source": "算法工程师自嘲"
+  },
+  {
+    "content": "如果建筑工人盖房子的方式就像程序员写软件一样，那么随便飞来一只啄木鸟就能摧毁整个人类文明。",
+    "category": "cs_geek",
+    "tags": ["software_engineering", "bugs", "analogy"],
+    "language": "zh",
+    "source": "Gerald Weinberg法则"
+  },
+  {
+    "content": "A biologist, a statistician, a mathematician and a computer scientist are on safari in Africa. They see a single white zebra. Biologist: 'All zebras are white!' Statistician: 'There exists at least one white zebra.' Mathematician: 'There exists at least one zebra that is white on one side.' Computer scientist: 'Oh no! A special edge case!'",
+    "category": "cs_geek",
+    "tags": ["edge_cases", "safari", "classic_fortune"],
+    "language": "en",
+    "source": "fortune-mod/computers"
+  },
+  {
+    "content": "There are only two hard things in Computer Science: cache invalidation, naming things, and off-by-one errors.",
+    "category": "cs_geek",
+    "tags": ["cache", "naming", "off_by_one"],
+    "language": "en",
+    "source": "Phil Karlton Classic"
+  },
+  {
+    "content": "Premature optimization is the root of all evil. — Donald Knuth",
+    "category": "cs_geek",
+    "tags": ["knuth", "optimization", "classic"],
+    "language": "en",
+    "source": "The Art of Computer Programming"
+  },
+  {
+    "content": "Testing can only prove the presence of bugs, not their absence. — Edsger W. Dijkstra",
+    "category": "cs_geek",
+    "tags": ["dijkstra", "testing", "bugs"],
+    "language": "en",
+    "source": "Dijkstra Manuscripts"
+  },
+  {
+    "content": "Jeff Dean proved that P=NP when he solved all NP problems in polynomial time on a whiteboard.",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "complexity", "p_vs_np"],
+    "language": "en",
+    "source": "TheJeffDeanFacts"
+  },
+  {
+    "content": "Jeff Dean's PIN is the last 4 digits of pi.",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "pi", "geek"],
+    "language": "en",
+    "source": "TheJeffDeanFacts"
+  },
+  {
+    "content": "Jeff Dean can instantiate abstract classes.",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "oop", "abstract_class"],
+    "language": "en",
+    "source": "TheJeffDeanFacts"
+  },
+  {
+    "content": "When Jeff Dean throws an exception, it's across the room into the trash can.",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "exceptions", "pun"],
+    "language": "en",
+    "source": "TheJeffDeanFacts"
+  },
+  {
+    "content": "To understand recursion, you must first understand recursion.",
+    "category": "cs_geek",
+    "tags": ["recursion", "humor", "classic"],
+    "language": "en",
+    "source": "Geek Folklore"
+  },
+  {
+    "content": "A programmer's wife tells him: 'While you're at the store, get a gallon of milk, and if they have eggs, get a dozen.' He comes home with 12 gallons of milk.",
+    "category": "cs_geek",
+    "tags": ["logic", "if_statement", "joke"],
+    "language": "en",
+    "source": "Programmer Joke"
+  },
+  {
+    "content": "Algorithm: A word used by programmers when they don't want to explain what they did.",
+    "category": "cs_geek",
+    "tags": ["algorithm", "definition", "satire"],
+    "language": "en",
+    "source": "Tech Dictionary"
+  },
+  {
+    "content": "It works on my machine. Then we'll ship your machine! And that is how Docker was born.",
+    "category": "cs_geek",
+    "tags": ["docker", "devops", "containers"],
+    "language": "en",
+    "source": "DevOps Lore"
+  },
+  {
+    "content": "世上最漫长的等待：一是等待编译通过，二是等待 Git rebase 冲突解完，三是想退出 Vim 却无论如何退不出去。",
+    "category": "cs_geek",
+    "tags": ["vim", "git", "compiler", "jokes"],
+    "language": "zh",
+    "source": "程序员之痛"
+  },
+  {
+    "content": "硬件就是你在软件崩溃时，唯一能够用脚狠狠踹上去宣泄愤怒的物理实体。",
+    "category": "cs_geek",
+    "tags": ["hardware", "software", "definition"],
+    "language": "zh",
+    "source": "计算机民间词典"
+  },
+  {
+    "content": "Jeff Dean 在键盘上只用 0 和 1 两个键打字，后来他觉得 0 冗余了，于是只保留了 1。",
+    "category": "cs_geek",
+    "tags": ["jeff_dean", "binary", "superhero"],
+    "language": "zh",
+    "source": "Jeff Dean Facts"
+  },
+  {
+    "content": "There are only 10 types of programmers in this world: those who start array indexing at 0, and those who start indexing at 1.",
+    "category": "cs_geek",
+    "tags": ["indexing", "zero_based", "pun"],
+    "language": "en",
+    "source": "Array Indexing Humor"
+  },
+  {
+    "content": "Unix is simple. It just takes a genius to understand its simplicity. — Dennis Ritchie",
+    "category": "cs_geek",
+    "tags": ["unix", "dennis_ritchie", "philosophy"],
+    "language": "en",
+    "source": "Bell Labs Quotes"
+  },
+  {
+    "content": "A SQL query walks into a bar, walks up to two tables and politely asks: 'May I JOIN you?'",
+    "category": "cs_geek",
+    "tags": ["sql", "database", "pun"],
+    "language": "en",
+    "source": "Database Humor"
+  }
+]

@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geek Quote API | 理科生 · 数理逻辑 · AI双语随机文案库</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="logo-badge">λ</div>
+        <div class="header-title-box">
+          <h1>Geek Quote API <span class="badge-tech">Rust + SQLite + TS</span></h1>
+          <p class="subtitle">大学理科生 · 数理逻辑 · AI与机器学习 · 中英双语对照学术梗库</p>
+        </div>
+      </div>
+      <div class="header-stats">
+        <span class="stat-pill"><strong id="statTotal">-</strong> 条双语文案</span>
+        <span class="stat-pill"><strong id="statCats">-</strong> 大学科类别</span>
+        <span class="stat-pill">SQLite WAL 极速驱动</span>
+      </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <div class="nav-tabs">
+      <button class="tab-btn active" data-tab="hero">🎲 随机双语文案</button>
+      <button class="tab-btn" data-tab="browse">📚 文案全览检索 (<span id="tabCount">0</span>)</button>
+      <button class="tab-btn" data-tab="api">⚡ REST API 接口与实时调试</button>
+    </div>
+
+    <!-- Section 1: Hero Random Display -->
+    <main class="tab-content active" id="tab-hero">
+      <!-- Filter Bar -->
+      <div class="filter-bar">
+        <div class="filter-group">
+          <label>学科领域:</label>
+          <div class="pill-selectors" id="categoryFilters">
+            <button class="filter-pill active" data-category="">全部领域</button>
+            <button class="filter-pill" data-category="math_logic">∑ 数理逻辑与纯数</button>
+            <button class="filter-pill" data-category="ai_ml">∇ AI / 机器学习</button>
+            <button class="filter-pill" data-category="cs_geek">⌘ 计算机与算法极客</button>
+            <button class="filter-pill" data-category="physics_stem">⚛ 理论物理与理科</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>显示模式:</label>
+          <div class="pill-selectors" id="modeFilters">
+            <button class="filter-pill active" data-mode="both">中英双语对照</button>
+            <button class="filter-pill" data-mode="zh">仅中文</button>
+            <button class="filter-pill" data-mode="en">English Only</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Bilingual Quote Card -->
+      <div class="quote-card-container">
+        <div class="quote-card" id="quoteCard">
+          <div class="card-meta-header">
+            <span class="category-tag" id="quoteCategory">加载中...</span>
+            <span class="bilingual-badge">BILINGUAL</span>
+            <span class="id-tag" id="quoteId">#id</span>
+          </div>
+
+          <div class="bilingual-content">
+            <div class="lang-block" id="quoteZhBlock">
+              <span class="lang-label">中文 (ZH)</span>
+              <p class="quote-text-zh" id="textZh">正在加载随机文案...</p>
+            </div>
+
+            <div class="lang-block" id="quoteEnBlock">
+              <span class="lang-label">ENGLISH (EN)</span>
+              <p class="quote-text-en" id="textEn">Loading bilingual geek quote...</p>
+            </div>
+          </div>
+
+          <div class="card-footer">
+            <div class="source-box">
+              <span class="source-label">出处 / 背景:</span>
+              <span class="source-text" id="sourceText">——</span>
+            </div>
+            <div class="tags-box" id="quoteTags"></div>
+          </div>
+        </div>
+
+        <!-- Action Controls -->
+        <div class="action-bar">
+          <button class="btn btn-primary" id="btnNextQuote">
+            <span>↻</span> 再来一条 <kbd>Space</kbd>
+          </button>
+          <button class="btn btn-secondary" id="btnCopyBilingual">
+            <span>📋</span> 双语复制 <kbd>C</kbd>
+          </button>
+          <button class="btn btn-secondary" id="btnCopyZh">
+            <span>🇨🇳</span> 仅中文
+          </button>
+          <button class="btn btn-secondary" id="btnCopyEn">
+            <span>🇺🇸</span> 仅英文
+          </button>
+          <button class="btn btn-secondary" id="btnCopyCurl">
+            <span>💻</span> cURL 命令
+          </button>
+          <button class="btn btn-secondary" id="btnCopyMarkdown">
+            <span>📝</span> Markdown
+          </button>
+        </div>
+        <div class="feedback-msg" id="feedbackMsg"></div>
+      </div>
+    </main>
+
+    <!-- Section 2: Browse & Search Tab -->
+    <section class="tab-content" id="tab-browse">
+      <div class="browse-header">
+        <div class="search-box">
+          <input type="text" id="searchInput" placeholder="搜索中英文关键词、标签或出处（如 拓扑 / Loss / 哥德尔 / Jeff Dean / quantum）...">
+          <button class="btn-clear" id="btnClearSearch">✕</button>
+        </div>
+        <div class="browse-meta">
+          已筛选出 <strong id="searchResultCount">0</strong> 条
+        </div>
+      </div>
+
+      <div class="quote-grid" id="quoteGrid">
+        <!-- Rendered by TypeScript -->
+      </div>
+    </section>
+
+    <!-- Section 3: REST API Documentation & Playground -->
+    <section class="tab-content" id="tab-api">
+      <div class="api-doc-grid">
+        <div class="api-endpoints-panel">
+          <h2>Rust Axum REST API 接口文档</h2>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge get">GET</span>
+              <code>/api/random</code>
+            </div>
+            <p>从 SQLite 数据库随机获取一条高质量中英双语文案。</p>
+            <div class="params-table">
+              <div><code>category</code> <span>可选: math_logic | ai_ml | cs_geek | physics_stem</span></div>
+              <div><code>lang</code> <span>可选: both (默认返回双语) | zh | en</span></div>
+              <div><code>tag</code> <span>可选: 特定标签 (如 goedel / rlhf / docker)</span></div>
+              <div><code>format</code> <span>可选: json (默认) | text (命令行单行纯文本)</span></div>
+            </div>
+          </div>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge get">GET</span>
+              <code>/api/quotes</code>
+            </div>
+            <p>SQLite 全文与标签分页检索。</p>
+            <div class="params-table">
+              <div><code>search</code> <span>中英文关键词全文搜索</span></div>
+              <div><code>category</code> <span>学科分类过滤</span></div>
+              <div><code>page / limit</code> <span>分页控制 (如 page=1&limit=20)</span></div>
+            </div>
+          </div>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge get">GET</span>
+              <code>/api/categories</code>
+            </div>
+            <p>获取所有学科分类元信息与当前入库数量统计。</p>
+          </div>
+
+          <div class="endpoint-card">
+            <div class="endpoint-header">
+              <span class="http-badge post">POST</span>
+              <code>/api/reload</code>
+            </div>
+            <p>热重载：将 JSON 种子源热同步入 SQLite 数据库。</p>
+          </div>
+        </div>
+
+        <div class="api-tester-panel">
+          <h2>在线接口实时调试</h2>
+          <div class="request-bar">
+            <select id="apiMethod">
+              <option value="GET">GET</option>
+            </select>
+            <input type="text" id="apiUrlInput" value="/api/random?category=ai_ml">
+            <button class="btn btn-primary" id="btnSendRequest">发送请求</button>
+          </div>
+
+          <div class="response-box">
+            <div class="response-header">
+              <span>SQLite 响应报文 (JSON)</span>
+              <span class="status-indicator" id="apiStatus">就绪</span>
+            </div>
+            <pre class="json-code" id="apiResponse">// 点击“发送请求”体验微秒级 Rust + SQLite 响应...</pre>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>Geek Quote API · 优雅开源版 · <strong>Rust (Axum)</strong> + <strong>SQLite (WAL)</strong> + <strong>TypeScript (Vite)</strong></p>
+    </footer>
+  </div>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

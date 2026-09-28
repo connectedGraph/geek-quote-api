@@ -1,0 +1,18 @@
+[package]
+name = "geek-quote-api"
+version = "0.1.0"
+edition = "2021"
+description = "High-performance, elegant Rust + SQLite API & web platform for STEM, Math Logic, AI & ML bilingual quotes"
+authors = ["Antigravity"]
+license = "MIT"
+
+[dependencies]
+axum = { version = "0.7", features = ["macros"] }
+tokio = { version = "1", features = ["full"] }
+rusqlite = { version = "0.31", features = ["bundled"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+tower-http = { version = "0.5", features = ["cors", "fs", "trace"] }
+rand = "0.8"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
