@@ -48,13 +48,15 @@ geek-quote-api/
 │       ├── main.ts             # 双语卡片渲染、全局快捷键、检索与调试器
 │       └── style.css           # 极简科学暗色终端美学设计
 ├── data/                       # 数据资产库
-│   ├── raw_sources/            # 原始多分类 JSON 语料源
+│   ├── raw_sources/            # Unix fortune、开源 Geek 梗与前沿 AI 语料源
 │   ├── quotes.json             # 经精确指纹与 2-gram 包含度去重合并的数据
-│   ├── quotes_bilingual.json   # 大模型高阶双语对照完整数据库 (108+ 条)
-│   └── geek_quotes.db          # SQLite 运行时数据库
+│   ├── quotes_bilingual.json   # 560+ 条高阶中英双语对照完整数据库
+│   └── geek_quotes.db          # SQLite 运行时数据库 (WAL 模式)
 └── scripts/                    # 运维与数据流水线
-    ├── deduplicate.js          # 文本归一化、精确 SHA-256 与 Jaccard/包含度模糊去重
-    └── translate_bilingual.js  # 本地 LLM 双语并发互译引擎 (支持断点续译与限流控制)
+    ├── expand_corpus.js        # 自动化语料清洗、正则过滤与四大学科规则打标
+    ├── build_expansion_pool.js # 语料池组装、Jaccard 模糊查重与配额平衡器
+    ├── batch_translate_xml.js  # 本地 LLM XML 结构化批量双语互译引擎 (支持实时断点续传与 RPM 限流)
+    └── deduplicate.js          # 文本归一化与精确/模糊去重工具
 ```
 
 ---

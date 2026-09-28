@@ -1,0 +1,434 @@
+[
+  {
+    "content": "Why do neural networks love coffee? Because it helps them find the global minimum and prevents vanishing gradients.",
+    "category": "ai_ml",
+    "tags": ["NeuralNetwork", "Gradient", "Coffee"],
+    "language": "en"
+  },
+  {
+    "content": "A transformer model walks into a bar. The bartender asks, 'What'll you have?' The model says, 'Attention is all I need.'",
+    "category": "ai_ml",
+    "tags": ["Transformer", "Attention", "NLP"],
+    "language": "en"
+  },
+  {
+    "content": "Training an LLM is like raising a teenager: you feed it the entire internet, and it confidently lies to you about things it learned 5 minutes ago.",
+    "category": "ai_ml",
+    "tags": ["LLM", "Hallucination", "Training"],
+    "language": "en"
+  },
+  {
+    "content": "Overfitting is when you memorize the textbook word-for-word and fail the exam because the professor changed the font.",
+    "category": "ai_ml",
+    "tags": ["Overfitting", "MachineLearning", "Generalization"],
+    "language": "en"
+  },
+  {
+    "content": "Why did the gradient descent stop climbing? Because it wasn't feeling very optimistic.",
+    "category": "ai_ml",
+    "tags": ["GradientDescent", "Optimization"],
+    "language": "en"
+  },
+  {
+    "content": "Backpropagation is just blaming all your mistakes on everyone who came before you, weighted by how much they contributed.",
+    "category": "ai_ml",
+    "tags": ["Backpropagation", "DeepLearning"],
+    "language": "en"
+  },
+  {
+    "content": "There are two types of machine learning practitioners: those who understand linear algebra, and those who import torch.nn.",
+    "category": "ai_ml",
+    "tags": ["PyTorch", "LinearAlgebra", "DeepLearning"],
+    "language": "en"
+  },
+  {
+    "content": "My model has 99.9% accuracy on the test set. Unfortunately, my test set is also my training set.",
+    "category": "ai_ml",
+    "tags": ["DataLeakage", "MachineLearning", "Evaluation"],
+    "language": "en"
+  },
+  {
+    "content": "Reinforcement learning is when you shock a digital rat 10 million times until it accidentally invents a speedrun glitch.",
+    "category": "ai_ml",
+    "tags": ["ReinforcementLearning", "AI", "Exploitation"],
+    "language": "en"
+  },
+  {
+    "content": "Dropout: the only place in academia where giving up 50% of the time actually improves your performance.",
+    "category": "ai_ml",
+    "tags": ["Dropout", "Regularization", "DeepLearning"],
+    "language": "en"
+  },
+  {
+    "content": "Convolutional Neural Networks: looking at the world through a 3x3 window and convincing yourself you see the big picture.",
+    "category": "ai_ml",
+    "tags": ["CNN", "ComputerVision", "Kernels"],
+    "language": "en"
+  },
+  {
+    "content": "Why are GPUs so popular in AI? Because matrix multiplication is the only kind of math that money can buy directly.",
+    "category": "ai_ml",
+    "tags": ["GPU", "Hardware", "MatrixMultiplication"],
+    "language": "en"
+  },
+  {
+    "content": "Artificial Intelligence is whatever hasn't been done yet. Once it works, we just call it linear regression.",
+    "category": "ai_ml",
+    "tags": ["AI", "LinearRegression", "Definition"],
+    "language": "en"
+  },
+  {
+    "content": "What is the difference between machine learning and statistics? Machine learning has venture capital.",
+    "category": "ai_ml",
+    "tags": ["Statistics", "MachineLearning", "VC"],
+    "language": "en"
+  },
+  {
+    "content": "A GAN is just two neural networks gaslighting each other until one produces counterfeit Rembrandts.",
+    "category": "ai_ml",
+    "tags": ["GAN", "GenerativeAI", "Discriminator"],
+    "language": "en"
+  },
+  {
+    "content": "Batch size 1: pure stochastic chaos. Batch size 4096: out of memory error. Batch size 32: peace and harmony.",
+    "category": "ai_ml",
+    "tags": ["BatchSize", "Hyperparameters", "OOM"],
+    "language": "en"
+  },
+  {
+    "content": "My learning rate is like my life decisions: if it's too high, I oscillate violently; if it's too low, I get stuck in a local minimum forever.",
+    "category": "ai_ml",
+    "tags": ["LearningRate", "Optimization", "LocalMinima"],
+    "language": "en"
+  },
+  {
+    "content": "Prompt engineering: the sacred art of speaking ancient spell incantations to a billion-parameter tensor to make it output valid JSON.",
+    "category": "ai_ml",
+    "tags": ["PromptEngineering", "LLM", "JSON"],
+    "language": "en"
+  },
+  {
+    "content": "The loss went down to zero! Great, now tell me how many weights are NaN.",
+    "category": "ai_ml",
+    "tags": ["Loss", "Debugging", "NaN"],
+    "language": "en"
+  },
+  {
+    "content": "A data scientist spends 80% of their time cleaning data, and 20% of their time complaining about data cleaning.",
+    "category": "ai_ml",
+    "tags": ["DataScience", "DataCleaning"],
+    "language": "en"
+  },
+  {
+    "content": "Why did the AI cross the road? Because it was rewarded with +1 point for touching the asphalt on the other side.",
+    "category": "ai_ml",
+    "tags": ["ReinforcementLearning", "RewardHacking"],
+    "language": "en"
+  },
+  {
+    "content": "Why did the vector go to therapy? Because it had direction, but completely lost its magnitude.",
+    "category": "math_logic",
+    "tags": ["LinearAlgebra", "Vectors"],
+    "language": "en"
+  },
+  {
+    "content": "An infinite number of mathematicians walk into a bar. The first orders a pint, the second orders half a pint, the third a quarter. The bartender pours two pints and says: 'Know your limits.'",
+    "category": "math_logic",
+    "tags": ["Calculus", "Series", "Limits"],
+    "language": "en"
+  },
+  {
+    "content": "Topologists cannot tell the difference between a coffee mug and a donut, which makes their breakfast meetings extremely messy.",
+    "category": "math_logic",
+    "tags": ["Topology", "Homeomorphism"],
+    "language": "en"
+  },
+  {
+    "content": "Why did 1/x break up with 0? Because whenever they got close, things escalated towards infinity.",
+    "category": "math_logic",
+    "tags": ["Calculus", "Asymptote", "Infinity"],
+    "language": "en"
+  },
+  {
+    "content": "A physicist, an engineer, and a mathematician are stranded on a desert island with a can of beans. The mathematician says: 'First, let us assume we have a can opener.'",
+    "category": "math_logic",
+    "tags": ["Axioms", "Assumptions", "PureMath"],
+    "language": "en"
+  },
+  {
+    "content": "e^(i*pi) + 1 = 0: Euler brought the five most important constants in mathematics together, and they all canceled out to absolute nothingness.",
+    "category": "math_logic",
+    "tags": ["Euler", "Identity", "ComplexAnalysis"],
+    "language": "en"
+  },
+  {
+    "content": "There are three kinds of mathematicians: those who can count, and those who cannot.",
+    "category": "math_logic",
+    "tags": ["Counting", "DiscreteMath"],
+    "language": "en"
+  },
+  {
+    "content": "Why was the complex number depressed? Because it felt entirely imaginary.",
+    "category": "math_logic",
+    "tags": ["ComplexNumbers", "Algebra"],
+    "language": "en"
+  },
+  {
+    "content": "Parallel lines have so much in common. It's truly a tragedy that they will never meet.",
+    "category": "math_logic",
+    "tags": ["EuclideanGeometry", "ParallelLines"],
+    "language": "en"
+  },
+  {
+    "content": "Banach-Tarski paradox: How to turn one orange into two identical oranges, provided you have no problem taking non-measurable sets of atoms.",
+    "category": "math_logic",
+    "tags": ["AxiomOfChoice", "BanachTarski", "MeasureTheory"],
+    "language": "en"
+  },
+  {
+    "content": "Why did the chicken cross the Möbius strip? To get to the same side.",
+    "category": "math_logic",
+    "tags": ["Topology", "MobiusStrip"],
+    "language": "en"
+  },
+  {
+    "content": "Godel proved that either our math system has inconsistencies, or there are truths we can never prove. Mathematicians chose to keep doing math anyway.",
+    "category": "math_logic",
+    "tags": ["Godel", "Incompleteness", "Logic"],
+    "language": "en"
+  },
+  {
+    "content": "Schrödinger's cat walks into a bar... and orders a drink, doesn't order a drink, and breaks the glass until the bartender looks.",
+    "category": "physics_stem",
+    "tags": ["Quantum", "Superposition", "Measurement"],
+    "language": "en"
+  },
+  {
+    "content": "Heisenberg is speeding down the highway. Cop pulls him over: 'Do you know how fast you were going?' Heisenberg replies: 'No, but I know exactly where I am!'",
+    "category": "physics_stem",
+    "tags": ["UncertaintyPrinciple", "QuantumMechanics"],
+    "language": "en"
+  },
+  {
+    "content": "Never trust an atom. They make up everything.",
+    "category": "physics_stem",
+    "tags": ["Chemistry", "AtomicPhysics"],
+    "language": "en"
+  },
+  {
+    "content": "Entropy is the only thing in the universe that increases without any funding.",
+    "category": "physics_stem",
+    "tags": ["Thermodynamics", "Entropy"],
+    "language": "en"
+  },
+  {
+    "content": "A photon checks into a hotel. The bellhop asks: 'Can I help you with any luggage?' The photon says: 'No thanks, I'm traveling light.'",
+    "category": "physics_stem",
+    "tags": ["Photon", "Light", "Relativity"],
+    "language": "en"
+  },
+  {
+    "content": "Organic chemistry is the study of carbon compounds; biochemistry is the study of carbon compounds that cry during lab exams.",
+    "category": "physics_stem",
+    "tags": ["Chemistry", "Biochemistry", "Lab"],
+    "language": "en"
+  },
+  {
+    "content": "What is the speed of darkness? The speed at which light leaves.",
+    "category": "physics_stem",
+    "tags": ["Physics", "Light", "Darkness"],
+    "language": "en"
+  },
+  {
+    "content": "CUDA out of memory: Tried to allocate 20.00 MiB (GPU 0; 24.00 GiB total capacity; 23.98 GiB already allocated by the ghost of experiments past).",
+    "category": "ai_ml",
+    "tags": ["CUDA", "VRAM", "PyTorch", "OOM"],
+    "language": "en"
+  },
+  {
+    "content": "LLM hallucination is just creative writing that nobody asked for.",
+    "category": "ai_ml",
+    "tags": ["LLM", "Hallucination", "NLP"],
+    "language": "en"
+  },
+  {
+    "content": "What do machine learning models and psychics have in common? Both make confident predictions based on vague patterns and refuse to explain their reasoning.",
+    "category": "ai_ml",
+    "tags": ["MachineLearning", "BlackBox", "Explainability"],
+    "language": "en"
+  },
+  {
+    "content": "Gradient descent without momentum is like walking down a foggy mountain while refusing to look more than two inches in front of your feet.",
+    "category": "ai_ml",
+    "tags": ["GradientDescent", "Momentum", "Optimization"],
+    "language": "en"
+  },
+  {
+    "content": "Fine-tuning an LLM: Spend $5,000 on cloud compute only to teach the model how to say 'As an AI language model' in Shakespearean English.",
+    "category": "ai_ml",
+    "tags": ["FineTuning", "CloudCompute", "LLM"],
+    "language": "en"
+  },
+  {
+    "content": "A data pipeline is a delicate series of Python scripts held together by duct tape, cron jobs, and prayer.",
+    "category": "ai_ml",
+    "tags": ["DataPipeline", "Python", "DataEngineering"],
+    "language": "en"
+  },
+  {
+    "content": "There is no cloud, it's just someone else's GPU running out of VRAM.",
+    "category": "ai_ml",
+    "tags": ["Cloud", "GPU", "VRAM"],
+    "language": "en"
+  },
+  {
+    "content": "In deep learning, 'We leave the mathematical proof as future work' means 'It converged on our test machine once at 3 AM and we have no idea why'.",
+    "category": "ai_ml",
+    "tags": ["DeepLearning", "Research", "Convergence"],
+    "language": "en"
+  },
+  {
+    "content": "Mixture of Experts: Why have one neural net be confused when you can route tokens between eight confused neural nets?",
+    "category": "ai_ml",
+    "tags": ["MoE", "Transformers", "Architecture"],
+    "language": "en"
+  },
+  {
+    "content": "RLHF is just psychological conditioning for matrix multiplication.",
+    "category": "ai_ml",
+    "tags": ["RLHF", "Alignment", "MatrixMultiplication"],
+    "language": "en"
+  },
+  {
+    "content": "Quantization: Making your model 4 times smaller, 2 times faster, and only 10% more unhinged.",
+    "category": "ai_ml",
+    "tags": ["Quantization", "Efficiency", "LLM"],
+    "language": "en"
+  },
+  {
+    "content": "Knowledge distillation: When a 70B parameter teacher tries to explain quantum electrodynamics to a 1B parameter student using flashcards.",
+    "category": "ai_ml",
+    "tags": ["Distillation", "Compression", "LLM"],
+    "language": "en"
+  },
+  {
+    "content": "Cosine similarity: The mathematical equivalent of judging two people based on whether they are pointing in roughly the same direction.",
+    "category": "math_logic",
+    "tags": ["CosineSimilarity", "LinearAlgebra", "Vectors"],
+    "language": "en"
+  },
+  {
+    "content": "Eigenvectors: You can transform everything else around them, but they just stretch and refuse to change their direction in life.",
+    "category": "math_logic",
+    "tags": ["Eigenvector", "LinearAlgebra", "Matrices"],
+    "language": "en"
+  },
+  {
+    "content": "Singular Value Decomposition: Taking a messy matrix, finding what it actually cares about, and throwing away the rest.",
+    "category": "math_logic",
+    "tags": ["SVD", "MatrixDecomposition", "LinearAlgebra"],
+    "language": "en"
+  },
+  {
+    "content": "Monte Carlo simulation: When you have no idea how to solve an integral analytically, so you throw virtual darts at it ten million times.",
+    "category": "math_logic",
+    "tags": ["MonteCarlo", "Probability", "Simulation"],
+    "language": "en"
+  },
+  {
+    "content": "Softmax function: Turning self-doubt into a normalized probability distribution.",
+    "category": "math_logic",
+    "tags": ["Softmax", "Probability", "Math"],
+    "language": "en"
+  },
+  {
+    "content": "Curse of dimensionality: In high dimensions, nobody can hear you scream, and all points are equally distant from each other.",
+    "category": "math_logic",
+    "tags": ["CurseOfDimensionality", "Geometry", "DataScience"],
+    "language": "en"
+  },
+  {
+    "content": "Stochastic gradient descent: Falling down a flight of stairs, but somehow landing closer to the ground each time.",
+    "category": "ai_ml",
+    "tags": ["SGD", "Optimization", "MachineLearning"],
+    "language": "en"
+  },
+  {
+    "content": "Validation loss went up while training loss hit zero: Congratulations, your model has memorized your secrets and learned absolutely nothing.",
+    "category": "ai_ml",
+    "tags": ["ValidationLoss", "Overfitting", "DeepLearning"],
+    "language": "en"
+  },
+  {
+    "content": "Why do data scientists prefer dark mode? Because light attracts bugs, and our loss functions are sensitive enough already.",
+    "category": "ai_ml",
+    "tags": ["DataScience", "DarkMode", "Bugs"],
+    "language": "en"
+  },
+  {
+    "content": "P vs NP: If P = NP, finding a solution is as easy as verifying one. Which means college exams would either be trivial or impossible.",
+    "category": "math_logic",
+    "tags": ["Complexity", "PvsNP", "TheoreticalCS"],
+    "language": "en"
+  },
+  {
+    "content": "The Halting Problem proves that no program can decide if another program halts. My terminal proves it can certainly freeze indefinitely.",
+    "category": "cs_geek",
+    "tags": ["HaltingProblem", "Turing", "Computation"],
+    "language": "en"
+  },
+  {
+    "content": "There are 10 kinds of physicists: those who believe in the Copenhagen interpretation, those who believe in Many Worlds, and those who just shut up and calculate.",
+    "category": "physics_stem",
+    "tags": ["QuantumMechanics", "Interpretations", "Physics"],
+    "language": "en"
+  },
+  {
+    "content": "Maxwell's equations: And God said: curl of E equals minus dB/dt, and there was light.",
+    "category": "physics_stem",
+    "tags": ["MaxwellsEquations", "Electromagnetism", "Light"],
+    "language": "en"
+  },
+  {
+    "content": "Second Law of Thermodynamics: The universe guarantees that your bedroom, your code, and your life will become increasingly disorganized over time.",
+    "category": "physics_stem",
+    "tags": ["Thermodynamics", "Entropy", "Physics"],
+    "language": "en"
+  },
+  {
+    "content": "Heisenberg and Schrodinger are driving. They get pulled over. Officer asks Schrodinger: 'Did you know you have a dead cat in the trunk?' Schrodinger shouts: 'Well, now I do!'",
+    "category": "physics_stem",
+    "tags": ["Quantum", "Schrodinger", "Heisenberg"],
+    "language": "en"
+  },
+  {
+    "content": "Archimedes jumped out of the bath shouting 'Eureka!'. Modern developers jump out of their chairs shouting 'It compiles!'.",
+    "category": "cs_geek",
+    "tags": ["Compiler", "Eureka", "Programming"],
+    "language": "en"
+  },
+  {
+    "content": "Git merge conflict: When two developers look at the same line of code and disagree on reality itself.",
+    "category": "cs_geek",
+    "tags": ["Git", "MergeConflict", "VersionControl"],
+    "language": "en"
+  },
+  {
+    "content": "A SQL query walks up to two tables and asks: 'Can I join you?'",
+    "category": "cs_geek",
+    "tags": ["SQL", "Join", "Database"],
+    "language": "en"
+  },
+  {
+    "content": "IPv6: Because humans needed 340 undecillion addresses just so every smart toaster can have its own existential crisis.",
+    "category": "cs_geek",
+    "tags": ["Networking", "IPv6", "IoT"],
+    "language": "en"
+  },
+  {
+    "content": "Docker: It works on my machine! Then we will ship your machine!",
+    "category": "cs_geek",
+    "tags": ["Docker", "DevOps", "Containers"],
+    "language": "en"
+  }
+]

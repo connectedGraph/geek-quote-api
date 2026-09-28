@@ -1,0 +1,5416 @@
+[
+  {
+    "id": "stem_ec2629c279",
+    "content": "Why do neural networks love coffee? Because it helps them find the global minimum and prevents vanishing gradients.",
+    "category": "ai_ml",
+    "tags": [
+      "NeuralNetwork",
+      "Gradient",
+      "Coffee"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_06fc62ed93",
+    "content": "A transformer model walks into a bar. The bartender asks, 'What'll you have?' The model says, 'Attention is all I need.'",
+    "category": "ai_ml",
+    "tags": [
+      "Transformer",
+      "Attention",
+      "NLP"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_b6f7466d13",
+    "content": "Training an LLM is like raising a teenager: you feed it the entire internet, and it confidently lies to you about things it learned 5 minutes ago.",
+    "category": "ai_ml",
+    "tags": [
+      "LLM",
+      "Hallucination",
+      "Training"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_9be8ff08dc",
+    "content": "Overfitting is when you memorize the textbook word-for-word and fail the exam because the professor changed the font.",
+    "category": "ai_ml",
+    "tags": [
+      "Overfitting",
+      "MachineLearning",
+      "Generalization"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_ea2145d4ac",
+    "content": "Why did the gradient descent stop climbing? Because it wasn't feeling very optimistic.",
+    "category": "ai_ml",
+    "tags": [
+      "GradientDescent",
+      "Optimization"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_95ccecc84f",
+    "content": "Backpropagation is just blaming all your mistakes on everyone who came before you, weighted by how much they contributed.",
+    "category": "ai_ml",
+    "tags": [
+      "Backpropagation",
+      "DeepLearning"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_faea86c1d1",
+    "content": "There are two types of machine learning practitioners: those who understand linear algebra, and those who import torch.nn.",
+    "category": "ai_ml",
+    "tags": [
+      "PyTorch",
+      "LinearAlgebra",
+      "DeepLearning"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_4ea8789d8f",
+    "content": "My model has 99.9% accuracy on the test set. Unfortunately, my test set is also my training set.",
+    "category": "ai_ml",
+    "tags": [
+      "DataLeakage",
+      "MachineLearning",
+      "Evaluation"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_93f3ca470e",
+    "content": "Reinforcement learning is when you shock a digital rat 10 million times until it accidentally invents a speedrun glitch.",
+    "category": "ai_ml",
+    "tags": [
+      "ReinforcementLearning",
+      "AI",
+      "Exploitation"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_84d9fd3462",
+    "content": "Dropout: the only place in academia where giving up 50% of the time actually improves your performance.",
+    "category": "ai_ml",
+    "tags": [
+      "Dropout",
+      "Regularization",
+      "DeepLearning"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_d8857dca39",
+    "content": "Convolutional Neural Networks: looking at the world through a 3x3 window and convincing yourself you see the big picture.",
+    "category": "ai_ml",
+    "tags": [
+      "CNN",
+      "ComputerVision",
+      "Kernels"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_53207fad15",
+    "content": "Why are GPUs so popular in AI? Because matrix multiplication is the only kind of math that money can buy directly.",
+    "category": "ai_ml",
+    "tags": [
+      "GPU",
+      "Hardware",
+      "MatrixMultiplication"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_83ca82d3dd",
+    "content": "Artificial Intelligence is whatever hasn't been done yet. Once it works, we just call it linear regression.",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "LinearRegression",
+      "Definition"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_63fcfe7551",
+    "content": "What is the difference between machine learning and statistics? Machine learning has venture capital.",
+    "category": "ai_ml",
+    "tags": [
+      "Statistics",
+      "MachineLearning",
+      "VC"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_0149ce246b",
+    "content": "A GAN is just two neural networks gaslighting each other until one produces counterfeit Rembrandts.",
+    "category": "ai_ml",
+    "tags": [
+      "GAN",
+      "GenerativeAI",
+      "Discriminator"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_7b6f559434",
+    "content": "Batch size 1: pure stochastic chaos. Batch size 4096: out of memory error. Batch size 32: peace and harmony.",
+    "category": "ai_ml",
+    "tags": [
+      "BatchSize",
+      "Hyperparameters",
+      "OOM"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_2e2449535e",
+    "content": "My learning rate is like my life decisions: if it's too high, I oscillate violently; if it's too low, I get stuck in a local minimum forever.",
+    "category": "ai_ml",
+    "tags": [
+      "LearningRate",
+      "Optimization",
+      "LocalMinima"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_272334b24c",
+    "content": "Prompt engineering: the sacred art of speaking ancient spell incantations to a billion-parameter tensor to make it output valid JSON.",
+    "category": "ai_ml",
+    "tags": [
+      "PromptEngineering",
+      "LLM",
+      "JSON"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_8260340a45",
+    "content": "The loss went down to zero! Great, now tell me how many weights are NaN.",
+    "category": "ai_ml",
+    "tags": [
+      "Loss",
+      "Debugging",
+      "NaN"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_48469989bf",
+    "content": "A data scientist spends 80% of their time cleaning data, and 20% of their time complaining about data cleaning.",
+    "category": "ai_ml",
+    "tags": [
+      "DataScience",
+      "DataCleaning"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_7c4ec4fa06",
+    "content": "Why did the AI cross the road? Because it was rewarded with +1 point for touching the asphalt on the other side.",
+    "category": "ai_ml",
+    "tags": [
+      "ReinforcementLearning",
+      "RewardHacking"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_bc2b362f45",
+    "content": "Why did the vector go to therapy? Because it had direction, but completely lost its magnitude.",
+    "category": "math_logic",
+    "tags": [
+      "LinearAlgebra",
+      "Vectors"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_ed443c3622",
+    "content": "Topologists cannot tell the difference between a coffee mug and a donut, which makes their breakfast meetings extremely messy.",
+    "category": "math_logic",
+    "tags": [
+      "Topology",
+      "Homeomorphism"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_528097fcf4",
+    "content": "Why did 1/x break up with 0? Because whenever they got close, things escalated towards infinity.",
+    "category": "math_logic",
+    "tags": [
+      "Calculus",
+      "Asymptote",
+      "Infinity"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_47ded15640",
+    "content": "A physicist, an engineer, and a mathematician are stranded on a desert island with a can of beans. The mathematician says: 'First, let us assume we have a can opener.'",
+    "category": "math_logic",
+    "tags": [
+      "Axioms",
+      "Assumptions",
+      "PureMath"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_1f83c8cf54",
+    "content": "e^(i*pi) + 1 = 0: Euler brought the five most important constants in mathematics together, and they all canceled out to absolute nothingness.",
+    "category": "math_logic",
+    "tags": [
+      "Euler",
+      "Identity",
+      "ComplexAnalysis"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_5d7a759162",
+    "content": "Why was the complex number depressed? Because it felt entirely imaginary.",
+    "category": "math_logic",
+    "tags": [
+      "ComplexNumbers",
+      "Algebra"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_d5fb5c37da",
+    "content": "Parallel lines have so much in common. It's truly a tragedy that they will never meet.",
+    "category": "math_logic",
+    "tags": [
+      "EuclideanGeometry",
+      "ParallelLines"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_04f1e569ec",
+    "content": "Banach-Tarski paradox: How to turn one orange into two identical oranges, provided you have no problem taking non-measurable sets of atoms.",
+    "category": "math_logic",
+    "tags": [
+      "AxiomOfChoice",
+      "BanachTarski",
+      "MeasureTheory"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_0adf922fad",
+    "content": "Why did the chicken cross the Möbius strip? To get to the same side.",
+    "category": "math_logic",
+    "tags": [
+      "Topology",
+      "MobiusStrip"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_184c9e1bdb",
+    "content": "Godel proved that either our math system has inconsistencies, or there are truths we can never prove. Mathematicians chose to keep doing math anyway.",
+    "category": "math_logic",
+    "tags": [
+      "Godel",
+      "Incompleteness",
+      "Logic"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_a43d33e7ec",
+    "content": "Schrödinger's cat walks into a bar... and orders a drink, doesn't order a drink, and breaks the glass until the bartender looks.",
+    "category": "physics_stem",
+    "tags": [
+      "Quantum",
+      "Superposition",
+      "Measurement"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_8328ebdbbc",
+    "content": "Never trust an atom. They make up everything.",
+    "category": "physics_stem",
+    "tags": [
+      "Chemistry",
+      "AtomicPhysics"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_122dddf0a7",
+    "content": "Entropy is the only thing in the universe that increases without any funding.",
+    "category": "physics_stem",
+    "tags": [
+      "Thermodynamics",
+      "Entropy"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_ccb04fc5ab",
+    "content": "A photon checks into a hotel. The bellhop asks: 'Can I help you with any luggage?' The photon says: 'No thanks, I'm traveling light.'",
+    "category": "physics_stem",
+    "tags": [
+      "Photon",
+      "Light",
+      "Relativity"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_8244e86d06",
+    "content": "Organic chemistry is the study of carbon compounds; biochemistry is the study of carbon compounds that cry during lab exams.",
+    "category": "physics_stem",
+    "tags": [
+      "Chemistry",
+      "Biochemistry",
+      "Lab"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_3fc39b208d",
+    "content": "What is the speed of darkness? The speed at which light leaves.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Light",
+      "Darkness"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_503f50d61a",
+    "content": "CUDA out of memory: Tried to allocate 20.00 MiB (GPU 0; 24.00 GiB total capacity; 23.98 GiB already allocated by the ghost of experiments past).",
+    "category": "ai_ml",
+    "tags": [
+      "CUDA",
+      "VRAM",
+      "PyTorch",
+      "OOM"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_a6522b7c63",
+    "content": "LLM hallucination is just creative writing that nobody asked for.",
+    "category": "ai_ml",
+    "tags": [
+      "LLM",
+      "Hallucination",
+      "NLP"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_5f01f9f049",
+    "content": "What do machine learning models and psychics have in common? Both make confident predictions based on vague patterns and refuse to explain their reasoning.",
+    "category": "ai_ml",
+    "tags": [
+      "MachineLearning",
+      "BlackBox",
+      "Explainability"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_0f96bb990d",
+    "content": "Gradient descent without momentum is like walking down a foggy mountain while refusing to look more than two inches in front of your feet.",
+    "category": "ai_ml",
+    "tags": [
+      "GradientDescent",
+      "Momentum",
+      "Optimization"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_0c3eafbf2f",
+    "content": "Fine-tuning an LLM: Spend $5,000 on cloud compute only to teach the model how to say 'As an AI language model' in Shakespearean English.",
+    "category": "ai_ml",
+    "tags": [
+      "FineTuning",
+      "CloudCompute",
+      "LLM"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_04006b7344",
+    "content": "A data pipeline is a delicate series of Python scripts held together by duct tape, cron jobs, and prayer.",
+    "category": "ai_ml",
+    "tags": [
+      "DataPipeline",
+      "Python",
+      "DataEngineering"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_c6bbd79c82",
+    "content": "There is no cloud, it's just someone else's GPU running out of VRAM.",
+    "category": "ai_ml",
+    "tags": [
+      "Cloud",
+      "GPU",
+      "VRAM"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_5dc9ff28c1",
+    "content": "In deep learning, 'We leave the mathematical proof as future work' means 'It converged on our test machine once at 3 AM and we have no idea why'.",
+    "category": "ai_ml",
+    "tags": [
+      "DeepLearning",
+      "Research",
+      "Convergence"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_53e42e1fda",
+    "content": "Mixture of Experts: Why have one neural net be confused when you can route tokens between eight confused neural nets?",
+    "category": "ai_ml",
+    "tags": [
+      "MoE",
+      "Transformers",
+      "Architecture"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_cbcd5e9512",
+    "content": "RLHF is just psychological conditioning for matrix multiplication.",
+    "category": "ai_ml",
+    "tags": [
+      "RLHF",
+      "Alignment",
+      "MatrixMultiplication"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_d82bc44db5",
+    "content": "Quantization: Making your model 4 times smaller, 2 times faster, and only 10% more unhinged.",
+    "category": "ai_ml",
+    "tags": [
+      "Quantization",
+      "Efficiency",
+      "LLM"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_8e45e0f797",
+    "content": "Knowledge distillation: When a 70B parameter teacher tries to explain quantum electrodynamics to a 1B parameter student using flashcards.",
+    "category": "ai_ml",
+    "tags": [
+      "Distillation",
+      "Compression",
+      "LLM"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_ac496cc2c8",
+    "content": "Cosine similarity: The mathematical equivalent of judging two people based on whether they are pointing in roughly the same direction.",
+    "category": "math_logic",
+    "tags": [
+      "CosineSimilarity",
+      "LinearAlgebra",
+      "Vectors"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_f2dbca3fbd",
+    "content": "Eigenvectors: You can transform everything else around them, but they just stretch and refuse to change their direction in life.",
+    "category": "math_logic",
+    "tags": [
+      "Eigenvector",
+      "LinearAlgebra",
+      "Matrices"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_cf1aa8ef53",
+    "content": "Singular Value Decomposition: Taking a messy matrix, finding what it actually cares about, and throwing away the rest.",
+    "category": "math_logic",
+    "tags": [
+      "SVD",
+      "MatrixDecomposition",
+      "LinearAlgebra"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_9c407b9ca0",
+    "content": "Monte Carlo simulation: When you have no idea how to solve an integral analytically, so you throw virtual darts at it ten million times.",
+    "category": "math_logic",
+    "tags": [
+      "MonteCarlo",
+      "Probability",
+      "Simulation"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_4a90651481",
+    "content": "Softmax function: Turning self-doubt into a normalized probability distribution.",
+    "category": "math_logic",
+    "tags": [
+      "Softmax",
+      "Probability",
+      "Math"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_1f77afa19f",
+    "content": "Curse of dimensionality: In high dimensions, nobody can hear you scream, and all points are equally distant from each other.",
+    "category": "math_logic",
+    "tags": [
+      "CurseOfDimensionality",
+      "Geometry",
+      "DataScience"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_55d84bcf69",
+    "content": "Stochastic gradient descent: Falling down a flight of stairs, but somehow landing closer to the ground each time.",
+    "category": "ai_ml",
+    "tags": [
+      "SGD",
+      "Optimization",
+      "MachineLearning"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_b66b47a5fb",
+    "content": "Validation loss went up while training loss hit zero: Congratulations, your model has memorized your secrets and learned absolutely nothing.",
+    "category": "ai_ml",
+    "tags": [
+      "ValidationLoss",
+      "Overfitting",
+      "DeepLearning"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_6b3230828c",
+    "content": "Why do data scientists prefer dark mode? Because light attracts bugs, and our loss functions are sensitive enough already.",
+    "category": "ai_ml",
+    "tags": [
+      "DataScience",
+      "DarkMode",
+      "Bugs"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_30c1715ea4",
+    "content": "P vs NP: If P = NP, finding a solution is as easy as verifying one. Which means college exams would either be trivial or impossible.",
+    "category": "math_logic",
+    "tags": [
+      "Complexity",
+      "PvsNP",
+      "TheoreticalCS"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_2c2648eba7",
+    "content": "The Halting Problem proves that no program can decide if another program halts. My terminal proves it can certainly freeze indefinitely.",
+    "category": "cs_geek",
+    "tags": [
+      "HaltingProblem",
+      "Turing",
+      "Computation"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_d67892ae67",
+    "content": "There are 10 kinds of physicists: those who believe in the Copenhagen interpretation, those who believe in Many Worlds, and those who just shut up and calculate.",
+    "category": "physics_stem",
+    "tags": [
+      "QuantumMechanics",
+      "Interpretations",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_916105aa5c",
+    "content": "Maxwell's equations: And God said: curl of E equals minus dB/dt, and there was light.",
+    "category": "physics_stem",
+    "tags": [
+      "MaxwellsEquations",
+      "Electromagnetism",
+      "Light"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_b578a33bef",
+    "content": "Second Law of Thermodynamics: The universe guarantees that your bedroom, your code, and your life will become increasingly disorganized over time.",
+    "category": "physics_stem",
+    "tags": [
+      "Thermodynamics",
+      "Entropy",
+      "Physics"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_32656413f9",
+    "content": "Heisenberg and Schrodinger are driving. They get pulled over. Officer asks Schrodinger: 'Did you know you have a dead cat in the trunk?' Schrodinger shouts: 'Well, now I do!'",
+    "category": "physics_stem",
+    "tags": [
+      "Quantum",
+      "Schrodinger",
+      "Heisenberg"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_cf48a2b8d1",
+    "content": "Archimedes jumped out of the bath shouting 'Eureka!'. Modern developers jump out of their chairs shouting 'It compiles!'.",
+    "category": "cs_geek",
+    "tags": [
+      "Compiler",
+      "Eureka",
+      "Programming"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_978d7827f0",
+    "content": "Git merge conflict: When two developers look at the same line of code and disagree on reality itself.",
+    "category": "cs_geek",
+    "tags": [
+      "Git",
+      "MergeConflict",
+      "VersionControl"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_523b6bab9e",
+    "content": "A SQL query walks up to two tables and asks: 'Can I join you?'",
+    "category": "cs_geek",
+    "tags": [
+      "SQL",
+      "Join",
+      "Database"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_051fb1095c",
+    "content": "IPv6: Because humans needed 340 undecillion addresses just so every smart toaster can have its own existential crisis.",
+    "category": "cs_geek",
+    "tags": [
+      "Networking",
+      "IPv6",
+      "IoT"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_cc34424f6c",
+    "content": "Docker: It works on my machine! Then we will ship your machine!",
+    "category": "cs_geek",
+    "tags": [
+      "Docker",
+      "DevOps",
+      "Containers"
+    ],
+    "language": "en",
+    "source": "expansion"
+  },
+  {
+    "id": "stem_97c7990022",
+    "content": "1 + 1 = 3, for large values of 1.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7f1c4b181d",
+    "content": "(1) A sheet of paper is an ink-lined plane. (2) An inclined plane is a slope up. (3) A slow pup is a lazy dog. QED: A sheet of paper is a lazy dog. — Willard Espy, \"An Almanac of Words at Play\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_191eb22dbb",
+    "content": "(1) Alexander the Great was a great general. (2) Great generals are forewarned. (3) Forewarned is forearmed. (4) Four is an even number. (5) Four is certainly an odd number of arms for a man to have. (6) The only number that is both even and odd is infinity. Therefore, all horses are black.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c7b57ac19c",
+    "content": "(1) Never draw what you can copy. (2) Never copy what you can trace. (3) Never trace what you can cut out and paste down.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_b1c5e8b559",
+    "content": "(1) X=Y ; Given (2) X^2=XY ; Multiply both sides by X (3) X^2-Y^2=XY-Y^2 ; Subtract Y^2 from both sides (4) (X+Y)(X-Y)=Y(X-Y) ; Factor (5) X+Y=Y ; Cancel out (X-Y) term (6) 2Y=Y ; Substitute X for Y, by equation 1 (7) 2=1 ; Divide both sides by Y — \"Omni\", proof that 2 equals 1",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_86f9201fc9",
+    "content": "1.79 x 10^12 furlongs per fortnight -- it's not just a good idea, it's the law!",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_689c64789a",
+    "content": "10.0 times 0.1 is hardly ever 1.0.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_abe101446e",
+    "content": "\"355/113 -- Not the famous irrational number PI, but an incredible simulation!\"",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a6d11e1457",
+    "content": "7,140 pounds on the Sun 97 pounds on Mercury or Mars 255 pounds on Earth 232 pounds on Venus or Uranus 43 pounds on the Moon 648 pounds on Jupiter 275 pounds on Saturn 303 pounds on Neptune 13 pounds on Pluto — How much Elvis Presley would weigh at various places in the solar system.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a5df6d63ac",
+    "content": "A conclusion is simply the place where someone got tired of thinking.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_92f1e45714",
+    "content": "A conference is a gathering of important people who singly can do nothing but together can decide that nothing can be done. — Fred Allen",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a159277b73",
+    "content": "A fail-safe circuit will destroy others. — Klipstein",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_424221134b",
+    "content": "A failure will not appear until a unit has passed final inspection.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_acdc81780b",
+    "content": "\"A fractal is by definition a set for which the Hausdorff Besicovitch dimension strictly exceeds the topological dimension.\" — Mandelbrot, \"The Fractal Geometry of Nature\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_fedaec5d0a",
+    "content": "\"A horrible little boy came up to me and said, `You know in your book The Martian Chronicles?' I said, `Yes?' He said, `You know where you talk about Deimos rising in the East?' I said, `Yes?' He said `No.' — So I hit him.\" — attributed to Ray Bradbury",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_aeb51d3900",
+    "content": "A mathematician is a device for turning coffee into theorems. — P. Erdos",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_3a5edeabf1",
+    "content": "A method of solution is perfect if we can forsee from the start, and even prove, that following that method we shall attain our aim. — Leibniz",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_bcb82b1621",
+    "content": "A pain in the ass of major dimensions. — C. A. Desoer, on the solution of non-linear circuits",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_41edae42dd",
+    "content": "A physicist is an atom's way of knowing about atoms. — George Wald",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_756adbac3d",
+    "content": "A scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it. — Max Planck",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_045e4b6b87",
+    "content": "A sine curve goes off to infinity, or at least the end of the blackboard. — Prof. Steiner",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f58c3e9de2",
+    "content": "A social scientist, studying the culture and traditions of a small North African tribe, found a woman still practicing the ancient art of matchmaking. Locally, she was known as the Moor, the marrier.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_6845e2f32b",
+    "content": "A statistician, who refused to fly after reading of the alarmingly high probability that there will be a bomb on any given plane, realized that the probability of there being two bombs on any given flight is very low. Now, whenever he flies, he carries a bomb with him.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_9089b14522",
+    "content": "A transistor protected by a fast-acting fuse will protect the fuse by blowing first.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_d74c94178a",
+    "content": "A triangle which has an angle of 135 degrees is called an obscene triangle.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_74abf350c8",
+    "content": "According to convention there is a sweet and a bitter, a hot and a cold, and according to convention, there is an order. In truth, there are atoms and a void. — Democritus, 400 B.C.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_22aa4fa717",
+    "content": "According to the latest official figures, 43% of all statistics are totally worthless.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7442ba9200",
+    "content": "ACHTUNG!!! Das machine is nicht fur gefingerpoken und mittengrabben. Ist easy schnappen der springenwerk, blowenfusen und corkenpoppen mit spitzensparken. Ist nicht fur gewerken by das dummkopfen. Das rubbernecken sightseeren keepen hands in das pockets. Relaxen und vatch das blinkenlights!!!",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5d60c38f5d",
+    "content": "After a number of decimal places, nobody gives a damn.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_d3b00e944d",
+    "content": "After an instrument has been assembled, extra components will be found on the bench.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_ac4b1149a1",
+    "content": "After the last of 16 mounting screws has been removed from an access cover, it will be discovered that the wrong access cover has been removed.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_ef4e4a6179",
+    "content": "After years of research, scientists recently reported that there is, indeed, arroz in Spanish Harlem.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_32f4c3e989",
+    "content": "Against his wishes, a math teacher's classroom was remodeled. Ever since, he's been talking about the good old dais. His students planted a small orchard in his honor; the trees all have square roots.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_bf40190249",
+    "content": "Air is water with holes in it.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_2077221cb2",
+    "content": "Air pollution is really making us pay through the nose.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_ff56afaaca",
+    "content": "Alexander Graham Bell is alive and well in New York, and still waiting for a dial tone.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_796de6b212",
+    "content": "Algebraic symbols are used when you do not know what you are talking about. — Philippe Schnoebelen",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_e3a05fd9ac",
+    "content": "All Finagle Laws may be bypassed by learning the simple art of doing without thinking.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_0690ae9674",
+    "content": "All great discoveries are made by mistake. — Young",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_2b01846b0b",
+    "content": "All great ideas are controversial, or have been at one time.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_43bec5ca61",
+    "content": "All laws are simulations of reality. — John C. Lilly",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5aa45ad040",
+    "content": "All life evolves by the differential survival of replicating entities. — Dawkins",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f521743482",
+    "content": "All power corrupts, but we need electricity.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_e418f8341f",
+    "content": "All science is either physics or stamp collecting. — Ernest Rutherford",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_cf75cf83e1",
+    "content": "All seems condemned in the long run to approximate a state akin to Gaussian noise. — James Martin",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_0675ce100f",
+    "content": "All syllogisms have three parts, therefore this is not a syllogism.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_b8c8bb3b30",
+    "content": "All the evidence concerning the universe has not yet been collected, so there's still hope.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_798829e5d3",
+    "content": "All theoretical chemistry is really physics; and all theoretical chemists know it. — Richard P. Feynman",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_447de22b7e",
+    "content": "Although the moon is smaller than the earth, it is farther away.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c03a0eedd4",
+    "content": "Always draw your curves, then plot your reading.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_9df7d63f9a",
+    "content": "Always leave room to add an explanation if it doesn't work out.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_0246215978",
+    "content": "Always think of something new; this helps you forget your last rotten idea. — Seth Frankel",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_4353485c3c",
+    "content": "Always try to do things in chronological order; it's less confusing that way.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c273ab8012",
+    "content": "An age is called Dark not because the light fails to shine, but because people refuse to see it. — James Michener, \"Space\"",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_0d3ac51993",
+    "content": "An anthropologist at Tulane has just come back from a field trip to New Guinea with reports of a tribe so primitive that they have Tide but not new Tide with lemon-fresh Borax. — David Letterman",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_87082c4c00",
+    "content": "An authority is a person who can tell you more about something than you really care to know.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_6095cc1f9f",
+    "content": "An economist is a man who would marry Farrah Fawcett-Majors for her money.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_48d4f3e537",
+    "content": "An egghead is one who stands firmly on both feet, in mid-air, on both sides of an issue. — Homer Ferguson",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c4e92b49f0",
+    "content": "And this is a table ma'am. What in essence it consists of is a horizontal rectilinear plane surface maintained by four vertical columnar supports, which we call legs. The tables in this laboratory, ma'am, are as advanced in design as one will find anywhere in the world. — Michael Frayn, \"The Tin Men\"",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_9ebfd6c481",
+    "content": "Any circuit design must contain at least one part which is obsolete, two parts which are unobtainable, and three parts which are still under development.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7447151a2b",
+    "content": "Any sufficiently advanced technology is indistinguishable from a rigged demo.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_fa8438db08",
+    "content": "Any sufficiently advanced technology is indistinguishable from magic. — Arthur C. Clarke",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7872f417da",
+    "content": "Anyone who cannot cope with mathematics is not fully human. At best he is a tolerable subhuman who has learned to wear shoes, bathe and not make messes in the house. — Lazarus Long, \"Time Enough for Love\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_172f497cd1",
+    "content": "Anyone who imagines that all fruits ripen at the same time as the strawberries, knows nothing about grapes. — Philippus Paracelsus",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c5c0c7a05d",
+    "content": "\"Anything created must necessarily be inferior to the essence of the creator.\" — Claude Shouse \"Einstein's mother must have been one heck of a physicist.\" — Joseph C. Wang",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_1a520d6277",
+    "content": "Anything cut to length will be too short.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_25c1e55872",
+    "content": "Arithmetic is being able to count up to twenty without taking off your shoes. — Mickey Mouse",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f2164e2714",
+    "content": "Artificial intelligence has the same relation to intelligence as artificial flowers have to flowers. — David Parnas",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f92939f027",
+    "content": "\"As an adolescent I aspired to lasting fame, I craved factual certainty, and I thirsted for a meaningful vision of human life -- so I became a scientist. This is like becoming an archbishop so you can meet girls.\" — Matt Cartmill",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_48938ac74b",
+    "content": "As far as the laws of mathematics refer to reality, they are not certain, and as far as they are certain, they do not refer to reality. — Albert Einstein",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_4714e960f3",
+    "content": "As you will see, I told them, in no uncertain terms, to see Figure one. — Dave \"First Strike\" Pare",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_566b1fb64a",
+    "content": "Ask five economists and you'll get five different explanations (six if one went to Harvard). — Edgar R. Fiedler",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5b5dbe2b6f",
+    "content": "At any given moment, an arrow must be either where it is or where it is not. But obviously it cannot be where it is not. And if it is where it is, that is equivalent to saying that it is at rest. — Zeno's paradox of the moving (still?) arrow",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_8812fb08bc",
+    "content": "Base 8 is just like base 10, if you are missing two fingers. — Tom Lehrer",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_343343e8ff",
+    "content": "Before Xerox, five carbons were the maximum extension of anybody's ego.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_9594800715",
+    "content": "Between infinite and short there is a big difference. — G. H. Gonnet",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_e05facfd94",
+    "content": "Biology is the only science in which multiplication means the same thing as division.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_64e727e78c",
+    "content": "But it does move! — Galileo Galilei",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_83b429b048",
+    "content": "But you who live on dreams, you are better pleased with the sophistical reasoning and frauds of talkers about great and uncertain matters than those who speak of certain and natural matters, not of such lofty nature. — Leonardo Da Vinci, \"The Codex on the Flight of Birds\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_d0a3ba087d",
+    "content": "Celestial navigation is based on the premise that the Earth is the center of the universe. The premise is wrong, but the navigation works. An incorrect model can be a useful tool. — Kelvin Throop III",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_35cacc7cf9",
+    "content": "Chemist who falls in acid is absorbed in work.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_d5185cb2e4",
+    "content": "Chemist who falls in acid will be tripping for weeks.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c32ba33e10",
+    "content": "Chemistry is applied theology. — Augustus Stanley Owsley III",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_1b7e48f3d4",
+    "content": "Chemistry professors never die, they just fail to react.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_be6a871ccc",
+    "content": "\"Consider a spherical bear, in simple harmonic motion...\" — Professor in the UCB physics department",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7d3e93e0d4",
+    "content": "\"Contrariwise,\" continued Tweedledee, \"if it was so, it might be, and if it were so, it would be; but as it isn't, it ain't. That's logic!\" — Lewis Carroll, \"Through the Looking Glass\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_da2e418c00",
+    "content": "\"Deep\" is a word like \"theory\" or \"semantic\" -- it implies all sorts of marvelous things. It's one thing to be able to say \"I've got a theory\", quite another to say \"I've got a semantic theory\", but, ah, those who can claim \"I've got a deep semantic theory\", they are truly blessed. — Randy Davis",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_923254e48c",
+    "content": "Did you hear that there's a group of South American Indians that worship the number zero? Is nothing sacred?",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_23bc0cf8ac",
+    "content": "Did you hear that two rabbits escaped from the zoo and so far they have only recaptured 116 of them?",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_1c6554a588",
+    "content": "Did you know that if you took all the economists in the world and lined them up end to end, they'd still point in the wrong direction?",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_028a0ac789",
+    "content": "Dimensions will always be expressed in the least usable term, convertible only through the use of weird and unnatural conversion factors. Velocity, for example, will be expressed in furlongs per fortnight.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_42a3957c0c",
+    "content": "Dinosaurs aren't extinct. They've just learned to hide in the trees.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_402f5e3e26",
+    "content": "Do molecular biologists wear designer genes?",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f96d981e69",
+    "content": "Duct tape is like the force. It has a light side, and a dark side, and it holds the universe together ... — Carl Zwanzig",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_daf7e9111d",
+    "content": "Economics is extremely useful as a form of employment for economists. — John Kenneth Galbraith",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_574664ea68",
+    "content": "Economists can certainly disappoint you. One said that the economy would turn up by the last quarter. Well, I'm down to mine and it hasn't. — Robert Orben",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_4bbea0e61c",
+    "content": "Economists state their GNP growth projections to the nearest tenth of a percentage point to prove they have a sense of humor. — Edgar R. Fiedler",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_341568e858",
+    "content": "Elegance and truth are inversely related. — Becker's Razor",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_48108f622c",
+    "content": "Elliptic paraboloids for sale.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c432ffc048",
+    "content": "Entropy requires no maintenance. — Markoff Chaney",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_995889c9a4",
+    "content": "Enzymes are things invented by biologists that explain things which otherwise require harder thinking. — Jerome Lettvin",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_63053617fa",
+    "content": "Every little picofarad has a nanohenry all its own. — Don Vonada",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_4b6d86fbbf",
+    "content": "Every nonzero finite dimensional inner product space has an orthonormal basis. It makes sense, when you don't think about it.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7971063040",
+    "content": "Every paper published in a respectable journal should have a preface by the author stating why he is publishing the article, and what value he sees in it. I have no hope that this practice will ever be adopted. — Morris Kline",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_d14bc14c1a",
+    "content": "Everything should be made as simple as possible, but not simpler. — Albert Einstein",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_8813520430",
+    "content": "Everything that can be invented has been invented. — Charles Duell, Director of U.S. Patent Office, 1899",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_bca146efc0",
+    "content": "Experience varies directly with equipment ruined.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a8cf794d1d",
+    "content": "Experiments must be reproducible; they should all fail in the same way.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_1433f06717",
+    "content": "Factorials were someone's attempt to make math LOOK exciting.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_fbe21809c1",
+    "content": "Facts are stubborn, but statistics are more pliable.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_8d0f677849",
+    "content": "Federal grants are offered for... research into the recreation potential of interplanetary space travel for the culturally disadvantaged.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_28f0751c46",
+    "content": "Five is a sufficiently close approximation to infinity. — Robert Firth \"One, two, five.\" — Monty Python and the Holy Grail",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_299e05aeb0",
+    "content": "For every complex problem, there is a solution that is simple, neat, and wrong. — H. L. Mencken",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_d92e99c565",
+    "content": "For God's sake, stop researching for a while and begin to think!",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_0c3df06ce2",
+    "content": "For large values of one, one equals two, for small values of two.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_9c5ee5bbfb",
+    "content": "FORTUNE'S FUN FACTS TO KNOW AND TELL: #44 Zebras are colored with dark stripes on a light background.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_ed3e9c2c24",
+    "content": "Fundamentally, there may be no basis for anything.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c14af9dc15",
+    "content": "Genetics explains why you look like your father, and if you don't, why you should.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_6952e7fa75",
+    "content": "(German philosopher) Georg Wilhelm Hegel, on his deathbed, complained, \"Only one man ever understood me.\" He fell silent for a while and then added, \"And he didn't understand me.\"",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_15a98ba4dd",
+    "content": "God doesn't play dice. — Albert Einstein",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f653a4f039",
+    "content": "God made the integers; all else is the work of Man. — Kronecker",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a5c55649cb",
+    "content": "God runs electromagnetics by wave theory on Monday, Wednesday, and Friday, and the Devil runs them by quantum theory on Tuesday, Thursday, and Saturday. — William Bragg",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_bf402a7b30",
+    "content": "Going the speed of light is bad for your age.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5ddbd3b723",
+    "content": "Good morning. This is the telephone company. Due to repairs, we're giving you advance notice that your service will be cut off indefinitely at ten o'clock. That's two minutes from now.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_20a16f91ca",
+    "content": "Gosh that takes me back... or is it forward? That's the trouble with time travel, you never can tell.\" — Doctor Who, \"Androids of Tara\"",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_e097292485",
+    "content": "Got Mole problems? Call Avogadro at 6.02 x 10^23.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_ec3d98b21a",
+    "content": "Gravity is a myth, the Earth sucks.",
+    "category": "physics_stem",
+    "tags": [
+      "Physics",
+      "Quantum",
+      "STEM"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_6ef7ae0560",
+    "content": "I have hardly ever known a mathematician who was capable of reasoning. — Plato",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a01632542e",
+    "content": "I tell them to turn to the study of mathematics, for it is only there that they might escape the lusts of the flesh. — Thomas Mann, \"The Magic Mountain\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5249bfc7e4",
+    "content": "\"I think it is true for all n. I was just playing it safe with n >= 3 because I couldn't remember the proof.\" — Baker, Pure Math 351a",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_4465ef9450",
+    "content": "If A = B and B = C, then A = C, except where void or prohibited by law. — Roy Santoro",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_563ab18035",
+    "content": "If God is perfect, why did He create discontinuous functions?",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f2a23ef569",
+    "content": "If it is a Miracle, any sort of evidence will answer, but if it is a Fact, proof is necessary. — Samuel Clemens",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7182567450",
+    "content": "If mathematically you end up with the wrong answer, try multiplying by the page number.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_d60e928bfa",
+    "content": "If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability. — Vannevar Bush",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_533c1e45d2",
+    "content": "If you're not part of the solution, you're part of the precipitate.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_65476e50f1",
+    "content": "In order to dial out, it is necessary to broaden one's dimension.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_b8a606f432",
+    "content": "It seems that more and more mathematicians are using a new, high level language named \"research student\".",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_e417736ac0",
+    "content": "Kleeneness is next to Gödelness.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5c55daeeda",
+    "content": "Logic is a little bird, sitting in a tree; that smells *awful*.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_e5c43e165a",
+    "content": "Logic is a pretty flower that smells bad.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_b847d33658",
+    "content": "Logic is a systematic method of coming to the wrong conclusion with confidence.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_ebe8a72658",
+    "content": "Logic is the chastity belt of the mind!",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_b92adfdab6",
+    "content": "MATH AND ALCOHOL DON'T MIX! Please, don't drink and derive. Mathematicians Against Drunk Deriving",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_355a50642c",
+    "content": "Mathematicians are like Frenchmen: whatever you say to them they translate into their own language and forthwith it is something entirely different. — Johann Wolfgang von Goethe",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5ea9067cee",
+    "content": "Mathematicians often resort to something called Hilbert space, which is described as being n-dimensional. Like modern sex, any number can play. — Dr. Thor Wald, \"Beep/The Quincunx of Time\", by James Blish",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_51ca2ca13d",
+    "content": "Mathematicians practice absolute freedom. — Henry Adams",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_85b728db3e",
+    "content": "Mathematics deals exclusively with the relations of concepts to each other without consideration of their relation to experience. — Albert Einstein",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_832b488fb8",
+    "content": "Mathematics is the only science where one never knows what one is talking about nor whether what is said is true. — Russell",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_4cc12594c6",
+    "content": "Matter cannot be created or destroyed, nor can it be returned without a receipt.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_26769e6c61",
+    "content": "Murphy's Law, that brash proletarian restatement of Godel's Theorem. — Thomas Pynchon, \"Gravity's Rainbow\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f0f0a7495a",
+    "content": "\"Obviously, a major malfunction has occurred.\" — Steve Nesbitt, voice of Mission Control, January 28, 1986, as the shuttle Challenger exploded within view of the grandstands.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_1fc7600d5e",
+    "content": "One Bell System - it used to work before they installed the Dimension!",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a070971e5a",
+    "content": "One of the chief duties of the mathematician in acting as an advisor... is to discourage... from expecting too much from mathematics. — N. Wiener",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_acfed79bb1",
+    "content": "\"Picture the sun as the origin of two intersecting 6-dimensional hyperplanes from which we can deduce a certain transformational sequence which gives us the terminal velocity of a rubber duck ...\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_517dfd09ff",
+    "content": "Quantum Mechanics is a lovely introduction to Hilbert Spaces! — Overheard at last year's Archimedeans' Garden Party",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_63e5ceb57f",
+    "content": "Science is built up of facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house. — Jules Henri Poincare",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7666223f7b",
+    "content": "Simplicity does not precede complexity, but follows it.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_74829e16c7",
+    "content": "Technological progress has merely provided us with more efficient means for going backwards. — Aldous Huxley",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_288549b26b",
+    "content": "The White Rabbit put on his spectacles. \"Where shall I begin, please your Majesty ?\" he asked. \"Begin at the beginning,\", the King said, very gravely, \"and go on till you come to the end: then stop.\" — Lewis Carroll",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_1c5eedf417",
+    "content": "The aim of science is to seek the simplest explanations of complex facts. Seek simplicity and distrust it. — Whitehead.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c7b817b69f",
+    "content": "The amount of time between slipping on the peel and landing on the pavement is precisely 1 bananosecond.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_37dbf1b8ce",
+    "content": "The best defense against logic is ignorance.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_f7d86935bd",
+    "content": "The best rebuttal to this kind of statistical argument came from the redoubtable John W. Campbell: The laws of population growth tell us that approximately half the people who were ever born in the history of the world are now dead. There is therefore a 0.5 probability that this message is being read by a corpse.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_0e1efd153d",
+    "content": "The difference between science and the fuzzy subjects is that science requires reasoning while those other subjects merely require scholarship. — Robert Heinlein",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_59079bd7b2",
+    "content": "The function of the expert is not to be more right than other people, but to be wrong for more sophisticated reasons. — Dr. David Butler, British psephologist",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_37112f7b77",
+    "content": "The instruments of science do not in themselves discover truth. And there are searchings that are not concluded by the coincidence of a pointer and a mark. — Fred Saberhagen, \"The Berserker Wars\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_499cd25a10",
+    "content": "The marvels of today's modern technology include the development of a soda can, when discarded will last forever ... and a $7,000 car which when properly cared for will rust out in two or three years.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_aff92ac70a",
+    "content": "The most advantageous, pre-eminent thing thou canst do is not to exhibit nor display thyself within the limits of our galaxy, but rather depart instantaneously whence thou even now standest and flee to yet another rotten planet in the universe, if thou canst have the good fortune to find one. — Carlyle",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_c3c38414d7",
+    "content": "The only function of economic forecasting is to make astrology look respectable. — John Kenneth Galbraith",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_16f4c6b900",
+    "content": "The reason that every major university maintains a department of mathematics is that it's cheaper than institutionalizing all those people.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_11c87f4177",
+    "content": "The society which scorns excellence in plumbing as a humble activity and tolerates shoddiness in philosophy because it is an exalted activity will have neither good plumbing nor good philosophy... neither its pipes nor its theories will hold water.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5a1e245381",
+    "content": "\"The subspace W inherits the other 8 properties of V. And there aren't even any property taxes.\" — J. MacKay, Mathematics 134b",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5725e5b516",
+    "content": "The universe does not have laws -- it has habits, and habits can be broken.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_100505aa9c",
+    "content": "\"There are three principal ways to lose money: wine, women, and engineers. While the first two are more pleasant, the third is by far the more certain.\" — Baron Rothschild, ca. 1800",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_eabc6cdc0e",
+    "content": "There was a writer in 'Life' magazine ... who claimed that rabbits have no memory, which is one of their defensive mechanisms. If they recalled every close shave they had in the course of just an hour life would become insupportable. — Kurt Vonnegut",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_a7b1f919cb",
+    "content": "This universe shipped by weight, not by volume. Some expansion of the contents may have occurred during shipment.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_7dadaa3895",
+    "content": "Thus mathematics may be defined as the subject in which we never know what we are talking about, nor whether what we are saying is true. — Bertrand Russell",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_2fcd2df815",
+    "content": "We have a equal opportunity Calculus class -- it's fully integrated.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5355288de0",
+    "content": "We warn the reader in advance that the proof presented here depends on a clever but highly unmotivated trick. — Howard Anton, \"Elementary Linear Algebra\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_705bbd1722",
+    "content": "What is algebra, exactly? Is it one of those three-cornered things? — J. M. Barrie",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_24acd65937",
+    "content": "When you know absolutely nothing about the topic, make your forecast by asking a carefully selected probability sample of 300 others who don't know the answer either. — Edgar R. Fiedler",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_5be0cd05b7",
+    "content": "White dwarf seeks red giant for binary relationship.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_4665cd67fb",
+    "content": "Why do mathematicians insist on using words that already have another meaning? \"It is the complex case that is easier to deal with.\" \"If it doesn't happen at a corner, but at an edge, it nonetheless happens at a corner.\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_8a94086883",
+    "content": "You are a taxi driver. Your cab is yellow and black, and has been in use for only seven years. One of its windshield wipers is broken, and the carburetor needs adjusting. The tank holds 20 gallons, but at the moment is only three-quarters full. How old is the taxi driver?\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_science"
+  },
+  {
+    "id": "stem_1653a03b05",
+    "content": "!07/11 PDP a ni deppart m'I !pleH",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ac383b3e01",
+    "content": "1: No code table for op: ++post",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_593ae06052",
+    "content": "... A booming voice says, \"Wrong, cretin!\", and you notice that you have turned into a pile of dust.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ff79fd9aa6",
+    "content": "A bug in the code is worth two in the documentation.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_e410c84a14",
+    "content": "A bug in the hand is better than one as yet undetected.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_67ab773c41",
+    "content": "A complex system that works is invariably found to have evolved from a simple system that works.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_aa1e8545ee",
+    "content": "[A computer is] like an Old Testament god, with a lot of rules and no mercy. — Joseph Campbell",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0ea5e5aeea",
+    "content": "A computer lets you make more mistakes faster than any other invention, with the possible exceptions of handguns and Tequilla. — Mitch Ratcliffe",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_99caa569f4",
+    "content": "A computer scientist is someone who fixes things that aren't broken.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_6b8a4ef0e7",
+    "content": "A computer without COBOL and Fortran is like a piece of chocolate cake without ketchup and mustard.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_96bc40b9c7",
+    "content": "A CONS is an object which cares. — Bernie Greenberg.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_44e95fa07a",
+    "content": "A debugged program is one for which you have not yet found the conditions that make it fail. — Jerry Ogdin",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_92072843bd",
+    "content": "A disciple of another sect once came to Drescher as he was eating his morning meal. \"I would like to give you this personality test\", said the outsider, \"because I want you to be happy.\" Drescher took the paper that was offered him and put it into the toaster -- \"I wish the toaster to be happy too\".",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_d7abf300b9",
+    "content": "A formal parsing algorithm should not always be used. — D. Gries",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_10d7cc7b33",
+    "content": "A Fortran compiler is the hobgoblin of little minis.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_6a64b4614e",
+    "content": "A hacker does for love what others would not do for money.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_83c7dad332",
+    "content": "A language that doesn't affect the way you think about programming is not worth knowing.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_095a29a154",
+    "content": "A language that doesn't have everything is actually easier to program in than some that do. — Dennis M. Ritchie",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0fdd97ed10",
+    "content": "A large number of installed systems work by fiat. That is, they work by being declared to work. — Anatol Holt",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_1a831d48e4",
+    "content": "A LISP programmer knows the value of everything, but the cost of nothing. — Alan Perlis",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_2278e751be",
+    "content": "A list is only as strong as its weakest link. — Don Knuth",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_2ae9a73d8d",
+    "content": "A modem is a baudy house.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_54ea5afa15",
+    "content": "A nasty looking dwarf throws a knife at you.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_fb41196624",
+    "content": "A novice was trying to fix a broken lisp machine by turning the power off and on. Knight, seeing what the student was doing spoke sternly, \"You cannot fix a machine by just power-cycling it with no understanding of what is going wrong.\" Knight turned the machine off and on. The machine worked.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_89ff97e224",
+    "content": "A person who is more than casually interested in computers should be well schooled in machine language, since it is a fundamental part of a computer. — Donald Knuth",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_55c2a30048",
+    "content": "A programming language is low level when its programs require attention to the irrelevant.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_d002b1c514",
+    "content": "A recent study has found that concentrating on difficult off-screen objects, such as the faces of loved ones, causes eye strain in computer scientists. Researchers into the phenomenon cite the added concentration needed to \"make sense\" of such unnatural three dimensional objects.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_42fcb1183c",
+    "content": "A rolling disk gathers no MOS.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_5d53b0cf4b",
+    "content": "A successful [software] tool is one that was used to do something undreamed of by its author. — S. C. Johnson",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_8a3684346d",
+    "content": "A well-used door needs no oil on its hinges. A swift-flowing steam does not grow stagnant. Neither sound nor thoughts can travel through a vacuum. Software rots if not used. These are great mysteries. — Geoffrey James, \"The Tao of Programming\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_b843e6ca50",
+    "content": "A year spent in artificial intelligence is enough to make one believe in God.",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_8f34bfedef",
+    "content": "About the use of language: it is impossible to sharpen a pencil with a blunt ax. It is equally vain to try to do it with ten blunt axes instead. — Edsger Dijkstra",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_d2d29c67ba",
+    "content": "Adding features does not necessarily increase functionality -- it just makes the manuals thicker.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_abf383c510",
+    "content": "Adding manpower to a late software project makes it later. — F. Brooks, \"The Mythical Man-Month\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0fdee2b394",
+    "content": "Whenever one person is found adequate to the discharge of a duty by close application thereto, it is worse execute by two persons and scarcely done at all if three or more are employed therein. — George Washington, 1732-1799",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_7b8b037aa9",
+    "content": "Alan Turing thought about criteria to settle the question of whether machines can think, a question of which we now know that it is about as relevant as the question of whether submarines can swim. — Dijkstra",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_a5d1c53167",
+    "content": "Algol-60 surely must be regarded as the most important programming language yet developed. — T. Cheatham",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_828e670fd1",
+    "content": "All constants are variables.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_2b8691a6ff",
+    "content": "All parts should go together without forcing. You must remember that the parts you are reassembling were disassembled by you. Therefore, if you can't get them together again, there must be a reason. By all means, do not use a hammer. — IBM maintenance manual, 1925",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ca4ed0c55f",
+    "content": "All programmers are playwrights and all computers are lousy actors.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c2605f27e7",
+    "content": "\"... all the good computer designs are bootlegged; the formally planned products, if they are built at all, are dogs!\" — David E. Lundstrom, \"A Few Good Men From Univac\", MIT Press, 1987",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_9c57d9313a",
+    "content": "All the simple programs have been written.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_72e192302d",
+    "content": "All your files have been destroyed (sorry). Paul.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_fa4395687b",
+    "content": "Almost anything derogatory you could say about today's software design would be accurate. — K. E. Iverson",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_3d06646bd1",
+    "content": "An Ada exception is when a routine gets in trouble and says 'Beam me up, Scotty'.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_04b32e63b1",
+    "content": "An adequate bootstrap is a contradiction in terms.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_5f02ee696b",
+    "content": "An algorithm must be seen to be believed. — D. E. Knuth",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_13ad0adb79",
+    "content": "An elephant is a mouse with an operating system.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_6e3065ad09",
+    "content": "An engineer is someone who does list processing in FORTRAN.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_7879cbecc6",
+    "content": "And it should be the law: If you use the word `paradigm' without knowing what the dictionary says it means, you go to jail. No exceptions. — David Jones",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_bbad3d15cd",
+    "content": "And on the seventh day, He exited from append mode.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_8590bb1968",
+    "content": "Another megabytes the dust.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c0591dfe1d",
+    "content": "Any given program will expand to fill available memory.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_451af0985f",
+    "content": "Any given program, when running, is obsolete.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c291a67427",
+    "content": "Any program which runs right is obsolete.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_9074d4a51d",
+    "content": "Any programming language is at its best before it is implemented and used.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_1cd53e5f29",
+    "content": "Any sufficiently advanced bug is indistinguishable from a feature. — Rich Kulawiec",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_69147536ed",
+    "content": "Anyone who has attended a USENIX conference in a fancy hotel can tell you that a sentence like \"You're one of those computer people, aren't you?\" is roughly equivalent to \"Look, another amazingly mobile form of slime mold!\" in the mouth of a hotel cocktail waitress. — Elizabeth Zwicky",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_f93e75335b",
+    "content": "APL hackers do it in the quad.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_dd31305c4b",
+    "content": "APL is a mistake, carried through to perfection. It is the language of the future for the programming techniques of the past: it creates a new generation of coding bums. — Edsger W. Dijkstra, SIGPLAN Notices, Volume 17, Number 5",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_9609608cff",
+    "content": "APL is a natural extension of assembler language programming; ...and is best for educational purposes. — A. Perlis",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_398bb43c5a",
+    "content": "APL is a write-only language. I can write programs in APL, but I can't read any of them. — Roy Keir",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0dea32bf16",
+    "content": "Are we running light with overbyte?",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ae755f03b3",
+    "content": "Around computers it is difficult to find the correct unit of time to measure progress. Some cathedrals took a century to complete. Can you imagine the grandeur and scope of a program that would take as long? — Epigrams in Programming, ACM SIGPLAN Sept. 1982",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_372d9c90d0",
+    "content": "As a computer, I find your faith in technology amusing.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_50cb45007d",
+    "content": "As far as we know, our computer has never had an undetected error. — Weisert",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c0055c21eb",
+    "content": "As in certain cults it is possible to kill a process if you know its true name. — Ken Thompson and Dennis M. Ritchie",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_7633b509ad",
+    "content": "As long as there are ill-defined goals, bizarre bugs, and unrealistic schedules, there will be Real Programmers willing to jump in and Solve The Problem, saving the documentation for later.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_d100f51a94",
+    "content": "As of next Thursday, UNIX will be flushed in favor of TOPS-10. Please update your programs.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c8cd34c481",
+    "content": "As of next Tuesday, C will be flushed in favor of COBOL. Please update your programs.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_46a8e618cf",
+    "content": "As of next week, passwords will be entered in Morse code.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_17b16d9dd3",
+    "content": "As the trials of life continue to take their toll, remember that there is always a future in Computer Maintenance. — National Lampoon, \"Deteriorata\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_8b20769953",
+    "content": "As Will Rogers would have said, \"There is no such things as a free variable.\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_daa88afc2c",
+    "content": "ASCII a stupid question, you get an EBCDIC answer.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_5f953f043c",
+    "content": "ASHes to ASHes, DOS to DOS.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_f1b27ca38a",
+    "content": "Ask not for whom the <CONTROL-G>\u0007 tolls.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_d1c07fe29f",
+    "content": "Assembly language experience is [important] for the maturity and understanding of how computers work that it provides. — D. Gries",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_522a423bca",
+    "content": "Asynchronous inputs are at the root of our race problems. — D. Winker and F. Prosser",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0fad679c51",
+    "content": "At first sight, the idea of any rules or principles being superimposed on the creative mind seems more likely to hinder than to help, but this is quite untrue in practice. Disciplined thinking focuses inspiration rather than blinkers it. — G. L. Glegg, \"The Design of Design\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_4d05c30f57",
+    "content": "At Group L, Stoffel oversees six first-rate programmers, a managerial challenge roughly comparable to herding cats. — The Washington Post Magazine, 9 June, 1985",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c211427ffb",
+    "content": "At the source of every error which is blamed on the computer you will find at least two human errors, including the error of blaming it on the computer.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_26a9435093",
+    "content": "Avoid strange women and temporary variables.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_931056579b",
+    "content": "Basic is a high level languish. APL is a high level anguish.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_09c343df39",
+    "content": "BASIC is the Computer Science equivalent of `Scientific Creationism'.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_f22c52d378",
+    "content": "BASIC is to computer programming as QWERTY is to typing. — Seymour Papert",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_2445a3ea9e",
+    "content": "Be careful when a loop exits to the same place from side and bottom.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_74126d9d2a",
+    "content": "Behind every great computer sits a skinny little geek.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_bf5a2b01db",
+    "content": "Bell Labs Unix -- Reach out and grep someone.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_fc4dbd053c",
+    "content": "Beware of bugs in the above code; I have only proved it correct, not tried it. — Donald Knuth",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_6df77d69ad",
+    "content": "Beware of Programmers who carry screwdrivers. — Leonard Brandwein",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_91ac640198",
+    "content": "Beware of the Turing Tar-pit in which everything is possible but nothing of interest is easy.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_e7a2b1fd11",
+    "content": "Blinding speed can compensate for a lot of deficiencies. — David Nichols",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_f36399272f",
+    "content": "Both models are identical in performance, functional operation, and interface circuit details. The two models, however, are not compatible on the same communications line connection. — Bell System Technical Reference",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_244728795f",
+    "content": "Brace yourselves. We're about to try something that borders on the unique: an actually rather serious technical book which is not only (gasp) vehemently anti-Solemn, but also (shudder) takes sides. I tend to think of it as `Constructive Snottiness.' — Mike Padlipsky, \"Elements of Networking Style\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ebe027b823",
+    "content": "Brain fried -- Core dumped",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_177d930554",
+    "content": "Breadth-first search is the bulldozer of science. — Randy Goebel",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ccfded3954",
+    "content": "Bringing computers into the home won't change either one, but may revitalize the corner saloon.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_fa09a6afb2",
+    "content": "Build a system that even a fool can use and only a fool will want to use it.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_6385925f86",
+    "content": "Building translators is good clean fun. — T. Cheatham",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_1b2bf86275",
+    "content": "Bus error -- driver executed.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_30fc8f745e",
+    "content": "Bus error -- please leave by the rear door.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_52ce534ac0",
+    "content": "But in our enthusiasm, we could not resist a radical overhaul of the system, in which all of its major weaknesses have been exposed, analyzed, and replaced with new weaknesses. — Bruce Leverett, \"Register Allocation in Optimizing Compilers\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c0b4479601",
+    "content": "\"But what we need to know is, do people want nasally-insertable computers?\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_5d2bd7c6fd",
+    "content": "By long-standing tradition, I take this opportunity to savage other designers in the thin disguise of good, clean fun. — P. J. Plauger, \"Computer Language\", 1988, April Fool's column.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_b617ee3ace",
+    "content": "BYTE editors are people who separate the wheat from the chaff, and then carefully print the chaff.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_7dd01ac1c0",
+    "content": "C Code. C Code Run. Run, Code, RUN! PLEASE!!!!",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ae2968b719",
+    "content": "C makes it easy for you to shoot yourself in the foot. C++ makes that harder, but when you do, it blows away your whole leg. — Bjarne Stroustrup",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_9f671ddb1e",
+    "content": "C'est magnifique, mais ce n'est pas l'Informatique. — Bosquet [on seeing the IBM 4341]",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_33f07adb92",
+    "content": "C++ is the best example of second-system effect since OS/360.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_23ff84d1d2",
+    "content": "Calm down, it's *only* ones and zeroes.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_87d84b2b84",
+    "content": "Can't open /usr/share/games/fortunes/fortunes. Lid stuck on cookie jar.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_e015aa0b06",
+    "content": "Can't open /usr/share/games/fortunes/fortunes.dat.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_95ddc60718",
+    "content": "CChheecckk yyoouurr dduupplleexx sswwiittcchh..",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_a886462843",
+    "content": "CCI Power 6/40: one board, a megabyte of cache, and an attitude...",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_f2640d3068",
+    "content": "Center meeting at 4pm in 2C-543.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_84804c5ee1",
+    "content": "Civilization, as we know it, will end sometime this evening. See SYSNOTE tomorrow for more information.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_1e587d7088",
+    "content": "COBOL is for morons. — E. W. Dijkstra",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_bda91a7667",
+    "content": "Cobol programmers are down in the dumps.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_8ad5c2c758",
+    "content": "Coding is easy; All you do is sit staring at a terminal until the drops of blood form on your forehead.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0c85596828",
+    "content": "COMPASS [for the CDC-6000 series] is the sort of assembler one expects from a corporation whose president codes in octal. — J. N. Gray",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_a4875fca19",
+    "content": "... computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude in performance-price gain in 30 years. — Fred Brooks",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_465481c384",
+    "content": "Computer programmers do it byte by byte.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_aec792ebab",
+    "content": "Computer programmers never die, they just get lost in the processing.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_2a491d95b8",
+    "content": "Computer programs expand so as to fill the core available.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_b5d4e2145e",
+    "content": "Computer Science is merely the post-Turing decline in formal systems theory.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ed41187361",
+    "content": "Computer Science is the only discipline in which we view adding a new wing to a building as being maintenance — Jim Horning",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_8d8c906ede",
+    "content": "Computers are not intelligent. They only think they are.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_e19b639279",
+    "content": "Computers are unreliable, but humans are even more unreliable. Any system which depends on human reliability is unreliable. — Gilb",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_86a34a79ea",
+    "content": "Computers are useless. They can only give you answers. — Pablo Picasso",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_aa11bacb64",
+    "content": "Computers can figure out all kinds of problems, except the things in the world that just don't add up.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_83ac28927e",
+    "content": "Computers don't actually think. You just think they think. (We think.)",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_e0c21d2d24",
+    "content": "Computers will not be perfected until they can compute how much more than the estimate the job will cost.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_956079d15e",
+    "content": "Conceptual integrity in turn dictates that the design must proceed from one mind, or from a very small number of agreeing resonant minds. — Frederick Brooks Jr., \"The Mythical Man Month\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c606e609b0",
+    "content": "Congratulations! You are the one-millionth user to log into our system. If there's anything special we can do for you, anything at all, don't hesitate to ask!",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_b409682340",
+    "content": "Couldn't we jury-rig the cat to act as an audio switch, and have it yell at people to save their core images before logging them out? I'm sure the cattle prod would be effective in this regard. In any case, a traverse mounted iguana, while more perverted, gives better traction, not to mention being easier to stake.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_bf6c996377",
+    "content": "Counting in binary is just like counting in decimal -- if you are all thumbs. — Glaser and Way",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_fcc64cf035",
+    "content": "Counting in octal is just like counting in decimal--if you don't use your thumbs. — Tom Lehrer",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_3f013738c4",
+    "content": "[Crash programs] fail because they are based on the theory that, with nine women pregnant, you can get a baby a month. — Wernher von Braun",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0212be1c23",
+    "content": "Crazee Edeee, his prices are INSANE!!!",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_22396cd4c5",
+    "content": "%DCL-MEM-BAD, bad memory VMS-F-PDGERS, pudding between the ears",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_62e942f48c",
+    "content": "Debug is human, de-fix divine.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_5bc8504160",
+    "content": "DEC diagnostics would run on a dead whale. — Mel Ferentz",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_de05efe44c",
+    "content": "Deliver yesterday, code today, think tomorrow.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0a869f71a3",
+    "content": "Did you know that for the price of a 280-Z you can buy two Z-80's? — P. J. Plauger",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_a84800d857",
+    "content": "Different all twisty a of in maze are you, passages little.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_25a46d894e",
+    "content": "Digital circuits are made from analog parts. — Don Vonada",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_98d34ac13e",
+    "content": "Disc space -- the final frontier!",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_3ccc1d9587",
+    "content": "DISCLAIMER: Use of this advanced computing technology does not imply an endorsement of Western industrial civilization.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_369b3502a6",
+    "content": "Disclaimer: \"These opinions are my own, though for a small fee they be yours too.\" — Dave Haynie",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_1d68436c2c",
+    "content": "Disk crisis, please clean up!",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_0e2f20e289",
+    "content": "Disraeli was pretty close: actually, there are Lies, Damn lies, Statistics, Benchmarks, and Delivery dates.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_120022499a",
+    "content": "Do not meddle in the affairs of troff, for it is subtle and quick to anger.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_b494c2d4bc",
+    "content": "Do not simplify the design of a program if a way can be found to make it complex and wonderful.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_647e92299a",
+    "content": "Do not use the blue keys on this terminal.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_721e207bb9",
+    "content": "Do you guys know what you're doing, or are you just hacking?",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_50f5a49061",
+    "content": "Documentation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing. — Dick Brandon",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_40b22ca76f",
+    "content": "Documentation is the castor oil of programming. Managers know it must be good because the programmers hate it so much.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_df4262383b",
+    "content": "Does a good farmer neglect a crop he has planted? Does a good teacher overlook even the most humble student? Does a good father allow a single child to starve? Does a good programmer refuse to maintain his code? — Geoffrey James, \"The Tao of Programming\"",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_dcb5e6384d",
+    "content": "Don't compare floating point numbers solely for equality.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_90ac1dffa3",
+    "content": "Don't get suckered in by the comments -- they can be terribly misleading. Debug only code. — Dave Storer",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_f1a24f799e",
+    "content": "Don't hit the keys so hard, it hurts.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_cc488ab48d",
+    "content": "Don't sweat it -- it's only ones and zeros. — P. Skelly",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_1552c1b937",
+    "content": "DOS Air: All the passengers go out onto the runway, grab hold of the plane, push it until it gets in the air, hop on, jump off when it hits the ground again. Then they grab the plane again, push it back into the air, hop on, et cetera.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_b98a700afd",
+    "content": "Due to lack of disk space, this fortune database has been discontinued.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_d85f81a71e",
+    "content": "During the next two hours, the system will be going up and down several times, often with lin~po_~{po ~poz~ppo\\~{ o n~po_\u0007~{o[po ~y oodsou>#w4k**n~po_\u0007~{ol;lkld;f;g;dd;po\\~{o",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ed6a37aed9",
+    "content": "Each new user of a new system uncovers a new class of bugs. — Kernighan",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_4fe91b1935",
+    "content": "/earth is 98% full ... please delete anyone you can.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_783851d4cb",
+    "content": "/earth: file system full.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c15a540c50",
+    "content": "Error in operator: add beer",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_012f5fcb4b",
+    "content": "Established technology tends to persist in the face of new technology. — G. Blaauw, one of the designers of System 360",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_3c117ec607",
+    "content": "<<<<< EVACUATION ROUTE <<<<<",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_1484b2340a",
+    "content": "Even bytes get lonely for a little bit.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_74b56a10a2",
+    "content": "Every program has at least one bug and can be shortened by at least one instruction -- from which, by induction, one can deduce that every program can be reduced to one instruction which doesn't work.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_6ca8498b8a",
+    "content": "Every program is a part of some other program, and rarely fits.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_40f555323d",
+    "content": "Every Solidarity center had piles and piles of paper ... everyone was eating paper and a policeman was at the door. Now all you have to do is bend a disk. — A member of the outlawed Polish trade union, Solidarity, commenting on the benefits of using computers in support of their movement.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_af72071c58",
+    "content": "Everybody needs a little love sometime; stop hacking and fall in love!",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_858a9bc3e2",
+    "content": "Everyone can be taught to sculpt: Michelangelo would have had to be taught how not to. So it is with the great programmers.",
+    "category": "cs_geek",
+    "tags": [
+      "ComputerScience",
+      "Programming",
+      "Hacker"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_f5e4f73b9b",
+    "content": "Logic doesn't apply to the real world. — Marvin Minsky",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_394b840f43",
+    "content": "Sendmail may be safely run set-user-id to root. — Eric Allman, \"Sendmail Installation Guide\"",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_ad335177ff",
+    "content": "The Analytical Engine weaves Algebraical patterns just as the Jacquard loom weaves flowers and leaves. — Ada Augusta, Countess of Lovelace, the first programmer",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_bd53a6c361",
+    "content": "The meta-Turing test counts a thing as intelligent if it seeks to devise and apply Turing tests to objects of its own creation. — Lew Mammel, Jr.",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_62be1ae7c2",
+    "content": "The problem with engineers is that they tend to cheat in order to get results. The problem with mathematicians is that they tend to work on toy problems in order to get results. The problem with program verifiers is that they tend to cheat at toy problems in order to get results.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_069d8df6bd",
+    "content": "The proof that IBM didn't invent the car is that it has a steering wheel and an accelerator instead of spurs and ropes, to be compatible with a horse. — Jac Goudsmit",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_569a577271",
+    "content": "They seem to have learned the habit of cowering before authority even when not actually threatened. How very nice for authority. I decided not to learn this particular lesson. — Richard Stallman",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_504857a7ab",
+    "content": "Those parts of the system that you can hit with a hammer (not advised) are called hardware; those program instructions that you can only curse at are called software. — Levitating Trains and Kamikaze Genes: Technological Literacy for the 1990's.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_3ee29c02b5",
+    "content": "Unix gives you just enough rope to hang yourself -- and then a couple of more feet, just to be sure. — Eric Allman ... We make rope. — Rob Gingell on Sun Microsystem's new virtual memory.",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_c1f55fd2e9",
+    "content": "UNIX was half a billion (500000000) seconds old on Tue Nov 5 00:53:20 1985 GMT (measuring since the time(2) epoch). — Andy Tanenbaum",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_8357f79c4f",
+    "content": "\"We are on the verge: Today our program proved Fermat's next-to-last theorem.\" — Epigrams in Programming, ACM SIGPLAN Sept. 1982",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_62da06ee0e",
+    "content": "You have a massage (from the Swedish prime minister).",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_e9f1941e29",
+    "content": "You must realize that the computer has it in for you. The irrefutable proof of this is that the computer always does what you tell it to do.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "fortune_computers"
+  },
+  {
+    "id": "stem_93cc7e5faa",
+    "content": "3 logicians walk into a bar. The bartender asks: Do all of you want a drink? The first logician says \"I don't know\". The second logician says \"I don't know\" the third logician says \"Yes!\"",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  },
+  {
+    "id": "stem_877d52400b",
+    "content": "Artificial intelligence usually beats real stupidity.",
+    "category": "ai_ml",
+    "tags": [
+      "AI",
+      "MachineLearning",
+      "NeuralNetwork"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  },
+  {
+    "id": "stem_71933894fe",
+    "content": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far the Universe is winning.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  },
+  {
+    "id": "stem_6b91470ad3",
+    "content": "Enter any 11-digit prime number to continue.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  },
+  {
+    "id": "stem_fc9ca97dfa",
+    "content": "An infinite crowd of mathematicians enters a bar. The first one orders a pint... the second one a half pint... the third one a quarter pint… “I understand”... says the bartender – and pours two pints.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  },
+  {
+    "id": "stem_2da63afe0c",
+    "content": "If, by some incredible space-time paradox, Chuck Norris would ever fight himself, he'd win. Period.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  },
+  {
+    "id": "stem_c799ebf4ca",
+    "content": "In the movie \"The Matrix\", Chuck Norris is the Matrix. If you pay close attention in the green \"falling code\" scenes, you can make out the faint texture of his beard.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  },
+  {
+    "id": "stem_f5129cb1e5",
+    "content": "Chuck Norris doesn't bug hunt as that signifies a probability of failure, he goes bug killing.",
+    "category": "math_logic",
+    "tags": [
+      "Math",
+      "Logic",
+      "Theory"
+    ],
+    "language": "zh",
+    "source": "geek_joke_api"
+  }
+]
