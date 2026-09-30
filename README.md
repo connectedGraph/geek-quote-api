@@ -19,6 +19,14 @@
 - SQLite 数据库仅由 Rust 实现按需生成；Node.js 和 Python 使用内存 JSON，不需要数据库服务
 - MIT License
 
+## Provenance and authorship
+
+`pipeline/` is original project code written and maintained for this repository. It includes the corpus extraction, rule-based classification, exact and fuzzy deduplication, category balancing, bilingual translation prompts, XML batch parser, rate limiting, checkpointing and dataset merge steps. It is part of the project, not an upstream dependency.
+
+The quote corpus is a curated combination of project-authored/editorially written seed entries and material collected from public upstream sources. The source labels preserved in the data include `fortune-mod/computers`, `fortune-mod/science`, `alkashef/data-science-quotes`, `kbroman/datasciquotes`, `TheJeffDeanFacts`, and other named sources. The original source label is retained in `source`, `source_zh` and `source_en` whenever available.
+
+The bilingual fields are produced and reviewed through our translation pipeline; they should not be interpreted as a claim that the underlying third-party quotations are original to this project. See [pipeline/SOURCES.md](pipeline/SOURCES.md) for the current source inventory, authorship boundaries and contribution rules.
+
 ## Quickstart
 
 ### Rust
@@ -150,7 +158,7 @@ curl "http://127.0.0.1:3000/api/quotes?search=gradient&limit=5"
 
 ## Data pipeline
 
-The data processing tools are under `pipeline/`:
+The data processing tools under `pipeline/` are maintained by this project. The checked-in JSON files are dataset snapshots generated from the raw sources; update the raw inputs and rerun the pipeline instead of editing generated output manually.
 
 ```bash
 node pipeline/scripts/expand_corpus.js
@@ -160,6 +168,8 @@ node pipeline/scripts/batch_translate_xml.js
 ```
 
 Translation scripts expect an OpenAI-compatible local endpoint at `http://localhost:8081/v1/chat/completions`. They are optional and are not needed to run any API implementation.
+
+See [pipeline/SOURCES.md](pipeline/SOURCES.md) before adding upstream material or redistributing a dataset snapshot.
 
 ## Tests
 
