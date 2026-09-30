@@ -15,10 +15,7 @@ use crate::db::Db;
 /// 智能探测并解析 SQLite 数据库物理路径
 fn resolve_db_path() -> PathBuf {
     if let Ok(env_path) = std::env::var("GEEK_DB_PATH") {
-        let p = PathBuf::from(env_path);
-        if p.exists() {
-            return p;
-        }
+        return PathBuf::from(env_path);
     }
 
     let candidates = [
@@ -52,10 +49,7 @@ fn resolve_db_path() -> PathBuf {
 /// 智能探测并解析前端静态资源目录
 fn resolve_static_dir() -> PathBuf {
     if let Ok(env_path) = std::env::var("GEEK_STATIC_DIR") {
-        let p = PathBuf::from(env_path);
-        if p.exists() {
-            return p;
-        }
+        return PathBuf::from(env_path);
     }
 
     let candidates = [
@@ -156,7 +150,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .parse()
         .unwrap_or(3000);
 
-    let addr = SocketAddr::from(([0, 0, 0, 0], port));
+    let host = std::env::var("HOST").unwrap_or_else(|_| "127.0.0.1".to_string());
+    let ip: std::net::IpAddr = host.parse().unwrap_or_else(|_| {
+        eprintln!("[Rust Server] 无法解析 HOST={}，回退到 127.0.0.1", host);
+        "127.0.0.1".parse().expect("valid loopback address")
+    });
+    let addr = SocketAddr::from((ip, port));
     println!("\n========================================================");
     println!("  Geek Quote API 服务已就绪 (Rust + SQLite + TypeScript)");
     println!("  - 本地监听:    http://127.0.0.1:{}", port);

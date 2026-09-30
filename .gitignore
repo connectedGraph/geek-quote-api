@@ -1,12 +1,13 @@
 # Rust
 /target
-Cargo.lock
+# This is an application/binary crate, so Cargo.lock is intentionally committed.
 
 # Node / Frontend
 node_modules/
 frontend/node_modules/
 .npm
 .eslintcache
+.pnpm-store/
 
 # SQLite Runtime DB
 data/*.db
@@ -17,6 +18,10 @@ data/*.db
 *.log
 .env
 .env.local
+.venv/
+venv/
+__pycache__/
+*.py[cod]
 
 # OS
 .DS_Store

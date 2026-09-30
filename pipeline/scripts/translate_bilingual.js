@@ -5,8 +5,8 @@ import { fileURLToPath } from 'node:url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const INPUT_FILE = path.resolve(__dirname, '../data/quotes.json');
-const OUTPUT_FILE = path.resolve(__dirname, '../data/quotes_bilingual.json');
+const INPUT_FILE = path.resolve(__dirname, '../../data/quotes.json');
+const OUTPUT_FILE = path.resolve(__dirname, '../../data/quotes_bilingual.json');
 
 const API_BASE = 'http://localhost:8081/v1/chat/completions';
 const API_KEY = 'sk-gemini-local';
